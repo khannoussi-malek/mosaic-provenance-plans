@@ -4,7 +4,8 @@ Read once (Claude, graph/claude_events_*.json), check every quote against the so
 (graph/owner_aliases.json), link owners to the Red Flag list, and write graph/graph.json:
   artworks  id -> title, artist
   owners    canonical name -> names as written, roles, Red Flag list keys
-  holdings  one edge per ownership step: artwork, owner, order, year, until (next dated step), quote
+  holdings  one edge per ownership step: artwork, owner, order, year, until (next dated step, else the year the
+            museum acquired the work), quote
 Usage: python3 graph.py
 """
 import json
@@ -34,9 +35,11 @@ def load_aliases():
 
 def build(docs, results, aliases, keys, rx):
     owners, holdings = {}, []
+    museum = museum_steps(docs)
     for d in docs:
         events = [e for e in results[d["id"]]["events"] if e["span_ok"]]
         years = [e["year"] if isinstance(e.get("year"), int) else None for e in events]
+        gift = (museum.get(d["id"]) or {}).get("year")  # the last private holding ends when the museum acquires the work
         for i, e in enumerate(events):
             canon = aliases.get(e["owner"], e["owner"])
             o = owners.setdefault(canon, {"names": [], "roles": [], "red_flag": []})
@@ -46,10 +49,10 @@ def build(docs, results, aliases, keys, rx):
             holdings.append({"artwork": d["id"], "owner": canon, "as_written": e["owner"], "order": i,
                              "role": e["role"], "date": e.get("date"), "year": years[i],
                              "since": next((y for y in reversed(years[:i]) if y is not None), None),  # last date before
-                             "until": next((y for y in years[i + 1:] if y is not None), None),
+                             "until": next((y for y in years[i + 1:] if y is not None), gift),
                              "quote": e["source_span"], "joint": bool(e.get("joint")), "hedge": e.get("hedge")})
     artworks = {d["id"]: {"title": d["title"], "artist": d.get("artist")} for d in docs}
-    return {"artworks": artworks, "owners": owners, "holdings": holdings, "museum": museum_steps(docs)}
+    return {"artworks": artworks, "owners": owners, "holdings": holdings, "museum": museum}
 
 
 def museum_steps(docs):

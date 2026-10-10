@@ -47,7 +47,7 @@ cd demo
 python3 results.py        # every plan with 95% intervals -> out/results.json
 python3 score.py out/run_P1.json out/run_P2.json out/run_P3.json --ci
 python3 figure.py         # -> docs/figure.svg
-python3 -m unittest      # 104 tests: rules, published numbers, evidence, ask.py, graph
+python3 -m unittest      # 125 tests: rules, published numbers, evidence, ask.py, graph
 ```
 
 To recompute from scratch, delete `demo/cache/` and run `caffeinate -i sh run_queue.sh` (about two hours on an Apple M4

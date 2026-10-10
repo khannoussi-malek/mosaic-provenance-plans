@@ -124,6 +124,39 @@ class HoldingPeriod(unittest.TestCase):
         self.assertEqual(s.plan_verdict(events, KEYS, RX), "not flagged")
 
 
+class FrontEndReading(unittest.TestCase):
+    """frontend=True is opt-in for the question front ends; the default stays the published definition."""
+
+    def test_auction_is_an_event_at_its_own_year_not_a_holding(self):
+        for e in (dict(ev("Paul Graupe", 1935), source_span="(sale, Paul Graupe, Berlin, 12 October 1935, no. 64)"),
+                  ev("Paul Graupe", 1935, role="auction")):
+            events = [e, ev("Someone Else", 1975)]
+            with self.subTest(span=e["source_span"]):
+                y6070 = range(1960, 1971)
+                self.assertEqual(s.plan_verdict(events, KEYS, RX, y6070), "flagged")  # published: held until 1975
+                self.assertEqual(s.plan_verdict(events, KEYS, RX, y6070, frontend=True), "not flagged")
+                self.assertEqual(s.plan_verdict(events, KEYS, RX, range(1933, 1946), frontend=True), "flagged")
+                self.assertEqual(s.flag_events(events, KEYS, RX, y6070, frontend=True), [])
+
+    def test_private_sale_is_not_taken_as_an_auction(self):
+        e = dict(ev("Karl Haberstock", 1935), source_span="(private sale to Karl Haberstock, Berlin, 1935)")
+        self.assertEqual(s.plan_verdict([e, ev("Someone Else", 1975)], KEYS, RX, range(1960, 1971), frontend=True), "flagged")
+
+    def test_museum_acquisition_ends_the_last_holding(self):
+        events = [dict(ev("Karl Haberstock", 1928), museum_year=1939)]
+        y = range(1960, 1971)
+        self.assertEqual(s.plan_verdict(events, KEYS, RX, y), "not decided")  # published: open-ended
+        self.assertEqual(s.plan_verdict(events, KEYS, RX, y, frontend=True), "not flagged")
+        self.assertEqual(s.plan_verdict(events, KEYS, RX, range(1933, 1946), frontend=True), "flagged")
+
+    def test_prepare_keeps_the_museums_year_without_counting_it_as_an_owner(self):
+        docs = [{"id": "x", "provenance_text": "sold to Karl Haberstock, Berlin; gift 1939 to NGA."}]
+        results = {"x": {"id": "x", "events": [{"owner": "Karl Haberstock", "source_span": "Karl Haberstock, Berlin"},
+                                               {"owner": "National Gallery of Art", "year": 1939, "source_span": "gift 1939 to NGA"}]}}
+        events = s.prepare(docs, results)["x"]["events"]
+        self.assertEqual([(e["owner"], e["museum_year"]) for e in events], [("Karl Haberstock", 1939)])
+
+
 class Scoring(unittest.TestCase):
     def test_prf_known_values_and_zero_division(self):
         self.assertEqual(s.prf(8, 2, 2), {"P": 0.8, "R": 0.8, "F1": 0.8})

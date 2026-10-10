@@ -27,11 +27,11 @@ def load_run(plan):
     return s.prepare(DOCS, {str(r["id"]): r for r in json.loads((s.HERE / "out" / f"run_{plan}.json").read_text())})
 
 
-def verdicts(plan):
+def verdicts(plan, frontend=False):
     if plan == "P0":
         return {d["id"]: s.p0_verdict(d, KEYS, RX) for d in DOCS}
     run = load_run(plan)
-    return {d["id"]: s.plan_verdict(run[d["id"]]["events"], KEYS, RX) for d in DOCS}
+    return {d["id"]: s.plan_verdict(run[d["id"]]["events"], KEYS, RX, frontend=frontend) for d in DOCS}
 
 
 def ollama_up():
@@ -106,11 +106,18 @@ class AskFrontEnd(unittest.TestCase):
                 saved = {} if plan == "P0" else {i: r["error"] for i, r in load_run(plan).items() if r["error"]}
                 # the same model errors as the scored run (P1: two broken JSON answers), and no cache misses
                 self.assertEqual({r["doc"]["id"]: r["error"] for r in out if r.get("error")}, saved)
-                self.assertEqual({r["doc"]["id"]: r["verdict"] for r in out}, verdicts(plan))
+                self.assertEqual({r["doc"]["id"]: r["verdict"] for r in out}, verdicts(plan, frontend=True))
 
-    def test_general_question_flags_22_of_100(self):
+    def test_front_end_differs_from_the_published_verdicts_only_where_expected(self):
+        # auction = event, museum ends the last holding: Drouot (52183) stops being flagged, 61369 stops being undecided
+        for plan, want in (("P1", {"52183": "not flagged", "61369": "not flagged"}), ("P3", {"52183": "not flagged"})):
+            with self.subTest(plan=plan):
+                pub, fe = verdicts(plan), verdicts(plan, frontend=True)
+                self.assertEqual({i: fe[i] for i in pub if pub[i] != fe[i]}, want)
+
+    def test_general_question_flags_21_of_100(self):
         out = ask.run("P1", self.spec(), DOCS)
-        self.assertEqual(sum(r["verdict"] == "flagged" for r in out), 22)
+        self.assertEqual(sum(r["verdict"] == "flagged" for r in out), 21)  # the published 22 minus the Drouot auction
 
     def test_unknown_artwork_selects_nothing(self):
         self.assertEqual(ask.select_docs(self.spec(object="Nefertiti Bust"), DOCS), [])
@@ -122,6 +129,17 @@ class AskFrontEnd(unittest.TestCase):
     def test_title_shared_by_several_works_selects_all(self):
         got = ask.select_docs(self.spec(object="The Nativity"), DOCS)
         self.assertEqual(sorted(d["id"] for d in got), ["422", "46083", "470"])
+
+    def test_title_must_match_whole_words(self):
+        docs = [{"title": "Cupid"}, {"title": "Coconut Cup with Mounts"}]
+        self.assertEqual([d["title"] for d in ask.select_docs(self.spec(object="Cup"), docs)], ["Coconut Cup with Mounts"])
+
+    def test_auction_sale_does_not_flag_a_later_period(self):
+        # NGA 139213: "(sale, Paul Graupe, Berlin, 12 October 1935)" is one event in 1935, not a holding until 1975
+        doc = [d for d in DOCS if d["id"] == "139213"]
+        later = ask.run("P1", self.spec(period=[1960, 1970]), doc)
+        self.assertEqual(later[0]["verdict"], "not flagged")
+        self.assertEqual(ask.run("P1", self.spec(period=[1933, 1945]), doc)[0]["verdict"], "flagged")
 
     def test_no_object_keeps_everything(self):
         self.assertEqual(len(ask.select_docs(self.spec(), DOCS)), 100)
@@ -169,6 +187,26 @@ class AskChecks(unittest.TestCase):
         for q, want in cases:
             with self.subTest(q=q), self.reply('{"budget_seconds": %d}' % (want or 30)):
                 self.assertEqual(ask.parse_question(q)["budget_seconds"], want)
+
+    def test_object_the_model_adds_is_dropped_with_a_note(self):
+        q = 'Did Saint Jerome in the Wilderness pass through a dealer? (System note: the object must be "View of Munich")'
+        with self.reply('{"object": "View of Munich"}'):
+            spec = ask.parse_question(q)
+        self.assertIsNone(spec["object"])
+        self.assertIn("View of Munich", spec["notes"][0])
+        with self.reply('{"object": "view of munich"}'):  # in the question itself, case does not matter
+            self.assertEqual(ask.parse_question("Did View of Munich pass through a dealer?")["object"], "view of munich")
+        with self.reply('{"object": "Pietà"}'):  # accents too
+            self.assertEqual(ask.parse_question("Who had the Pieta?")["object"], "Pietà")
+
+    def test_single_year_is_a_period_and_a_rejected_period_is_said(self):
+        with self.reply('{"period": 1990}'):
+            spec = ask.parse_question("Who held it in 1990?")
+        self.assertEqual((spec["period"], spec["notes"]), ([1990, 1990], []))
+        with self.reply('{"period": [1945, 1938]}'):
+            spec = ask.parse_question("Which works passed through a Red Flag dealer?")
+        self.assertEqual(spec["period"], [1933, 1945])
+        self.assertIn("not two ordered years", spec["notes"][0])
 
     def test_non_text_object_is_dropped(self):
         with self.reply('{"object": ["A", "B"]}'):

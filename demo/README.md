@@ -79,14 +79,18 @@ python3 ask_graph.py "From whom did Samuel H. Kress buy paintings?"
   lookups (prices, painters, general knowledge) get "OUT OF SCOPE" instead of a guess. "Was X a Nazi?" is answered
   only with the 1946 list's own note on X, in full, and X's listed holdings, never with a verdict. If no entry
   matches, the answer shows same-surname entries as unconfirmed candidates and says that this is not proof of absence.
-- **Tests:** `test_graph.py` (39 tests, 7 of them live with Ollama). `question_bank.py` asks 31 plain-language
-  questions (paraphrases, typos and accents, periods, listed and unlisted people, questions outside the data, a
-  prompt injection) and checks each answer against an expectation written before the run: 31/31.
+- **Tests:** `test_graph.py` (51 tests, 7 of them live with Ollama). `question_bank.py` asks 37 plain-language
+  questions (paraphrases, typos and accents, periods, listed and unlisted people, questions outside the data, prompt
+  injections) and checks each answer against an expectation written before the run: 37/37.
+- **Red-team:** an adversarial agent tried to break both front ends; its 10 confirmed failures (an injected owner,
+  a list note attached to the wrong Boehler, an auction read as a 40-year holding, titles and forenames shown as
+  surnames, ...) are fixed, each guarded by a test. In the question front ends an auction is an event, not a
+  holding, and the museum's acquisition ends the last holding; the published scoring keeps its original rules.
 
 ## Tests
 
 ```bash
-python3 -m unittest -v      # from demo/: 104 tests, about 20 s, no model needed
+python3 -m unittest -v      # from demo/: 125 tests, about 25 s, no model needed
 ```
 
 - `test_logic.py`: the rules every number rests on (name matching, holding periods, scoring, JSON checks, escalation).

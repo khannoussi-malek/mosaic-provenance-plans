@@ -35,7 +35,10 @@ def prepare(docs, results):
     texts = {d["id"]: norm(d["provenance_text"]) for d in docs}
     for r in results.values():
         text = texts.get(str(r["id"]), "")
-        r["events"] = [dict(e, span_ok=bool(e.get("source_span")) and norm(e["source_span"]) in text)
+        last = (r["events"] or [{}])[-1]
+        mine = bool(tokens(last.get("owner", ""))) and tokens(last["owner"]) <= RECEIVER
+        year = last.get("year") if mine and isinstance(last.get("year"), int) and norm(last.get("source_span") or "\0") in text else None
+        r["events"] = [dict(e, span_ok=bool(e.get("source_span")) and norm(e["source_span"]) in text, museum_year=year)
                        for e in r["events"] if not (tokens(e["owner"]) and tokens(e["owner"]) <= RECEIVER)]
     return results
 
@@ -70,15 +73,29 @@ def p0_verdict(doc, keys, rx):
     return "flagged" if match(doc["provenance_text"], rx, keys, tier="fullname") else "not flagged"
 
 
-def holding_status(events, i, keys, rx, years=WAR):
+AUCTION = re.compile(r"\((?!private)(?:[\w.']+\s+){0,2}sale\b|\bauctions?\b", re.I)  # "(sale, Paul Graupe, Berlin, 1935"
+
+
+def is_auction(ev):
+    """The extractor's role says auction, or the quote itself reads as a sale at auction (P1 often tags it "dealer")."""
+    return ev.get("role") == "auction" or bool(AUCTION.search(ev.get("source_span") or ""))
+
+
+def holding_status(events, i, keys, rx, years=WAR, frontend=False):
     """For a supported Red Flag event: 'flagged' if the owner's holding period (this event's year to the next dated
-    event) meets the period, 'not decided' if the dates cannot tell, None otherwise or if the event does not count."""
+    event) meets the period, 'not decided' if the dates cannot tell, None otherwise or if the event does not count.
+    frontend=True is the reading the question front ends use, off by default so the published numbers stay as
+    reported: an auction is an event at its own year, not a holding (the documented Drouot issue), and the last
+    holder's holding ends when the museum acquires the work (prepare keeps that year as museum_year)."""
     ev = events[i]
     if not ev.get("span_ok") or not match(forward(ev["owner"]), rx, keys, tier="fullname"):
         return None
+    if frontend and is_auction(ev):
+        y = ev.get("year") if isinstance(ev.get("year"), int) else None
+        return "not decided" if y is None else "flagged" if years[0] <= y <= years[-1] else None
     dated = [e.get("year") if isinstance(e.get("year"), int) and e.get("span_ok") else None for e in events]  # an unverified step never ends a holding
     start = dated[i]
-    end = next((y for y in dated[i + 1:] if y is not None), None)
+    end = next((y for y in dated[i + 1:] if y is not None), ev.get("museum_year") if frontend else None)
     if (start is None or start <= years[-1]) and (end is None or end >= years[0]) and (start or end):
         lo, hi = start or end, end or start
         if lo <= years[-1] and hi >= years[0]:
@@ -88,16 +105,16 @@ def holding_status(events, i, keys, rx, years=WAR):
     return None
 
 
-def plan_verdict(events, keys, rx, years=WAR):
+def plan_verdict(events, keys, rx, years=WAR, frontend=False):
     """An owner held the object from their event's year until the next dated event; flag if that span meets the period.
     Same definition as silver_label (holding interval overlaps the period). Unsupported events never count (QR-1)."""
-    status = [holding_status(events, i, keys, rx, years) for i in range(len(events))]
+    status = [holding_status(events, i, keys, rx, years, frontend) for i in range(len(events))]
     return "flagged" if "flagged" in status else "not decided" if "not decided" in status else "not flagged"
 
 
-def flag_events(events, keys, rx, years=WAR):
+def flag_events(events, keys, rx, years=WAR, frontend=False):
     """The events that make a document flagged: the evidence an answer should cite."""
-    return [e for i, e in enumerate(events) if holding_status(events, i, keys, rx, years) == "flagged"]
+    return [e for i, e in enumerate(events) if holding_status(events, i, keys, rx, years, frontend) == "flagged"]
 
 
 def owner_scores(docs, results):

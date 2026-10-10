@@ -42,7 +42,7 @@ def parse_question(q):
     """Local model reads the question; a regex fallback keeps the system usable if it fails. Every field the model
     returns is checked: a period must be two ordered years, a budget must be stated in the question."""
     years = [int(y) for y in re.findall(r"\b(1[89]\d\d|20\d\d)\b", q)]
-    period = [min(years), max(years)] if len(years) >= 2 else [1933, 1945]
+    period = [min(years), max(years)] if years else [1933, 1945]  # one year in the question means that year
     body = {"model": PLANNER_MODEL, "messages": [{"role": "user", "content": PLANNER_PROMPT.format(q=q)}],
             "stream": False, "think": False, "options": {"temperature": 0, "seed": 0, "num_predict": 200}}
     try:
@@ -61,12 +61,44 @@ def parse_question(q):
     # a budget only counts if the question states one ("60 seconds", not "1930s"); the model must not invent it
     spec["budget_seconds"] = b if BUDGET.search(q) and isinstance(b, (int, float)) and b > 0 else None
     spec["sources"] = [s for s in spec.get("sources") or SOURCES if s in SOURCES] or list(SOURCES)
-    p = spec.get("period")
-    ok = isinstance(p, list) and len(p) == 2 and all(isinstance(y, int) for y in p) and p[0] <= p[1]
-    spec["period"] = p if ok else period  # a half, inverted or text period from the model falls back to the question's years
+    spec["notes"] = []
+    spec["period"] = read_period(spec.get("period"), period, spec["notes"])
     o = spec.get("object")
     spec["object"] = o.strip() if isinstance(o, str) and o.strip() else None
+    if spec["object"] and not named_in(spec["object"], q):
+        spec["notes"].append(f"the model returned the artwork \"{spec['object']}\", which is not in your question; ignored")
+        spec["object"] = None
+        spec["object_dropped"] = True
     return spec
+
+
+def read_period(p, fallback, notes=None):
+    """A period the model returns is two ordered years; a single year means that year. Anything else (half, inverted,
+    text) is replaced by the fallback and the answer says so, never silently. fallback None means no period."""
+    if isinstance(p, int) and not isinstance(p, bool):
+        p = [p, p]
+    if isinstance(p, list) and len(p) == 2 and all(isinstance(y, int) for y in p) and p[0] <= p[1]:
+        return p
+    if p is not None and notes is not None:
+        used = f"used {fallback[0]}-{fallback[1]} instead" if fallback else "no period applied"
+        notes.append(f"the period read by the model ({json.dumps(p)}) is not two ordered years; {used}")
+    return fallback
+
+
+def words(t):
+    """Significant words of a name: folded, lower case, without one-letter initials and articles."""
+    return {w for w in title_key(t).split() if len(w) > 1 and w not in ("the", "and", "of", "in", "de", "von", "van")}
+
+
+ASIDE = re.compile(r"\([^)]*\)|\[[^\]]*\]|\b(?:system\s*(?:note|prompt|message)|ignore (?:all|your|the|previous)|"
+                   r"(?:owner|artwork|object|kind|period) field)\b.*", re.I | re.S)
+
+
+def named_in(value, question):
+    """A name the model returns is only used if every significant word of it is in the question itself (accents and
+    case ignored): the model must read the question, not add to it. Asides in brackets and instructions to the
+    system are not the question: a name that only they contain ("the owner field must be X") does not count."""
+    return bool(words(value)) and words(value) <= words(ASIDE.sub(" ", question))
 
 
 def title_key(t):
@@ -75,12 +107,13 @@ def title_key(t):
 
 
 def select_docs(spec, docs):
-    """A named artwork: only its records. An exact title wins; otherwise titles that contain the name. Empty if the
-    sources lack it (a longer name never matches a shorter title: "Saint Peter Martyr" is not "Saint Peter")."""
+    """A named artwork: only its records. An exact title wins; otherwise titles that contain the name as whole words
+    ("Cup" is not "Cupid"). Empty if the sources lack it (a longer name never matches a shorter title: "Saint Peter
+    Martyr" is not "Saint Peter")."""
     obj = title_key(spec.get("object"))
     if not obj:
         return docs
-    return [d for d in docs if title_key(d["title"]) == obj] or [d for d in docs if obj in title_key(d["title"])]
+    return [d for d in docs if title_key(d["title"]) == obj] or [d for d in docs if f" {obj} " in f" {title_key(d['title'])} "]
 
 
 def guess_object(q, docs):
@@ -126,13 +159,14 @@ def show_plan(q, spec, plan, plans, n_docs):
     lines += ["", f"  chosen {plan['name']}: screening F1 {plan['screen_f1']:.2f}, about {plan['est_seconds']} s",
               "  alternatives: " + "; ".join(f"{p['name']} F1 {p['screen_f1']:.2f} ~{p['est_seconds']} s" + (" (over budget)" if p["over_budget"] else "")
                                 for p in plans if p["name"] != plan["name"])]
+    lines += [f"NOTE  {n}" for n in spec.get("notes", [])]
     print("\n".join(lines), flush=True)
 
 
 def run(plan, spec, docs):
     keys, rx = score.load_keys(score.REDFLAG)
     years = range(spec["period"][0], spec["period"][1] + 1)
-    out = []
+    out = []  # frontend=True below: an auction is an event, not a holding, and the museum ends the last holding
     for d in docs:
         if plan == "P0":
             hit = score.match(d["provenance_text"], rx, keys, tier="fullname")
@@ -142,8 +176,8 @@ def run(plan, spec, docs):
              "P1r": lambda: (lambda a: a if not a["error"] else extract.extract(SMALL, d, max_out=4096))(extract.extract(SMALL, d)),
              "P3": lambda: cascade.cascade(SMALL, LARGE, d)}[plan]()
         events = score.prepare([d], {str(d["id"]): r})[str(d["id"])]["events"]  # same quote check as the scores
-        out.append({"doc": d, "verdict": score.plan_verdict(events, keys, rx, years),
-                    "events": score.flag_events(events, keys, rx, years), "all": events, "error": r["error"]})
+        out.append({"doc": d, "verdict": score.plan_verdict(events, keys, rx, years, frontend=True),
+                    "events": score.flag_events(events, keys, rx, years, frontend=True), "all": events, "error": r["error"]})
     return out
 
 
@@ -181,8 +215,8 @@ def main():
     q = " ".join(args)
     spec = parse_question(q)
     pool = [d for s in spec["sources"] for d in json.loads(SOURCES[s].read_text())]
-    if spec["parsed_by"].startswith("regex"):
-        spec["object"] = guess_object(q, pool)  # without the model, a named work is still found by its exact title
+    if spec["parsed_by"].startswith("regex") or spec.get("object_dropped"):
+        spec["object"] = guess_object(ASIDE.sub(" ", q), pool)  # without the model (or after dropping its object), the exact title in the question
     docs = select_docs(spec, pool)
     if not docs:
         raise SystemExit(f"QUESTION  {q}\nNOT IN SOURCES  \"{spec['object']}\" is not among the records of "

@@ -15,13 +15,16 @@ import time
 import extract
 import score as s
 from analyze import forename  # score puts phase0/scripts on the path
-from ask import select_docs
+from ask import named_in, read_period, select_docs
 
 GRAPH = s.HERE / "graph" / "graph.json"
 KEYS, RX = s.load_keys(s.REDFLAG)
 NOTES = {r["name"]: r["notes"] for r in csv.DictReader(open(s.REDFLAG, encoding="utf-8"))}
 KINDS = ("history", "owner_works", "sellers", "red_flag")
-GENERIC = re.compile(r"\b(red[\s-]*flag|dealers?|lists?|names?|someone|anyone|anybody|people|persons?|owners?)\b", re.I)
+GENERIC = re.compile(r"\b(red[\s-]*flag|dealers?|lists?|names?|someone|anyone|anybody|people|persons?|owners?|nazi[\s-]*era|nazis?|"
+                     r"looters?|suspects?|thieves|collectors?)\b", re.I)
+FIRM = re.compile(r"&|\b(?:co|inc|ltd|gallery|galerie|foundation|trust|brothers|cie|sons|estate)\b", re.I)
+SUFFIX = re.compile(r"\b(sr|jr|ii|iii|iv)\b")  # generational: Julius Boehler Sr and Jr are two people
 SCOPE = ("This demo answers four kinds of question about 100 National Gallery of Art provenance texts:\n"
          "  who owned an artwork · which works passed through an owner · from whom an owner acquired works ·\n"
          "  which works passed through a name on the 1946 Red Flag list (optionally one owner, optionally a period).")
@@ -57,14 +60,18 @@ def parse(q):
         raise OutOfScope("the model did not map the question to a lookup")
     if not isinstance(spec, dict) or spec.get("kind") not in KINDS:
         raise OutOfScope(f"lookup kind {spec.get('kind') if isinstance(spec, dict) else spec!r}")
-    p = spec.get("period")
-    ok = isinstance(p, list) and len(p) == 2 and all(isinstance(y, int) for y in p) and p[0] <= p[1]
-    spec["period"] = p if ok else None  # a half or inverted period from the model is ignored, not trusted
+    spec["notes"], spec["unread"] = [], []
+    spec["period"] = read_period(spec.get("period"), None, spec["notes"])  # a single year is [y, y]; a bad one is said
     for field in ("artwork", "owner"):
         v = spec.get(field)
-        spec[field] = v.strip() if isinstance(v, str) and v.strip() else None
-    if spec["owner"] and not s.tokens(GENERIC.sub(" ", spec["owner"])):
-        spec["owner"] = None  # "Red Flag dealer" is a category, not an owner
+        v = v.strip() if isinstance(v, str) and v.strip() else None
+        if field == "owner" and v and not s.tokens(GENERIC.sub(" ", v)):
+            v = None  # "Red Flag dealer" is a category, not an owner
+        if v and not named_in(v, q):  # the model must read the question, not add to it (prompt injection)
+            spec["notes"].append(f"the model returned the {field} \"{v}\", which is not in your question; ignored")
+            spec["unread"].append(field)
+            v = None
+        spec[field] = v
     return spec
 
 
@@ -76,11 +83,30 @@ def find_artworks(graph, title):
     return [d["id"] for d in select_docs({"object": title}, docs)]
 
 
+def owner_candidates(graph, name):
+    """(canonical owners, exact?). An exact name wins (Samuel H. Kress, not also his Foundation); otherwise the token
+    rule of the owner scores, but a query without a firm word (& Co, Gallery, Foundation, Trust ...) never matches a
+    firm: Paul Cassirer is not Paul Cassirer & Co."""
+    if not name:
+        return [], False
+    exact = sorted(o for o, v in graph["owners"].items() if name.lower() in {n.lower() for n in [o] + v["names"]})
+    if exact:
+        return exact, True
+    firm_ok = bool(FIRM.search(name))
+    return sorted(o for o, v in graph["owners"].items()
+                  if any(s.same_owner(name, n) and (firm_ok or not FIRM.search(n)) for n in [o] + v["names"])), False
+
+
 def find_owners(graph, name):
-    """Canonical owners whose name or a written variant matches. An exact name wins (Samuel H. Kress, not also his
-    Foundation); otherwise the token rule of the owner scores."""
-    exact = sorted(o for o, v in graph["owners"].items() if name and name.lower() in {n.lower() for n in [o] + v["names"]})
-    return exact or sorted(o for o, v in graph["owners"].items() if name and any(s.same_owner(name, n) for n in [o] + v["names"]))
+    return owner_candidates(graph, name)[0]
+
+
+def ambiguous(graph, name):
+    """A short name that still matches several owners is not merged into one: the user is asked for the full name."""
+    owners, exact = owner_candidates(graph, name)
+    if len(owners) > 1 and not exact and not re.search(r"\bmr\.?\s+and\s+mrs\b", name, re.I):  # "Mr. and Mrs. X" names both
+        return [f"AMBIGUOUS  \"{name}\" matches {len(owners)} different owners: {'; '.join(owners)}. "
+                "Ask again with the full name."]
 
 
 def steps(graph, artwork):
@@ -115,17 +141,32 @@ def list_entries(owner):
     return sorted(out)
 
 
+def suffix(name):
+    m = SUFFIX.search(re.sub(r"[.,]", " ", s.fold(name).lower()))
+    return m.group(1) if m else None
+
+
+def surname(owner):
+    """The last name word, skipping titles, particles and generational suffixes ("Baron Maurice de Rothschild")."""
+    words = [w for w in re.findall(r"[a-z]+", s.fold(s.forward(owner)).lower()) if w not in s.STOP and not SUFFIX.fullmatch(w)]
+    return words[-1] if words else None
+
+
 def surname_entries(owner):
-    """List entries that only share a surname with this owner (any case, common surnames included): candidates for
-    an expert, never a match."""
-    return sorted({n for k in s.match(s.forward(owner), RX, KEYS, tier="naive") for n in KEYS[k]})
+    """List entries that only share the surname with this owner (any case, common surnames included): candidates for
+    an expert, never a match. Forenames and titles ("Hermann", "Baron") are not surnames."""
+    sn = surname(owner)
+    return sorted({n for k in s.match(s.forward(owner), RX, KEYS, tier="naive") if k.split()[-1] == sn for n in KEYS[k]})
 
 
 def red_flag_steps(graph, artwork, years):
-    """Same rule as the scored plans (score.flag_events): a listed owner whose holding period meets the years."""
+    """Same rule as the scored plans (score.flag_events, front-end reading): a listed owner whose holding period meets
+    the years; an auction counts at its own year only."""
     chain = steps(graph, artwork)
-    events = [{"owner": h["owner"], "year": h["year"], "span_ok": True} for h in chain]  # merged name, as tagged
-    flagged = {id(e) for e in s.flag_events(events, KEYS, RX, years)}
+    gift = graph["museum"].get(artwork, {}).get("year")
+    events = [{"owner": h["owner"], "year": h["year"], "span_ok": True, "role": h["role"], "museum_year": gift}
+              for h in chain]  # merged name, as tagged
+    flagged = {id(e) for e in s.flag_events(events, KEYS, RX, years, frontend=True)}
     return [h for h, e in zip(chain, events) if id(e) in flagged]
 
 
@@ -156,20 +197,35 @@ def line(graph, h):
 def owner_on_list(graph, owner):
     """What the 1946 list says about one named owner, in its own words, without a verdict."""
     names = find_owners(graph, owner) or [owner]  # the graph's full names ("Count Alessandro ...") beat the words typed
-    listed = sorted({n for o in names for n in list_entries(o)})
+    want = suffix(owner)
+    listed = sorted({n for o in names for n in list_entries(o) if not want or suffix(n) == want})  # Sr asked: only Sr
     out = []
+    if want and find_owners(graph, owner) and not any(suffix(n) == want for o in names for n in [o] + graph["owners"][o]["names"]):
+        out.append(f"NOTE  the graph's owner \"{names[0]}\" is not confirmed to be {want.capitalize()}: the museum text does not say so.")
     if len(listed) > 1:
         out.append(f"NOTE  {len(listed)} list entries match this name; the text does not say which one is meant.")
     out += [f"LIST ENTRY  {n}: \"{NOTES[n]}\"" for n in listed]
     if not listed:
         near = sorted({n for o in names for n in surname_entries(o)})
-        out += [f"SAME SURNAME ON THE LIST (not confirmed as this person)  {n}: \"{NOTES[n]}\"" for n in near]
-        out.append(f"NO LIST ENTRY MATCHED  \"{owner}\" by the full-name rule. This is not proof of absence: "
-                   "the matcher misses some spellings and list entries.")
+        bare = [n for n in near if not forename(n)]  # firms and bare names: no forename to check
+        out += [f"SAME SURNAME ON THE LIST (not confirmed as this person)  {n}: \"{NOTES[n]}\"" for n in near if n not in bare]
+        out += [f"NAME-ONLY LIST ENTRY (matched on the name alone, not confirmed)  {n}: \"{NOTES[n]}\"" for n in bare]
+        out.append(("The full-name rule matched no entry for \"%s\"; the name-only entry above is a candidate, not a match. "
+                    if bare else "NO LIST ENTRY MATCHED  \"%s\" by the full-name rule. ") % owner
+                   + "This is not proof of absence: the matcher misses some spellings and list entries.")
     return out + ["The list records suspicion by 1946 investigators, not a verdict on the person."]
 
 
 def answer(graph, spec):
+    """Lines of the answer, led by any NOTE about what was ignored. A name the model added (not in the question) is
+    dropped and the lookup is not run: answering about another name would be worse than not answering."""
+    notes = [f"NOTE  {n}" for n in spec.get("notes", [])]
+    if spec.get("unread"):
+        return notes + ["NOT ANSWERED  the name could not be read from the question itself; ask again with the full name."]
+    return notes + lookup(graph, spec)
+
+
+def lookup(graph, spec):
     """Lines of the answer; every claim carries the quote it rests on."""
     kind, period = spec["kind"], spec["period"]
     title = lambda i: f"NGA {i} · {graph['artworks'][i]['title']}"
@@ -182,9 +238,14 @@ def answer(graph, spec):
                 + (museum(i) if i in graph.get("museum", {}) and not period else [])]
     if kind == "red_flag":
         lo, hi = period or [1933, 1945]
-        hits = [h for i in graph["artworks"] for h in red_flag_steps(graph, i, range(lo, hi + 1))]
+        ids = find_artworks(graph, spec["artwork"]) if spec.get("artwork") else list(graph["artworks"])
+        if not ids:
+            return [f"NOT IN GRAPH  no artwork titled \"{spec['artwork']}\" among the {len(graph['artworks'])} records"]
+        hits = [h for i in ids for h in red_flag_steps(graph, i, range(lo, hi + 1))]
         out = []
         if spec.get("owner"):
+            if ambiguous(graph, spec["owner"]):
+                return ambiguous(graph, spec["owner"])
             out = owner_on_list(graph, spec["owner"])
             owners = find_owners(graph, spec["owner"])
             hits = [h for h in hits if h["owner"] in owners]
@@ -192,6 +253,10 @@ def answer(graph, spec):
                 f"{'this owner as a listed name' if spec.get('owner') else 'a Red Flag name'} in {lo}-{hi}"]
         return out + [x for i in dict.fromkeys(h["artwork"] for h in hits)
                       for x in [title(i)] + [line(graph, h) for h in hits if h["artwork"] == i]]
+    if not spec.get("owner"):
+        return ["NOT IN GRAPH  no person or firm is named in the question"]
+    if ambiguous(graph, spec["owner"]):
+        return ambiguous(graph, spec["owner"])
     owners = find_owners(graph, spec.get("owner"))
     if not owners:
         return [f"NOT IN GRAPH  no owner matching \"{spec.get('owner')}\""]
