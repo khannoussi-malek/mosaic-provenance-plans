@@ -1,0 +1,31 @@
+qwen2.5:14b 8137: 3 events, 3/3 spans ok, 16.8s, out_tok=171, err=None
+qwen2.5:14b 219037: 8 events, 8/8 spans ok, 26.4s, out_tok=534, err=None
+qwen2.5:14b 1657: 5 events, 5/5 spans ok, 18.0s, out_tok=353, err=None
+qwen2.5:14b 10943: 3 events, 3/3 spans ok, 9.4s, out_tok=183, err=None
+qwen2.5:14b 46233: 5 events, 5/5 spans ok, 19.4s, out_tok=350, err=None
+qwen2.5:14b 486: 4 events, 4/4 spans ok, 11.7s, out_tok=228, err=None
+qwen2.5:14b 1023: 2 events, 2/2 spans ok, 8.8s, out_tok=150, err=None
+qwen2.5:14b 124844: 4 events, 4/4 spans ok, 11.6s, out_tok=226, err=None
+qwen2.5:14b 37002: 7 events, 7/7 spans ok, 24.6s, out_tok=469, err=None
+qwen2.5:14b 1185: 8 events, 7/8 spans ok, 38.2s, out_tok=652, err=None
+qwen2.5:14b 9997: 2 events, 2/2 spans ok, 6.7s, out_tok=128, err=None
+qwen2.5:14b 42390: 6 events, 6/6 spans ok, 18.8s, out_tok=352, err=None
+qwen2.5:14b 617: 4 events, 4/4 spans ok, 15.7s, out_tok=299, err=None
+qwen2.5:14b 178028: 4 events, 4/4 spans ok, 11.6s, out_tok=225, err=None
+qwen2.5:14b 34098: 6 events, 6/6 spans ok, 21.3s, out_tok=390, err=None
+qwen2.5:14b 3640: 3 events, 3/3 spans ok, 10.9s, out_tok=207, err=None
+qwen2.5:14b 354: 8 events, 8/8 spans ok, 35.4s, out_tok=646, err=None
+qwen2.5:14b 1148: 10 events, 9/10 spans ok, 31.5s, out_tok=585, err=None
+qwen2.5:14b 11149: 1 events, 1/1 spans ok, 4.5s, out_tok=85, err=None
+qwen2.5:14b 11078: 3 events, 3/3 spans ok, 9.5s, out_tok=181, err=None
+qwen2.5:14b 1013: 2 events, 2/2 spans ok, 7.1s, out_tok=137, err=None
+qwen2.5:14b 3950: 3 events, 3/3 spans ok, 9.2s, out_tok=179, err=None
+qwen2.5:14b 1168: 9 events, 8/9 spans ok, 38.6s, out_tok=695, err=None
+qwen2.5:14b 38776: 7 events, 7/7 spans ok, 25.4s, out_tok=481, err=None
+qwen2.5:14b 11106: 3 events, 3/3 spans ok, 10.7s, out_tok=200, err=None
+qwen2.5:14b 680: 3 events, 3/3 spans ok, 9.6s, out_tok=185, err=None
+qwen2.5:14b 130830: 5 events, 5/5 spans ok, 16.7s, out_tok=319, err=None
+qwen2.5:14b 41577: 3 events, 3/3 spans ok, 9.5s, out_tok=182, err=None
+qwen2.5:14b 1471: 0 events, 0/0 spans ok, 28.7s, out_tok=456, err=ValueError: event missing ['place']
+qwen2.5:14b 218691: 7 events, 7/7 spans ok, 25.0s, out_tok=469, err=None
+TOTAL qwen2.5:14b: 531.6s wall for 30 docs

@@ -1,0 +1,412 @@
+[
+ {
+  "id": 12895,
+  "model": "qwen2.5:14b",
+  "events": [
+   {
+    "owner": "Oliver Latham",
+    "role": "collector",
+    "date": null,
+    "year": 1850,
+    "place": "London",
+    "source_span": "Oliver Latham (d. 1850?",
+    "span_ok": true
+   },
+   {
+    "owner": "Mr. Hoare",
+    "role": "collector",
+    "date": "April 13, 1850",
+    "year": 1850,
+    "place": "London",
+    "source_span": "sold Christie's London, April 13, 1850, lot 27, to Mr. Hoare for 16 gns",
+    "span_ok": true
+   },
+   {
+    "owner": "William Lygon, 7th Earl Beauchamp",
+    "role": "collector",
+    "date": null,
+    "year": 1936,
+    "place": "London",
+    "source_span": "William Lygon, 7th Earl Beauchamp, London (died 1936)",
+    "span_ok": true
+   },
+   {
+    "owner": "Arthur Tooth",
+    "role": "dealer",
+    "date": "1939",
+    "year": 1939,
+    "place": "London",
+    "source_span": "Arthur Tooth, London, 1939",
+    "span_ok": true
+   },
+   {
+    "owner": "Karl Haberstock",
+    "role": "collector",
+    "date": "April 1, 1939",
+    "year": 1939,
+    "place": "Berlin",
+    "source_span": "sold to Karl Haberstock, Berlin, April 1, 1939",
+    "span_ok": true
+   },
+   {
+    "owner": "Julius Böhler",
+    "role": "auction",
+    "date": null,
+    "year": 1950,
+    "place": "Munich",
+    "source_span": "consigned by Haberstock to Julius Böhler, Munich in 1950",
+    "span_ok": true
+   },
+   {
+    "owner": "E. and A. Silberman",
+    "role": "collector",
+    "date": null,
+    "year": 1951,
+    "place": "New York",
+    "source_span": "sold by Böhler to E. and A. Silberman, New York, in January 1951",
+    "span_ok": true
+   },
+   {
+    "owner": "Arthur C. Tate",
+    "role": "collector",
+    "date": null,
+    "year": 1957,
+    "place": "New Canaan, CT",
+    "source_span": "Arthur C. Tate, New Canaan, CT, 1957",
+    "span_ok": true
+   },
+   {
+    "owner": "E. and A. Silberman Galleries",
+    "role": "dealer",
+    "date": null,
+    "year": 1960,
+    "place": "New York",
+    "source_span": "E. and A. Silberman Galleries, New York, by 1960",
+    "span_ok": true
+   },
+   {
+    "owner": "Art Institute",
+    "role": "museum",
+    "date": null,
+    "year": 1961,
+    "place": null,
+    "source_span": "sold to the Art Institute, 1961",
+    "span_ok": true
+   }
+  ],
+  "error": null,
+  "in_tok": 599,
+  "out_tok": 643,
+  "seconds": 74.617244708
+ },
+ {
+  "id": 43211,
+  "model": "qwen2.5:14b",
+  "events": [
+   {
+    "owner": "Gebruder Douwes",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Amsterdam",
+    "source_span": "Gebruder Douwes, Amsterdam [according to Manke 1963]",
+    "span_ok": true
+   },
+   {
+    "owner": "Karl Haberstock",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Berlin",
+    "source_span": "Karl Haberstock, Berlin [according to email of July 15, 2002 from Lynda McLoed, Christie’s, Haberstock was the consignor of lot 71 at the sale cited below]",
+    "span_ok": true
+   },
+   {
+    "owner": "Christie's London",
+    "role": "auction",
+    "date": "12 July 1935",
+    "year": 1935,
+    "place": null,
+    "source_span": "sold, Christie’s London, 12 July 1935, lot. 71 for 126 pounds to Charles Duits",
+    "span_ok": true
+   },
+   {
+    "owner": "Charles Duits",
+    "role": "collector",
+    "date": null,
+    "year": 1935,
+    "place": null,
+    "source_span": "sold by W. E. Duits Ltd. to Charles Worcester, Chicago, 1 October 1935 [Duits stockcard cited above]",
+    "span_ok": true
+   },
+   {
+    "owner": "W. E. Duits Ltd.",
+    "role": "dealer",
+    "date": "1 October 1935",
+    "year": 1935,
+    "place": "Chicago",
+    "source_span": "sold by W. E. Duits Ltd. to Charles Worcester, Chicago, 1 October 1935 [Duits stockcard cited above]",
+    "span_ok": true
+   },
+   {
+    "owner": "Charles Worcester",
+    "role": "collector",
+    "date": null,
+    "year": 1935,
+    "place": "Chicago",
+    "source_span": "sold by W. E. Duits Ltd. to Charles Worcester, Chicago, 1 October 1935 [Duits stockcard cited above]",
+    "span_ok": true
+   },
+   {
+    "owner": "Art Institute",
+    "role": "museum",
+    "date": null,
+    "year": 1941,
+    "place": null,
+    "source_span": "given to the Art Institute, 1941.",
+    "span_ok": true
+   }
+  ],
+  "error": null,
+  "in_tok": 437,
+  "out_tok": 518,
+  "seconds": 34.152992084
+ },
+ {
+  "id": 110507,
+  "model": "qwen2.5:14b",
+  "events": [
+   {
+    "owner": "Kunsthandlung Fritz Gurlitt",
+    "role": "dealer",
+    "date": null,
+    "year": 1884,
+    "place": null,
+    "source_span": "Kunsthandlung Fritz Gurlitt, 1884.",
+    "span_ok": true
+   },
+   {
+    "owner": "Adalbert Mylius-Gemuseus",
+    "role": "collector",
+    "date": "to at least 1927",
+    "year": 1886,
+    "place": "Basel, Switzerland",
+    "source_span": "Adalbert Mylius-Gemuseus, Basel, Switzerland, 1886 to at least 1927",
+    "span_ok": true
+   },
+   {
+    "owner": "Herr Simon-Mylius",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": "Basel",
+    "source_span": "by descent to Herr Simon-Mylius, Basel.",
+    "span_ok": true
+   },
+   {
+    "owner": "Albert Vorster-Burckhardt",
+    "role": "collector",
+    "date": "from 1950",
+    "year": 1950,
+    "place": "Basel",
+    "source_span": "Albert Vorster-Burckhardt, Basel from 1950",
+    "span_ok": true
+   },
+   {
+    "owner": "Sotheby's",
+    "role": "auction",
+    "date": "May 23, 1990",
+    "year": 1990,
+    "place": null,
+    "source_span": "offered for sale, Sotheby's, New York, May 23, 1990, lot 127; bought in",
+    "span_ok": true
+   },
+   {
+    "owner": "Sotheby's",
+    "role": "dealer",
+    "date": null,
+    "year": 1990,
+    "place": null,
+    "source_span": "sold by Vorster-Burckhardt through Sotheby's to the Art Institute, 1990.",
+    "span_ok": true
+   },
+   {
+    "owner": "Art Institute",
+    "role": "museum",
+    "date": null,
+    "year": 1990,
+    "place": null,
+    "source_span": "sold by Vorster-Burckhardt through Sotheby's to the Art Institute, 1990.",
+    "span_ok": true
+   }
+  ],
+  "error": null,
+  "in_tok": 350,
+  "out_tok": 477,
+  "seconds": 27.59058
+ },
+ {
+  "id": 7122,
+  "model": "qwen2.5:14b",
+  "events": [
+   {
+    "owner": "Zinglers Kabinett",
+    "role": "dealer",
+    "date": "1924",
+    "year": 1924,
+    "place": "Frankfurt",
+    "source_span": "Sold by Zinglers Kabinett, Frankfurt, to the Kunsthalle Mannheim [Lugt 1781E], 1924",
+    "span_ok": true
+   },
+   {
+    "owner": "Kunsthalle Mannheim",
+    "role": "museum",
+    "date": null,
+    "year": 1924,
+    "place": null,
+    "source_span": "Sold by Zinglers Kabinett, Frankfurt, to the Kunsthalle Mannheim [Lugt 1781E], 1924",
+    "span_ok": true
+   },
+   {
+    "owner": "Reichsministerium für Volksaufklärung und Propaganda",
+    "role": "confiscating agency",
+    "date": "Aug. 28, 1937",
+    "year": 1937,
+    "place": "Berlin",
+    "source_span": "sequestrated Aug. 28, 1937 by the Reichsministerium für Volksaufklärung und Propaganda, Berlin (EK 6173)",
+    "span_ok": true
+   },
+   {
+    "owner": "Hildebrand Gurlitt",
+    "role": "dealer",
+    "date": "1941",
+    "year": 1941,
+    "place": null,
+    "source_span": "sold by Hildebrand Gurlitt, 1941",
+    "span_ok": true
+   },
+   {
+    "owner": "Frankfurter Kunstkabinett Hanna Bekker vom Rath",
+    "role": "museum",
+    "date": null,
+    "year": 1955,
+    "place": null,
+    "source_span": "Frankfurter Kunstkabinett Hanna Bekker vom Rath (opened 1947), by 1955",
+    "span_ok": true
+   },
+   {
+    "owner": "Allan Frumkin",
+    "role": "dealer",
+    "date": null,
+    "year": 1958,
+    "place": "New York",
+    "source_span": "Sold by Allan Frumkin, New York, to the Art Institute, 1958",
+    "span_ok": true
+   },
+   {
+    "owner": "Art Institute",
+    "role": "museum",
+    "date": null,
+    "year": 1958,
+    "place": null,
+    "source_span": "Sold by Allan Frumkin, New York, to the Art Institute, 1958",
+    "span_ok": true
+   }
+  ],
+  "error": null,
+  "in_tok": 413,
+  "out_tok": 530,
+  "seconds": 30.541173042
+ },
+ {
+  "id": 8624,
+  "model": "qwen2.5:14b",
+  "events": [
+   {
+    "owner": "Daniel-Henry Kahnweiler",
+    "role": "collector",
+    "date": null,
+    "year": 1921,
+    "place": "Paris",
+    "source_span": "Daniel-Henry Kahnweiler (1884–1979), Paris.",
+    "span_ok": true
+   },
+   {
+    "owner": "Hôtel Drouot",
+    "role": "auction",
+    "date": "June 13–14, 1921",
+    "year": 1921,
+    "place": "Paris",
+    "source_span": "Sold, Hôtel Drouot, Paris, June 13–14, 1921, Kahnweiler sequestration sale, lot 49, to “Grassat” for Galerie Simon [letters from Kahnweiler, October 21, 1975, and December 2, 1975; copy in curatorial object file].",
+    "span_ok": true
+   },
+   {
+    "owner": "Galerie Simon",
+    "role": "dealer",
+    "date": null,
+    "year": 1921,
+    "place": null,
+    "source_span": "to “Grassat” for Galerie Simon [letters from Kahnweiler, October 21, 1975, and December 2, 1975; copy in curatorial object file].",
+    "span_ok": true
+   },
+   {
+    "owner": "Etienne Bignou",
+    "role": "dealer",
+    "date": null,
+    "year": 1933,
+    "place": "Paris",
+    "source_span": "With Etienne Bignou (1891–1950), Paris, and Bignou Gallery, New York, by April 1933 (possibly as early as June 1930) to at least April 1946 [Zurich 1933 and Paris 1930; letters to Bignou from Alex Reid and Lefevre, March 22 and April 18, 1946].",
+    "span_ok": true
+   },
+   {
+    "owner": "Galerie Louise Leiris",
+    "role": "dealer",
+    "date": null,
+    "year": 1948,
+    "place": "Paris",
+    "source_span": "With Galerie Louise Leiris, Paris, by February 1948 [Basel 1948];",
+    "span_ok": false
+   },
+   {
+    "owner": "Buchholz Gallery",
+    "role": "dealer",
+    "date": null,
+    "year": 1949,
+    "place": "New York",
+    "source_span": "sold to Buchholz Gallery, New York, by 1949 [New York 1949; letter from Kahnweiler, December 2, 1975; copy in curatorial object file];",
+    "span_ok": true
+   },
+   {
+    "owner": "Jacques Seligmann and Co.",
+    "role": "dealer",
+    "date": null,
+    "year": 1949,
+    "place": "New York",
+    "source_span": "sold to Jacques Seligmann and Co., New York, by 1949 [letter from Jacques Seligmann to Curt Valentin, Mar. 18, 1949, and letter from Jane Wade to Seligmann, Apr. 5, 1949, Seligmann Papers, Archives of American Art, Smithsonian Institution, Washington, D.C.];",
+    "span_ok": true
+   },
+   {
+    "owner": "Leigh Block",
+    "role": "collector",
+    "date": "June 1949",
+    "year": 1949,
+    "place": "Chicago",
+    "source_span": "sold to Leigh Block, Chicago, June 1949 [Block Collection Card in curatorial object file];",
+    "span_ok": true
+   },
+   {
+    "owner": "Art Institute of Chicago",
+    "role": "museum",
+    "date": null,
+    "year": 1958,
+    "place": null,
+    "source_span": "given to the Art Institute of Chicago, 1958.",
+    "span_ok": true
+   }
+  ],
+  "error": null,
+  "in_tok": 612,
+  "out_tok": 881,
+  "seconds": 58.947301916
+ }
+]

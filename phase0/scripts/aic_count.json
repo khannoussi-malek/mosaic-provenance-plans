@@ -1,0 +1,1 @@
+{"query":{"bool":{"must":[{"query_string":{"default_field":"provenance_text","query":"1933 OR 1934 OR 1935 OR 1936 OR 1937 OR 1938 OR 1939 OR 1940 OR 1941 OR 1942 OR 1943 OR 1944 OR 1945"}}]}},"limit":1,"fields":["id","title"]}

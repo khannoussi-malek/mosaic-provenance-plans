@@ -1,0 +1,18 @@
+qwen2.5:7b 12895: 10 events, 10/10 spans ok, 44.6s, out_tok=1427, err=None
+qwen2.5:7b 43211: 6 events, 6/6 spans ok, 18.7s, out_tok=639, err=None
+qwen2.5:7b 110507: 6 events, 6/6 spans ok, 18.4s, out_tok=596, err=None
+qwen2.5:7b 7122: 5 events, 5/5 spans ok, 18.0s, out_tok=587, err=None
+qwen2.5:7b 8624: 11 events, 7/11 spans ok, 63.3s, out_tok=1655, err=None
+TOTAL qwen2.5:7b: 163.0s wall for 5 docs
+qwen3:8b 12895: 10 events, 10/10 spans ok, 53.4s, out_tok=1141, err=None
+qwen3:8b 43211: 7 events, 7/7 spans ok, 32.4s, out_tok=792, err=None
+qwen3:8b 110507: 6 events, 6/6 spans ok, 18.1s, out_tok=496, err=None
+qwen3:8b 7122: 5 events, 5/5 spans ok, 22.5s, out_tok=531, err=None
+qwen3:8b 8624: 9 events, 8/9 spans ok, 31.3s, out_tok=786, err=None
+TOTAL qwen3:8b: 157.8s wall for 5 docs
+qwen2.5:14b 12895: 10 events, 10/10 spans ok, 74.6s, out_tok=643, err=None
+qwen2.5:14b 43211: 7 events, 7/7 spans ok, 34.2s, out_tok=518, err=None
+qwen2.5:14b 110507: 7 events, 7/7 spans ok, 27.6s, out_tok=477, err=None
+qwen2.5:14b 7122: 7 events, 7/7 spans ok, 30.5s, out_tok=530, err=None
+qwen2.5:14b 8624: 9 events, 8/9 spans ok, 58.9s, out_tok=881, err=None
+TOTAL qwen2.5:14b: 226.9s wall for 5 docs

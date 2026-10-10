@@ -1,0 +1,122 @@
+{
+ "Alex Reid & Lefèvre": {
+  "to": "Alex Reid & Lefèvre, Ltd.",
+  "why": "Same Glasgow/London firm; Ltd. form spans Glasgow and London."
+ },
+ "Alex Reid and Lefevre, Ltd.": {
+  "to": "Alex Reid & Lefèvre, Ltd.",
+  "why": "Spelling variant of the same firm, Glasgow."
+ },
+ "Alexandre Berthier, 4th prince de Wagram": {
+  "to": "Alexandre Berthier, 4th Prince de Wagram",
+  "why": "Same person, dates [1883-1918]; case variant."
+ },
+ "Alexandre Berthier, Prince de Wagram": {
+  "to": "Alexandre Berthier, 4th Prince de Wagram",
+  "why": "Same dates [1883-1918], Paris; ordinal omitted."
+ },
+ "Alessandro Contini Bonacossi": {
+  "to": "Count Alessandro Contini Bonacossi",
+  "why": "Same dealer, 1878-1955, Rome and Florence."
+ },
+ "Christie's": {
+  "to": "Christie, Manson & Woods",
+  "why": "Short name of the same London auction house."
+ },
+ "Colnaghi's": {
+  "to": "P & D Colnaghi's",
+  "why": "Short name of the same London dealer."
+ },
+ "Durand-Ruel": {
+  "to": "Durand-Ruel et Cie",
+  "why": "Same Paris firm in both texts."
+ },
+ "Peter A. B. Widener": {
+  "to": "Peter A.B. Widener",
+  "why": "Spacing variant; same Lynnewood Hall, Elkins Park collector."
+ },
+ "P.A.B. Widener": {
+  "to": "Peter A.B. Widener",
+  "why": "Initials form; 1907 purchase for Lynnewood Hall, estate passes to Joseph E. Widener."
+ },
+ "Estate of Peter A. B. Widener": {
+  "to": "Estate of Peter A.B. Widener",
+  "why": "Spacing variant of the same estate."
+ },
+ "estate of Peter A.B. Widener": {
+  "to": "Estate of Peter A.B. Widener",
+  "why": "Case variant of the same estate."
+ },
+ "Eugene Fischhof": {
+  "to": "Eugène Fischhof",
+  "why": "Accent variant of the same dealer."
+ },
+ "Etienne Bignou": {
+  "to": "Étienne Bignou",
+  "why": "Accent variant of the same Paris dealer."
+ },
+ "Emmy Scheyer": {
+  "to": "Galka E. Scheyer",
+  "why": "Text states Emmy Scheyer was known from 1924 as Galka E. Scheyer."
+ },
+ "Gustave Rochlitz": {
+  "to": "Gustav Rochlitz",
+  "why": "Spelling variant; both texts name the dealer Goering traded to."
+ },
+ "Hotel Drouot": {
+  "to": "Hôtel Drouot",
+  "why": "Accent variant of the Paris auction house."
+ },
+ "L. Tabourier": {
+  "to": "Léon Tabourier",
+  "why": "Same Hôtel Drouot sale, 20-22 June 1898."
+ },
+ "Lessing J. Rosenwald": {
+  "to": "Lessing Julius Rosenwald",
+  "why": "Same collector, same collector's mark Lugt 1760b."
+ },
+ "Sotheby": {
+  "to": "Sotheby's",
+  "why": "Variant of the same auction house, London."
+ },
+ "Sotheby’s": {
+  "to": "Sotheby's",
+  "why": "Apostrophe variant of the same auction house."
+ },
+ "The A. W. Mellon Educational and Charitable Trust": {
+  "to": "The A.W. Mellon Educational and Charitable Trust",
+  "why": "Spacing variant; same Clarke collection 1936 sale."
+ },
+ "The A.W. Mellon Education and Charitable Trust": {
+  "to": "The A.W. Mellon Educational and Charitable Trust",
+  "why": "Typo variant; same Clarke collection 1936 sale."
+ },
+ "Thos Agnew & Sons": {
+  "to": "Thomas Agnew & Sons, Ltd.",
+  "why": "Abbreviated name of the same London dealer."
+ },
+ "Thos. Agnew & Sons, Ltd.": {
+  "to": "Thomas Agnew & Sons, Ltd.",
+  "why": "Abbreviated name of the same London dealer."
+ },
+ "Trivulzio collection": {
+  "to": "Trivulzio Collection",
+  "why": "Case variant; same Milan collection."
+ },
+ "M Knoedler and co.": {
+  "to": "M. Knoedler & Co.",
+  "why": "Variant of the same firm, New York."
+ },
+ "M.  Knoedler and Co.": {
+  "to": "M. Knoedler & Co.",
+  "why": "Variant of the same firm, New York."
+ },
+ "Duveen Brothers": {
+  "to": "Duveen Brothers, Inc.",
+  "why": "Same firm, same cities (New York and London)."
+ },
+ "Wildenstein and Co.": {
+  "to": "Wildenstein & Co.",
+  "why": "Variant; same 'London, New York and Paris' firm."
+ }
+}

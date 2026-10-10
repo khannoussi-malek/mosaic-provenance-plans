@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 302" font-family="Helvetica, Arial, sans-serif" role="img" aria-label="Owner extraction F1, screening F1 and compute minutes for each plan">
+<rect width="860" height="302" fill="#fcfcfb"/>
+<text x="8" y="77.0" font-size="12" fill="#0b0b0b">P0 name match</text>
+<text x="8" y="107.0" font-size="12" fill="#0b0b0b">P1 small model</text>
+<line x1="8" x2="852" y1="88.0" y2="88.0" stroke="#e6e5e0" stroke-width="0.5"/>
+<text x="8" y="137.0" font-size="12" fill="#0b0b0b">P1r small + retry</text>
+<line x1="8" x2="852" y1="118.0" y2="118.0" stroke="#e6e5e0" stroke-width="0.5"/>
+<text x="8" y="167.0" font-size="12" fill="#0b0b0b">P2 large model</text>
+<line x1="8" x2="852" y1="148.0" y2="148.0" stroke="#e6e5e0" stroke-width="0.5"/>
+<text x="8" y="197.0" font-size="12" fill="#0b0b0b">P3 cascade</text>
+<line x1="8" x2="852" y1="178.0" y2="178.0" stroke="#e6e5e0" stroke-width="0.5"/>
+<text x="8" y="227.0" font-size="12" fill="#0b0b0b">P4 small + verifier</text>
+<line x1="8" x2="852" y1="208.0" y2="208.0" stroke="#e6e5e0" stroke-width="0.5"/>
+<text x="8" y="257.0" font-size="12" fill="#0b0b0b">P5 cascade + adjudicator</text>
+<line x1="8" x2="852" y1="238.0" y2="238.0" stroke="#e6e5e0" stroke-width="0.5"/>
+<text x="178" y="22" font-size="12.5" font-weight="600" fill="#0b0b0b">Owner extraction F1</text>
+<line x1="178.0" x2="178.0" y1="48" y2="268" stroke="#e6e5e0" stroke-width="1"/><text x="178.0" y="42" font-size="10.5" fill="#52514e" text-anchor="middle">0.7</text>
+<line x1="242.7" x2="242.7" y1="48" y2="268" stroke="#e6e5e0" stroke-width="1"/><text x="242.7" y="42" font-size="10.5" fill="#52514e" text-anchor="middle">0.75</text>
+<line x1="307.3" x2="307.3" y1="48" y2="268" stroke="#e6e5e0" stroke-width="1"/><text x="307.3" y="42" font-size="10.5" fill="#52514e" text-anchor="middle">0.8</text>
+<line x1="372.0" x2="372.0" y1="48" y2="268" stroke="#e6e5e0" stroke-width="1"/><text x="372.0" y="42" font-size="10.5" fill="#52514e" text-anchor="middle">0.85</text>
+<text x="182" y="77.0" font-size="11" fill="#52514e">no extraction</text>
+<line x1="210.3" x2="317.7" y1="103.0" y2="103.0" stroke="#2a78d6" stroke-width="2" stroke-linecap="round"/><circle cx="263.4" cy="103.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/><text x="324.7" y="107.0" font-size="11" fill="#0b0b0b">0.77</text>
+<line x1="223.3" x2="322.9" y1="133.0" y2="133.0" stroke="#2a78d6" stroke-width="2" stroke-linecap="round"/><circle cx="272.4" cy="133.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/><text x="329.9" y="137.0" font-size="11" fill="#0b0b0b">0.77</text>
+<line x1="231.0" x2="322.9" y1="163.0" y2="163.0" stroke="#2a78d6" stroke-width="2" stroke-linecap="round"/><circle cx="280.2" cy="163.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/><text x="329.9" y="167.0" font-size="11" fill="#0b0b0b">0.78</text>
+<line x1="250.4" x2="342.3" y1="193.0" y2="193.0" stroke="#2a78d6" stroke-width="2" stroke-linecap="round"/><circle cx="295.7" cy="193.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/><text x="349.3" y="197.0" font-size="11" fill="#0b0b0b">0.79</text>
+<line x1="206.5" x2="313.8" y1="223.0" y2="223.0" stroke="#2a78d6" stroke-width="2" stroke-linecap="round"/><circle cx="260.8" cy="223.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/><text x="320.8" y="227.0" font-size="11" fill="#0b0b0b">0.76</text>
+<text x="182" y="257.0" font-size="11" fill="#52514e">same as P3</text>
+<text x="402.0" y="22" font-size="12.5" font-weight="600" fill="#0b0b0b">Screening F1</text>
+<line x1="419.6" x2="419.6" y1="48" y2="268" stroke="#e6e5e0" stroke-width="1"/><text x="419.6" y="42" font-size="10.5" fill="#52514e" text-anchor="middle">0.5</text>
+<line x1="454.9" x2="454.9" y1="48" y2="268" stroke="#e6e5e0" stroke-width="1"/><text x="454.9" y="42" font-size="10.5" fill="#52514e" text-anchor="middle">0.6</text>
+<line x1="490.2" x2="490.2" y1="48" y2="268" stroke="#e6e5e0" stroke-width="1"/><text x="490.2" y="42" font-size="10.5" fill="#52514e" text-anchor="middle">0.7</text>
+<line x1="525.5" x2="525.5" y1="48" y2="268" stroke="#e6e5e0" stroke-width="1"/><text x="525.5" y="42" font-size="10.5" fill="#52514e" text-anchor="middle">0.8</text>
+<line x1="560.7" x2="560.7" y1="48" y2="268" stroke="#e6e5e0" stroke-width="1"/><text x="560.7" y="42" font-size="10.5" fill="#52514e" text-anchor="middle">0.9</text>
+<line x1="596.0" x2="596.0" y1="48" y2="268" stroke="#e6e5e0" stroke-width="1"/><text x="596.0" y="42" font-size="10.5" fill="#52514e" text-anchor="middle">1</text>
+<line x1="419.6" x2="518.0" y1="73.0" y2="73.0" stroke="#2a78d6" stroke-width="2" stroke-linecap="round"/><circle cx="475.0" cy="73.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/><text x="525.0" y="77.0" font-size="11" fill="#0b0b0b">0.66</text>
+<line x1="495.1" x2="575.9" y1="103.0" y2="103.0" stroke="#2a78d6" stroke-width="2" stroke-linecap="round"/><circle cx="543.4" cy="103.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/><text x="582.9" y="107.0" font-size="11" fill="#0b0b0b">0.85</text>
+<line x1="495.1" x2="575.9" y1="133.0" y2="133.0" stroke="#2a78d6" stroke-width="2" stroke-linecap="round"/><circle cx="543.4" cy="133.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/><text x="582.9" y="137.0" font-size="11" fill="#0b0b0b">0.85</text>
+<line x1="462.3" x2="556.8" y1="163.0" y2="163.0" stroke="#2a78d6" stroke-width="2" stroke-linecap="round"/><circle cx="515.9" cy="163.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/><text x="563.8" y="167.0" font-size="11" fill="#0b0b0b">0.77</text>
+<line x1="495.1" x2="575.9" y1="193.0" y2="193.0" stroke="#2a78d6" stroke-width="2" stroke-linecap="round"/><circle cx="543.4" cy="193.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/><text x="582.9" y="197.0" font-size="11" fill="#0b0b0b">0.85</text>
+<line x1="495.1" x2="575.9" y1="223.0" y2="223.0" stroke="#2a78d6" stroke-width="2" stroke-linecap="round"/><circle cx="543.4" cy="223.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/><text x="582.9" y="227.0" font-size="11" fill="#0b0b0b">0.85</text>
+<line x1="485.9" x2="571.3" y1="253.0" y2="253.0" stroke="#2a78d6" stroke-width="2" stroke-linecap="round"/><circle cx="534.6" cy="253.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/><text x="578.3" y="257.0" font-size="11" fill="#0b0b0b">0.83</text>
+<text x="626.0" y="22" font-size="12.5" font-weight="600" fill="#0b0b0b">Compute, minutes per 100 docs</text>
+<line x1="626.0" x2="626.0" y1="48" y2="268" stroke="#e6e5e0" stroke-width="1"/><text x="626.0" y="42" font-size="10.5" fill="#52514e" text-anchor="middle">0</text>
+<line x1="674.5" x2="674.5" y1="48" y2="268" stroke="#e6e5e0" stroke-width="1"/><text x="674.5" y="42" font-size="10.5" fill="#52514e" text-anchor="middle">20</text>
+<line x1="723.0" x2="723.0" y1="48" y2="268" stroke="#e6e5e0" stroke-width="1"/><text x="723.0" y="42" font-size="10.5" fill="#52514e" text-anchor="middle">40</text>
+<line x1="771.5" x2="771.5" y1="48" y2="268" stroke="#e6e5e0" stroke-width="1"/><text x="771.5" y="42" font-size="10.5" fill="#52514e" text-anchor="middle">60</text>
+<line x1="820.0" x2="820.0" y1="48" y2="268" stroke="#e6e5e0" stroke-width="1"/><text x="820.0" y="42" font-size="10.5" fill="#52514e" text-anchor="middle">80</text>
+<rect x="626.0" y="67.0" width="0.0" height="12" rx="3" fill="#2a78d6"/><text x="632.0" y="77.0" font-size="11" fill="#0b0b0b">0</text>
+<rect x="626.0" y="97.0" width="86.4" height="12" rx="3" fill="#2a78d6"/><text x="718.4" y="107.0" font-size="11" fill="#0b0b0b">36</text>
+<rect x="626.0" y="127.0" width="90.3" height="12" rx="3" fill="#2a78d6"/><text x="722.3" y="137.0" font-size="11" fill="#0b0b0b">37</text>
+<rect x="626.0" y="157.0" width="118.3" height="12" rx="3" fill="#2a78d6"/><text x="750.3" y="167.0" font-size="11" fill="#0b0b0b">49</text>
+<rect x="626.0" y="187.0" width="115.3" height="12" rx="3" fill="#2a78d6"/><text x="747.3" y="197.0" font-size="11" fill="#0b0b0b">48</text>
+<rect x="626.0" y="217.0" width="183.1" height="12" rx="3" fill="#2a78d6"/><text x="815.1" y="227.0" font-size="11" fill="#0b0b0b">76</text>
+<rect x="626.0" y="247.0" width="117.3" height="12" rx="3" fill="#2a78d6"/><text x="749.3" y="257.0" font-size="11" fill="#0b0b0b">48</text>
+<text x="8" y="292" font-size="10.5" fill="#52514e">NGA test set: owners n = 100, screening 91 documents with reference labels. Dots: estimate; lines: 95% bootstrap interval. One laptop (Apple M4 Pro), local models.</text>
+</svg>

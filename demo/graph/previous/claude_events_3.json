@@ -1,0 +1,1223 @@
+[
+ {
+  "id": "1008",
+  "events": [
+   {
+    "owner": "Mr. and Mrs. John W. Simpson",
+    "role": "collector",
+    "date": "1902",
+    "year": 1902,
+    "place": "New York",
+    "source_span": "Purchased 1902 from the artist by Mr. and Mrs. John W. Simpson, New York"
+   },
+   {
+    "owner": "NGA",
+    "role": "museum",
+    "date": "1942",
+    "year": 1942,
+    "place": null,
+    "source_span": "gift 1942 to NGA"
+   }
+  ]
+ },
+ {
+  "id": "440",
+  "events": [
+   {
+    "owner": "George Ashburnham, 3rd earl of Ashburnham",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Florence",
+    "source_span": "Possibly George Ashburnham, 3rd earl of Ashburnham [1760-1830], Florence"
+   },
+   {
+    "owner": "Bertram Ashburnham, 4th earl of Ashburnham",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "by inheritance to his son, Bertram Ashburnham, 4th earl of Ashburnham [1797-1878]"
+   },
+   {
+    "owner": "Bertram Ashburnham, 5th earl of Ashburnham",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "by inheritance to his son, Bertram Ashburnham, 5th earl of Ashburnham [1840-1913]"
+   },
+   {
+    "owner": "Lady Mary Catherine Charlotte Ashburnham",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "by inheritance to his daughter, Lady Mary Catherine Charlotte Ashburnham [d. 1953]"
+   },
+   {
+    "owner": "Robert Langton Douglas",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "London",
+    "source_span": "(Robert Langton Douglas [1864-1951], London)"
+   },
+   {
+    "owner": "Duveen Brothers, Inc.",
+    "role": "dealer",
+    "date": "August 1919",
+    "year": 1919,
+    "place": "London",
+    "source_span": "sold August 1919 to (Duveen Brothers, Inc., London and New York)"
+   },
+   {
+    "owner": "Clarence H. Mackay",
+    "role": "collector",
+    "date": "1922",
+    "year": 1922,
+    "place": "Roslyn",
+    "source_span": "sold 1922 to Clarence H. Mackay [1874-1938], Roslyn, New York, until c. 1930"
+   },
+   {
+    "owner": "Duveen Brothers, Inc.",
+    "role": "dealer",
+    "date": "1933",
+    "year": 1933,
+    "place": "London",
+    "source_span": "At the time of the Detroit exhibition of 1933, the painting was again with Duveen Brothers"
+   },
+   {
+    "owner": "Samuel H. Kress Foundation",
+    "role": "collector",
+    "date": "1938",
+    "year": 1938,
+    "place": "New York",
+    "source_span": "sold 1938 to the Samuel H. Kress Foundation, New York"
+   },
+   {
+    "owner": "NGA",
+    "role": "museum",
+    "date": "1939",
+    "year": 1939,
+    "place": null,
+    "source_span": "gift 1939 to NGA"
+   }
+  ]
+ },
+ {
+  "id": "46273",
+  "events": [
+   {
+    "owner": "Trivulzio Collection",
+    "role": "collector",
+    "date": "probably after 1856",
+    "year": 1856,
+    "place": "Milan",
+    "source_span": "Trivulzio Collection, Milan, probably after 1856"
+   },
+   {
+    "owner": "Alessandro Contini Bonacossi",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "Rome",
+    "source_span": "(Alessandro Contini Bonacossi, 1878-1955, Rome and Florence)"
+   },
+   {
+    "owner": "Samuel H. Kress",
+    "role": "collector",
+    "date": "26 June 1935",
+    "year": 1935,
+    "place": "New York",
+    "source_span": "purchased 26 June 1935 by Samuel H. Kress (1863-1955), New York"
+   },
+   {
+    "owner": "Samuel H. Kress Foundation",
+    "role": "collector",
+    "date": "27 September 1950",
+    "year": 1950,
+    "place": "New York",
+    "source_span": "gift 27 September 1950 to the Samuel H. Kress Foundation, New York"
+   },
+   {
+    "owner": "NGA",
+    "role": "museum",
+    "date": "1961",
+    "year": 1961,
+    "place": null,
+    "source_span": "gift 1961 to NGA"
+   }
+  ]
+ },
+ {
+  "id": "3748",
+  "events": [
+   {
+    "owner": "Przibram",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Vienna",
+    "source_span": "Przibram, Vienna"
+   },
+   {
+    "owner": "Weiss & Co.",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "Munich",
+    "source_span": "(Weiss & Co., Munich)"
+   },
+   {
+    "owner": "Martin Aufhäuser",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Munich",
+    "source_span": "Martin Aufhäuser [1875-1944], Munich, Holland, and Los Angeles"
+   },
+   {
+    "owner": "Lessing J. Rosenwald",
+    "role": "collector",
+    "date": "19 August 1939",
+    "year": 1939,
+    "place": "Jenkintown",
+    "source_span": "purchased 19 August 1939 by Lessing J. Rosenwald, Jenkintown, PA"
+   },
+   {
+    "owner": "NGA",
+    "role": "museum",
+    "date": "1943",
+    "year": 1943,
+    "place": null,
+    "source_span": "gift to NGA, 1943"
+   }
+  ]
+ },
+ {
+  "id": "72164",
+  "events": [
+   {
+    "owner": "Susan Macdowell Eakins",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Philadelphia",
+    "source_span": "Susan Macdowell Eakins [Mrs. Thomas Eakins, 1851-1938], Philadelphia"
+   },
+   {
+    "owner": "Millicent Rogers",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "New York",
+    "source_span": "Millicent Rogers [1902-1953], New York"
+   },
+   {
+    "owner": "Count Peter A. Salm",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": "New York",
+    "source_span": "her son, Count Peter A. Salm, New York"
+   },
+   {
+    "owner": "Lothar Dohna",
+    "role": "dealer",
+    "date": "29 April 1983",
+    "year": 1983,
+    "place": "New York",
+    "source_span": "sold 29 April 1983 through (Lothar Dohna, New York)"
+   },
+   {
+    "owner": "Mr. and Mrs. H. John Heinz III",
+    "role": "collector",
+    "date": "29 April 1983",
+    "year": 1983,
+    "place": "Pittsburgh",
+    "source_span": "sold 29 April 1983 through (Lothar Dohna, New York) to Mr. and Mrs. H. John Heinz III, Pittsburgh"
+   },
+   {
+    "owner": "NGA",
+    "role": "museum",
+    "date": "1991",
+    "year": 1991,
+    "place": null,
+    "source_span": "gift (partial and promised) 1991 to NGA"
+   }
+  ]
+ },
+ {
+  "id": "6611",
+  "events": [
+   {
+    "owner": "M Knoedler and co.",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "New York",
+    "source_span": "(M Knoedler and co., NY)"
+   },
+   {
+    "owner": "Lessing J. Rosenwald",
+    "role": "collector",
+    "date": "1940",
+    "year": 1940,
+    "place": "Jenkintown",
+    "source_span": "purchased by Lessing J. Rosenwald [1891-1979], Jenkintown, PA (Lugt 1760b and Lugt 1932d), 1940"
+   },
+   {
+    "owner": "NGA",
+    "role": "museum",
+    "date": "1943",
+    "year": 1943,
+    "place": null,
+    "source_span": "gift to NGA, 1943"
+   }
+  ]
+ },
+ {
+  "id": "1117",
+  "events": [
+   {
+    "owner": "Louisa Matilda Stow",
+    "role": "heir",
+    "date": "in 1838",
+    "year": 1838,
+    "place": null,
+    "source_span": "Gift of the sitter to his daughter, Louisa Matilda Stow, in 1838"
+   },
+   {
+    "owner": "Caroline Adelaide Stow Hyatt",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": "Ithaca",
+    "source_span": "her sister, Caroline Adelaide Stow Hyatt [Mrs. George Hyatt, 1807-1893], Ithaca"
+   },
+   {
+    "owner": "John Phillips",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": "Brooklyn",
+    "source_span": "her nephew, John Phillips [d. 1905], Brooklyn"
+   },
+   {
+    "owner": "Edith, Norah and Ann Broadhurst Phillips",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": "Boston",
+    "source_span": "bequeathed to his three sisters, Edith, Norah and Ann Broadhurst Phillips, Boston"
+   },
+   {
+    "owner": "Ann Brattle Bascom",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": "Cambridge",
+    "source_span": "her cousin, Ann Brattle Bascom, Cambridge"
+   },
+   {
+    "owner": "Museum of Fine Arts, Boston",
+    "role": "museum",
+    "date": "in 1913",
+    "year": 1913,
+    "place": "Boston",
+    "source_span": "to the Museum of Fine Arts, Boston, in 1913"
+   },
+   {
+    "owner": "American Art Association",
+    "role": "auction",
+    "date": "17 January 1922",
+    "year": 1922,
+    "place": "New York",
+    "source_span": "(American Art Association, New York, N.Y., 17 January 1922, no. 27)"
+   },
+   {
+    "owner": "Thomas B. Clarke",
+    "role": "collector",
+    "date": "17 January 1922",
+    "year": 1922,
+    "place": "New York",
+    "source_span": "sold (American Art Association, New York, N.Y., 17 January 1922, no. 27) to Thomas B. Clarke [1848-1931], New York"
+   },
+   {
+    "owner": "his estate",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "his estate"
+   },
+   {
+    "owner": "M. Knoedler & Co.",
+    "role": "dealer",
+    "date": "29 January 1936",
+    "year": 1936,
+    "place": "New York",
+    "source_span": "on 29 January 1936, through (M. Knoedler & Co., New York)"
+   },
+   {
+    "owner": "The A. W. Mellon Educational and Charitable Trust",
+    "role": "collector",
+    "date": "29 January 1936",
+    "year": 1936,
+    "place": "Pittsburgh",
+    "source_span": "sold as part of the Clarke collection on 29 January 1936, through (M. Knoedler & Co., New York), to The A. W. Mellon Educational and Charitable Trust, Pittsburgh"
+   },
+   {
+    "owner": "NGA",
+    "role": "museum",
+    "date": "1942",
+    "year": 1942,
+    "place": null,
+    "source_span": "gift 1942 to NGA"
+   }
+  ]
+ },
+ {
+  "id": "139202",
+  "events": [
+   {
+    "owner": "H. Wilhelm F. Brose",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Berlin",
+    "source_span": "H. Wilhelm F. Brose, Berlin"
+   },
+   {
+    "owner": "Hollstein & Puppel",
+    "role": "auction",
+    "date": "8 November 1928",
+    "year": 1928,
+    "place": "Berlin",
+    "source_span": "(his sale, Hollstein & Puppel, Berlin, 8 November 1928, no. 36)"
+   },
+   {
+    "owner": "Carl Heumann",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Chemnitz",
+    "source_span": "Carl Heumann, Chemnitz [1886-1945]"
+   },
+   {
+    "owner": "Stuttgarter Kunstkabinett",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "Stuttgarter Kunstkabinett"
+   },
+   {
+    "owner": "Roman Norbert Ketterer",
+    "role": "auction",
+    "date": "29 November 1957",
+    "year": 1957,
+    "place": null,
+    "source_span": "(Roman Norbert Ketterer, 29 November 1957, no. 18)"
+   },
+   {
+    "owner": "Richard Tüngel",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Ahrensburg",
+    "source_span": "Richard Tüngel, Ahrensburg"
+   },
+   {
+    "owner": "Beatrice Tüngel-Disclez",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Niederweiler",
+    "source_span": "Beatrice Tüngel-Disclez, Niederweiler"
+   },
+   {
+    "owner": "Wolfgang Ratjen",
+    "role": "collector",
+    "date": "1972",
+    "year": 1972,
+    "place": "Munich",
+    "source_span": "sold 1972 to  Wolfgang Ratjen, Munich"
+   },
+   {
+    "owner": "NGA",
+    "role": "museum",
+    "date": "2007",
+    "year": 2007,
+    "place": null,
+    "source_span": "purchased 2007 by NGA"
+   }
+  ]
+ },
+ {
+  "id": "3783",
+  "events": [
+   {
+    "owner": "Oettingen-Wallerstein Collection",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Maihingen",
+    "source_span": "Oettingen-Wallerstein Collection, Maihingen"
+   },
+   {
+    "owner": "Martin Aufhäuser",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Munich",
+    "source_span": "Martin Aufhäuser [1875-1944], Munich, Holland, and Los Angeles"
+   },
+   {
+    "owner": "Lessing J. Rosenwald",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Jenkintown",
+    "source_span": "Lessing J. Rosenwald, Jenkintown, PA"
+   },
+   {
+    "owner": "NGA",
+    "role": "museum",
+    "date": "1943",
+    "year": 1943,
+    "place": null,
+    "source_span": "gift to NGA, 1943"
+   }
+  ]
+ },
+ {
+  "id": "141337",
+  "events": [
+   {
+    "owner": "Jacob Theodor Cremer",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Darien",
+    "source_span": "Jacob Theodor Cremer, Darien, CT [1902 - 1979]"
+   },
+   {
+    "owner": "Adolphe Stein",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "Paris",
+    "source_span": "(Adolphe Stein, Paris)"
+   },
+   {
+    "owner": "Donald Stone",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "New York",
+    "source_span": "Donald Stone, New York [1942 - 2020]"
+   },
+   {
+    "owner": "NGA",
+    "role": "museum",
+    "date": "2022",
+    "year": 2022,
+    "place": null,
+    "source_span": "bequest to NGA, 2022"
+   }
+  ]
+ },
+ {
+  "id": "1216",
+  "events": [
+   {
+    "owner": "Alexander Blair",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Castle Bromwich",
+    "source_span": "Painted for the sitter's husband, Alexander Blair, Castle Bromwich"
+   },
+   {
+    "owner": "William Beckett-Denison",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Nun Appleton",
+    "source_span": "William Beckett-Denison [1826-1890], Nun Appleton"
+   },
+   {
+    "owner": "Ernest William Beckett",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "by descent to his son, Ernest William Beckett [1856-1917]"
+   },
+   {
+    "owner": "Christie, Manson & Woods",
+    "role": "auction",
+    "date": "23 May 1903",
+    "year": 1903,
+    "place": "London",
+    "source_span": "(sale, Christie, Manson & Woods, London, 23 May 1903, no. 80)"
+   },
+   {
+    "owner": "Charles Sedelmeyer, Sedelmeyer Gallery",
+    "role": "dealer",
+    "date": null,
+    "year": 1903,
+    "place": "Paris",
+    "source_span": "purchased by (Charles Sedelmeyer, Sedelmeyer Gallery, Paris)"
+   },
+   {
+    "owner": "Eugene Fischhof",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "sold to (Eugene Fischhof)"
+   },
+   {
+    "owner": "P.A.B. Widener",
+    "role": "collector",
+    "date": "4 April 1907",
+    "year": 1907,
+    "place": "Elkins Park",
+    "source_span": "purchased 4 April 1907 by P.A.B. Widener, Lynnewood Hall, Elkins Park"
+   },
+   {
+    "owner": "Joseph E. Widener",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": "Elkins Park",
+    "source_span": "power of appointment of Joseph E. Widener, Elkins Park"
+   },
+   {
+    "owner": "NGA",
+    "role": "museum",
+    "date": "1942",
+    "year": 1942,
+    "place": null,
+    "source_span": "gift 1942 to NGA"
+   }
+  ]
+ },
+ {
+  "id": "10566",
+  "events": [
+   {
+    "owner": "Christian Josi",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Amsterdam",
+    "source_span": "Christian Josi [1768-1828], Amsterdam and London"
+   },
+   {
+    "owner": "Maximilian Wellner",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Prague",
+    "source_span": "Maximilian Wellner [1838-1904], Prague"
+   },
+   {
+    "owner": "C.G. Boerner",
+    "role": "auction",
+    "date": "May 7-9, 1928",
+    "year": 1928,
+    "place": "Leipzig",
+    "source_span": "(sale, C.G. Boerner, Leipzig, May 7-9, 1928, lot 1100)"
+   },
+   {
+    "owner": "Lessing J. Rosenwald",
+    "role": "collector",
+    "date": null,
+    "year": 1928,
+    "place": "Jenkintown",
+    "source_span": "purchased by Lessing J. Rosenwald [1891-1979], Jenkintown, PA"
+   },
+   {
+    "owner": "NGA",
+    "role": "museum",
+    "date": "1943",
+    "year": 1943,
+    "place": null,
+    "source_span": "gift to NGA, 1943"
+   }
+  ]
+ },
+ {
+  "id": "6037",
+  "events": [
+   {
+    "owner": "C.G. Boerner",
+    "role": "auction",
+    "date": "May 7-9, 1928",
+    "year": 1928,
+    "place": "Leipzig",
+    "source_span": "(sale, C.G. Boerner, Leipzig, May 7-9, 1928, lot 347)"
+   },
+   {
+    "owner": "Lessing J. Rosenwald",
+    "role": "collector",
+    "date": null,
+    "year": 1928,
+    "place": "Jenkintown",
+    "source_span": "purchased by Lessing J. Rosenwald [1891-1979], Jenkintown, PA"
+   },
+   {
+    "owner": "NGA",
+    "role": "museum",
+    "date": "1943",
+    "year": 1943,
+    "place": null,
+    "source_span": "gift to NGA, 1943"
+   }
+  ]
+ },
+ {
+  "id": "11642",
+  "events": [
+   {
+    "owner": "Ernst Friedrich Georg Otto von der Malsburg",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Kassel",
+    "source_span": "Ernst Friedrich Georg Otto von der Malsburg (1786-1824), Kassel & Dresden"
+   },
+   {
+    "owner": "Lessing J. Rosenwald",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Jenkintown",
+    "source_span": "Lessing J. Rosenwald [1891-1979], Jenkintown, PA"
+   },
+   {
+    "owner": "NGA",
+    "role": "museum",
+    "date": "1943",
+    "year": 1943,
+    "place": null,
+    "source_span": "gift to NGA, 1943"
+   }
+  ]
+ },
+ {
+  "id": "46083",
+  "events": [
+   {
+    "owner": "Art market",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "Paris",
+    "source_span": "Art market, Paris"
+   },
+   {
+    "owner": "Otto Kahn",
+    "role": "collector",
+    "date": "by at least 1912",
+    "year": 1912,
+    "place": "New York",
+    "source_span": "Otto Kahn [1867-1934], New York, by at least 1912"
+   },
+   {
+    "owner": "Duveen Brothers, Inc.",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "London",
+    "source_span": "(Duveen Brothers, Inc., London and New York)"
+   },
+   {
+    "owner": "Samuel H. Kress Foundation",
+    "role": "collector",
+    "date": "1946",
+    "year": 1946,
+    "place": "New York",
+    "source_span": "purchased 1946 by the Samuel H. Kress Foundation, New York"
+   },
+   {
+    "owner": "NGA",
+    "role": "museum",
+    "date": "1961",
+    "year": 1961,
+    "place": null,
+    "source_span": "gift 1961 to NGA"
+   }
+  ]
+ },
+ {
+  "id": "130843",
+  "events": [
+   {
+    "owner": "Galka E. Scheyer",
+    "role": "dealer",
+    "date": "probably 1924",
+    "year": 1924,
+    "place": "Hollywood",
+    "source_span": "Consigned to Emmy Scheyer (1889-1945, known from 1924 as Galka E. Scheyer), Hollywood, California, probably 1924"
+   },
+   {
+    "owner": "Galka E. Scheyer",
+    "role": "dealer",
+    "date": "1933",
+    "year": 1933,
+    "place": "Hollywood",
+    "source_span": "consigned 1933 to Galka E. Scheyer, Hollywood"
+   },
+   {
+    "owner": "U.S. Department of Justice, Office of Alien Property",
+    "role": "auction",
+    "date": "1954",
+    "year": 1954,
+    "place": "Los Angeles",
+    "source_span": "(compulsory sale, U.S. Department of Justice, Office of Alien Property, Los Angeles, 1954, lot 8, no. 54)"
+   },
+   {
+    "owner": "Paul Kantor Gallery",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "Los Angeles",
+    "source_span": "(Paul Kantor Gallery, Los Angeles)"
+   },
+   {
+    "owner": "Kleemann Galleries",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "New York",
+    "source_span": "(Kleemann Galleries, New York)"
+   },
+   {
+    "owner": "Benjamin and Lilian Hertzberg",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "New York",
+    "source_span": "Benjamin and Lilian Hertzberg, New York"
+   },
+   {
+    "owner": "NGA",
+    "role": "museum",
+    "date": "2004",
+    "year": 2004,
+    "place": null,
+    "source_span": "bequest 2004 to NGA"
+   }
+  ]
+ },
+ {
+  "id": "9965",
+  "events": [
+   {
+    "owner": "Franz Rechberger",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "Franz Rechberger (Lugt 2133)"
+   },
+   {
+    "owner": "Franz Gawet",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "Franz Gawet (Lugt 1069)"
+   },
+   {
+    "owner": "August Artaria",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "August Artaria (Lugt 33)"
+   },
+   {
+    "owner": "Lessing Julius Rosenwald",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "Lessing Julius Rosenwald (Lugt 1760b)"
+   },
+   {
+    "owner": "National Gallery of Art",
+    "role": "museum",
+    "date": "1943",
+    "year": 1943,
+    "place": null,
+    "source_span": "given to the National Gallery of Art 1943"
+   }
+  ]
+ },
+ {
+  "id": "1735",
+  "events": [
+   {
+    "owner": "Sir Robert Meade",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "Sir Robert Meade, England"
+   },
+   {
+    "owner": "J. Pierpont Morgan",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "New York",
+    "source_span": "J. Pierpont Morgan [1837-1913], New York"
+   },
+   {
+    "owner": "Duveen Brothers",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "New York",
+    "source_span": "(Duveen Brothers, New York and London)"
+   },
+   {
+    "owner": "Peter A. B. Widener",
+    "role": "collector",
+    "date": "1915",
+    "year": 1915,
+    "place": "Elkins Park",
+    "source_span": "sold 1915 to Peter A. B. Widener, Lynnewood Hall, Elkins Park"
+   },
+   {
+    "owner": "Joseph E. Widener",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": "Elkins Park",
+    "source_span": "power of appointment of Joseph E. Widener, Elkins Park"
+   },
+   {
+    "owner": "NGA",
+    "role": "museum",
+    "date": "1942",
+    "year": 1942,
+    "place": null,
+    "source_span": "gift 1942 to NGA"
+   }
+  ]
+ },
+ {
+  "id": "10012",
+  "events": [
+   {
+    "owner": "Friedrich Quiring",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "Friedrich Quiring (Lugt 1041c)"
+   },
+   {
+    "owner": "Lessing Julius Rosenwald",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "Lessing Julius Rosenwald (Lugt 1760b)"
+   },
+   {
+    "owner": "National Gallery of Art",
+    "role": "museum",
+    "date": "1943",
+    "year": 1943,
+    "place": null,
+    "source_span": "given to the National Gallery of Art 1943"
+   }
+  ]
+ },
+ {
+  "id": "9904",
+  "events": [
+   {
+    "owner": "Wilhelm Eduard Drugulin",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Leipzig",
+    "source_span": "Wilhelm Eduard Drugulin [1825 - 1879], Leipzig"
+   },
+   {
+    "owner": "Lessing Julius Rosenwald",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "Lessing Julius Rosenwald (Lugt 1760b)"
+   },
+   {
+    "owner": "National Gallery of Art",
+    "role": "museum",
+    "date": "1943",
+    "year": 1943,
+    "place": null,
+    "source_span": "given to the National Gallery of Art 1943"
+   }
+  ]
+ },
+ {
+  "id": "3592",
+  "events": [
+   {
+    "owner": "St. John Dent",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "London",
+    "source_span": "St. John Dent [died c. 1884], London"
+   },
+   {
+    "owner": "Franz von Hagens",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Dresden",
+    "source_span": "Franz von Hagens, [1817 - 1899], Dresden"
+   },
+   {
+    "owner": "C.G. Boerner",
+    "role": "auction",
+    "date": "May 7-9, 1928",
+    "year": 1928,
+    "place": "Leipzig",
+    "source_span": "(sale, C.G. Boerner, Leipzig, May 7-9, 1928, no. 27)"
+   },
+   {
+    "owner": "Charles Sessler",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "Philadelphia",
+    "source_span": "(Charles Sessler, Philadelphia)"
+   },
+   {
+    "owner": "Lessing J. Rosenwald",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Jenkintown",
+    "source_span": "purchased by Lessing J. Rosenwald [1891-1979], Jenkintown, PA"
+   },
+   {
+    "owner": "NGA",
+    "role": "museum",
+    "date": "1943",
+    "year": 1943,
+    "place": null,
+    "source_span": "gift to NGA, 1943"
+   }
+  ]
+ },
+ {
+  "id": "46517",
+  "events": [
+   {
+    "owner": "Henri Rouart",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Paris",
+    "source_span": "Henri Rouart [1833-1912], Paris"
+   },
+   {
+    "owner": "Ernest Rouart",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": "Paris",
+    "source_span": "by inheritance to his son, Ernest Rouart [1874-1942], Paris"
+   },
+   {
+    "owner": "Galerie André Weil",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "Paris",
+    "source_span": "(Galerie André Weil, Paris)"
+   },
+   {
+    "owner": "Chester Dale",
+    "role": "collector",
+    "date": "March 1950",
+    "year": 1950,
+    "place": null,
+    "source_span": "sold March 1950 to Chester Dale [1883-1962]"
+   },
+   {
+    "owner": "NGA",
+    "role": "museum",
+    "date": "1963",
+    "year": 1963,
+    "place": null,
+    "source_span": "bequest 1963 to NGA"
+   }
+  ]
+ },
+ {
+  "id": "4640",
+  "events": [
+   {
+    "owner": "Pierre Mariette II",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Paris",
+    "source_span": "Pierre Mariette II [1634-1716], Paris"
+   },
+   {
+    "owner": "George Ambrose Cardew",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "London",
+    "source_span": "George Ambrose Cardew [1865-1942], London"
+   },
+   {
+    "owner": "Philadelphia Print Club",
+    "role": "other",
+    "date": null,
+    "year": null,
+    "place": "Philadelphia",
+    "source_span": "(Philadelphia Print Club)"
+   },
+   {
+    "owner": "Lessing J. Rosenwald",
+    "role": "collector",
+    "date": "1931",
+    "year": 1931,
+    "place": "Philadelphia",
+    "source_span": "purchased by Lessing J. Rosenwald [1891 - 1979], Philadelphia, (L.1932d), 1931"
+   },
+   {
+    "owner": "NGA",
+    "role": "museum",
+    "date": "1943",
+    "year": 1943,
+    "place": null,
+    "source_span": "gift to NGA, 1943"
+   }
+  ]
+ },
+ {
+  "id": "52161",
+  "events": [
+   {
+    "owner": "Georges Ibos",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Paris",
+    "source_span": "Georges Ibos, Paris"
+   },
+   {
+    "owner": "Hôtel Drouot",
+    "role": "auction",
+    "date": "19 June 1900",
+    "year": 1900,
+    "place": "Paris",
+    "source_span": "(Ibos sale, Hôtel Drouot, Paris, 19 June 1900, no. 11)"
+   },
+   {
+    "owner": "Durand-Ruel",
+    "role": "dealer",
+    "date": null,
+    "year": 1900,
+    "place": "Paris",
+    "source_span": "purchased by (Durand-Ruel, Paris)"
+   },
+   {
+    "owner": "E.J. van Wisselingh and Co.",
+    "role": "dealer",
+    "date": "14 November 1935",
+    "year": 1935,
+    "place": "Amsterdam",
+    "source_span": "sold 14 November 1935 to (E.J. van Wisselingh and Co., Amsterdam)"
+   },
+   {
+    "owner": "M.P. Voûte, Jr.",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Amsterdam",
+    "source_span": "M.P. Voûte, Jr., Amsterdam"
+   },
+   {
+    "owner": "E.J. van Wisselingh and Co.",
+    "role": "dealer",
+    "date": "1937",
+    "year": 1937,
+    "place": "Amsterdam",
+    "source_span": "sold 1937 to (E.J. van Wisselingh and Co., Amsterdam)"
+   },
+   {
+    "owner": "M. Knoedler and Co.",
+    "role": "dealer",
+    "date": "1937",
+    "year": 1937,
+    "place": "New York",
+    "source_span": "sold 1937 to (M.  Knoedler and Co., New York)"
+   },
+   {
+    "owner": "Harry MacNeill Bland Galleries",
+    "role": "dealer",
+    "date": "12 December 1942",
+    "year": 1942,
+    "place": "New York",
+    "source_span": "sold 12 December 1942 to (Harry MacNeill Bland Galleries, New York)"
+   },
+   {
+    "owner": "Ailsa Mellon Bruce",
+    "role": "collector",
+    "date": "1942",
+    "year": 1942,
+    "place": "New York",
+    "source_span": "sold 1942 to Ailsa Mellon Bruce [1901-1969], New York"
+   },
+   {
+    "owner": "NGA",
+    "role": "museum",
+    "date": "1970",
+    "year": 1970,
+    "place": null,
+    "source_span": "bequest 1970 to NGA"
+   }
+  ]
+ },
+ {
+  "id": "195943",
+  "events": [
+   {
+    "owner": "Corcoran Gallery of Art",
+    "role": "museum",
+    "date": "1941",
+    "year": 1941,
+    "place": "Washington",
+    "source_span": "Corcoran Gallery of Art, Washington, DC, 1941"
+   },
+   {
+    "owner": "National Gallery of Art",
+    "role": "museum",
+    "date": "2015",
+    "year": 2015,
+    "place": null,
+    "source_span": "acquired 2015 by the National Gallery of Art"
+   }
+  ]
+ }
+]

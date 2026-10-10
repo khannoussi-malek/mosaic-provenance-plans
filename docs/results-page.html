@@ -1,0 +1,226 @@
+<title>Cheap First, Escalate on Failure</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;800&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: one reading column. Question, three findings, the plan table-chart, three real answers, the data-quality finding, limits, how to rerun. */
+:root {
+  --paper: #eef1f2; --sheet: #f9fafa; --ink: #18222e; --muted: #5b6874; --rule: #cfd6db;
+  --accent: #2a5d78; --accent-soft: #dce8ef; --mark: #2a78d6; --quote: #f3e7c0; --quote-ink: #3d3108;
+  --flag: #a3392f; --flag-soft: #f6dedb; --ok: #2f7a4f; --ok-soft: #dcefe3;
+  --display: "Archivo", "Helvetica Neue", Arial, sans-serif;
+  --body: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --mono: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #12181e; --sheet: #182129; --ink: #e3e9ee; --muted: #9aa7b2; --rule: #2b3843;
+    --accent: #7fb3d1; --accent-soft: #1d3442; --mark: #3987e5; --quote: #4a3f17; --quote-ink: #f6ead0;
+    --flag: #e88a80; --flag-soft: #3d1f1c; --ok: #79c495; --ok-soft: #1a3325; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #12181e; --sheet: #182129; --ink: #e3e9ee; --muted: #9aa7b2; --rule: #2b3843;
+  --accent: #7fb3d1; --accent-soft: #1d3442; --mark: #3987e5; --quote: #4a3f17; --quote-ink: #f6ead0;
+  --flag: #e88a80; --flag-soft: #3d1f1c; --ok: #79c495; --ok-soft: #1a3325; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--paper); color: var(--ink); font: 400 17px/1.6 var(--body); }
+.wrap { max-width: 920px; margin: 0 auto; padding-inline: 18px; padding-block: 32px 64px; display: grid; gap: 40px; }
+h1, h2, h3 { font-family: var(--display); margin: 0; text-wrap: balance; letter-spacing: -0.01em; }
+h1 { font-size: clamp(1.9rem, 5vw, 2.8rem); font-weight: 800; line-height: 1.1; }
+h2 { font-size: 1.35rem; font-weight: 800; }
+h3 { font-size: 1.02rem; font-weight: 600; }
+p { margin: 0; max-width: 68ch; }
+.eyebrow, .label { font: 500 0.72rem/1.3 var(--mono); text-transform: uppercase; letter-spacing: 0.09em; color: var(--muted); }
+section { display: grid; gap: 14px; min-width: 0; }
+header.top { display: grid; gap: 14px; border-bottom: 2px solid var(--ink); padding-bottom: 22px; }
+.question { font-size: 1.12rem; border-left: 3px solid var(--accent); padding-left: 14px; }
+.findings { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 14px; }
+.finding { background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; padding: 14px 16px; display: grid; gap: 6px; align-content: start; }
+.finding b { font: 600 1.6rem/1.1 var(--mono); font-variant-numeric: tabular-nums; }
+.finding p { font-size: 0.95rem; }
+.chart-box { background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; padding: 14px; overflow-x: auto; position: relative; }
+.chart-box svg { display: block; width: 100%; min-width: 700px; height: auto; }
+.chart-box text { fill: var(--ink); font-family: var(--display); }
+.chart-box .tick { fill: var(--muted); font: 11px var(--mono); }
+.chart-box .grid { stroke: var(--rule); stroke-width: 1; }
+.chart-box .ci { stroke: var(--mark); stroke-width: 2; stroke-linecap: round; }
+.chart-box .dot { fill: var(--mark); stroke: var(--sheet); stroke-width: 2; }
+.chart-box .bar { fill: var(--mark); }
+.chart-box .row:hover .hit, .chart-box .row:focus .hit { fill: var(--accent-soft); }
+.chart-box .hit { fill: transparent; }
+.chart-box .row { outline: none; cursor: default; }
+.chart-box .row:focus-visible .hit { stroke: var(--accent); stroke-width: 1.5; }
+.tip { position: absolute; pointer-events: none; background: var(--ink); color: var(--paper); font: 400 0.82rem/1.45 var(--mono); padding: 8px 10px; border-radius: 4px; max-width: 280px; z-index: 3; }
+.note { font-size: 0.88rem; color: var(--muted); }
+.table-box { overflow-x: auto; border: 1px solid var(--rule); border-radius: 6px; background: var(--sheet); }
+table { border-collapse: collapse; width: 100%; min-width: 640px; font-size: 0.9rem; }
+th, td { text-align: left; padding: 8px 12px; border-bottom: 1px solid var(--rule); vertical-align: top; }
+th { font: 500 0.7rem/1.2 var(--mono); text-transform: uppercase; letter-spacing: 0.07em; color: var(--muted); background: var(--paper); }
+td.n { text-align: right; font-family: var(--mono); font-variant-numeric: tabular-nums; white-space: nowrap; }
+tr:last-child td { border-bottom: 0; }
+details summary { cursor: pointer; font: 500 0.82rem var(--mono); color: var(--accent); }
+details[open] summary { margin-bottom: 10px; }
+.examples { display: grid; gap: 16px; }
+.ex { background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; padding: 16px; display: grid; gap: 10px; min-width: 0; }
+.ex .meta { display: flex; flex-wrap: wrap; gap: 6px 14px; align-items: baseline; }
+.verdicts { display: flex; flex-wrap: wrap; gap: 8px; }
+.pill { font: 500 0.74rem/1 var(--mono); padding: 6px 9px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); }
+.pill.flag { background: var(--flag-soft); color: var(--flag); }
+.pill.ok { background: var(--ok-soft); color: var(--ok); }
+blockquote { margin: 0; padding: 8px 12px; border-left: 3px solid var(--rule); background: var(--paper); font-size: 0.93rem; overflow-wrap: anywhere; border-radius: 0 4px 4px 0; }
+mark { background: var(--quote); color: var(--quote-ink); padding: 0 2px; border-radius: 2px; }
+.ex p { font-size: 0.95rem; }
+code, pre { font-family: var(--mono); font-size: 0.82rem; }
+pre { background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; padding: 12px 14px; overflow-x: auto; margin: 0; }
+ul.limits { margin: 0; padding-left: 1.2em; display: grid; gap: 6px; max-width: 72ch; }
+footer { font-size: 0.82rem; color: var(--muted); border-top: 1px solid var(--rule); padding-top: 12px; }
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <span class="eyebrow">Malek Khannoussi · independent work sample for the Mosaic PhD position · 10 October 2026</span>
+    <h1>Cheap first, escalate on failure</h1>
+    <p class="question">Which works in the National Gallery of Art passed between 1933 and 1945 through a person or firm on the 1946 ALIU Red Flag Names List, and how should a system spend compute to answer that reliably?</p>
+    <p>Seven ways of answering were run on 100 provenance texts with local models on one laptop, scored against the museum's own owner list, and compared with 95% intervals. Every answer quotes the sentence it rests on, for an expert to judge.</p>
+    <p class="note">Not affiliated with HPI or MIT. Built with an AI coding assistant; see “How this was made” below.</p>
+  </header>
+
+  <section aria-labelledby="h-find">
+    <h2 id="h-find">What came out</h2>
+    <div class="findings" id="findings"></div>
+  </section>
+
+  <section aria-labelledby="h-plans">
+    <h2 id="h-plans">Plans compared</h2>
+    <div class="chart-box" id="chart"><div class="tip" id="tip" hidden></div></div>
+    <p class="note">One row per plan. Dots are estimates, lines 95% bootstrap intervals over documents. Owner F1 is measured against the museum's structured owner list (n = 100); screening F1 on 91 documents with reference labels from two independent LLM labelers (agreement 91%, κ = 0.84). Hover or focus a row for details.</p>
+    <details>
+      <summary>Show as a table</summary>
+      <div class="table-box"><table id="table"></table></div>
+    </details>
+    <div class="table-box"><table id="plans"></table></div>
+  </section>
+
+  <section aria-labelledby="h-ex">
+    <h2 id="h-ex">Three real answers</h2>
+    <p class="note">Quotes are exact copies from the museum's provenance text; the highlighted passage is what the system cites. Wording follows the source.</p>
+    <div class="examples" id="examples"></div>
+  </section>
+
+  <section aria-labelledby="h-dq">
+    <h2 id="h-dq">The museum's two descriptions disagree</h2>
+    <p id="dq"></p>
+  </section>
+
+  <section aria-labelledby="h-lim">
+    <h2 id="h-lim">Limits</h2>
+    <ul class="limits">
+      <li>Small and single-machine: 100 + 20 documents, one laptop, two open models; screening intervals are wide, and 15 of the 22 flags involve one dealer.</li>
+      <li>No domain expert: screening labels come from two Claude agents of one model family, which share errors; owner scores rest on the museum's own data, which is incomplete.</li>
+      <li>Owner matching in the scorer is approximate (it links foundations to their founders); its error is unmeasured and may be the size of the cascade's gain.</li>
+      <li>Three scoring definitions were corrected after seeing results, for all plans alike; before and after are kept.</li>
+      <li>Output is candidates and evidence for experts, never a finding about a person or a restitution claim.</li>
+    </ul>
+  </section>
+
+  <section aria-labelledby="h-made">
+    <h2 id="h-made">How this was made</h2>
+    <p>I built the study with an AI coding assistant (Claude Code). I set the goals and constraints (public data, local models at zero cost, measured comparisons), made the decisions and reviewed the results; the assistant wrote most of the code, ran the experiments and drafted the analyses. The plans ran on local models; Claude also made the reference labels, judged the Chicago answers and read the texts once for the graph. Every number on this page can be recomputed from the repository.</p>
+  </section>
+
+  <section aria-labelledby="h-run">
+    <h2 id="h-run">Rerun it</h2>
+    <pre>python3 -u cascade.py qwen3:8b qwen2.5:14b data/testset_nga.json out/run_P3.json
+python3 results.py          # every number on this page, with intervals
+python3 ask.py "Which paintings passed through a Red Flag dealer between 1933 and 1945?"</pre>
+    <p class="note">All code, data and cached model answers are in the project folder (<code>demo/README.md</code>). With the cache, every number recomputes in seconds; without it, in about two hours on an Apple M4 Pro.</p>
+  </section>
+
+  <footer>Malek Khannoussi. Data: National Gallery of Art open data and Art Institute of Chicago API (CC0); ALIU Red Flag Names List (1946), from the Commission for Looted Art in Europe's transcription of the NARA original. Independent work, not affiliated with HPI or MIT, not peer-reviewed.</footer>
+</div>
+
+<script id="data" type="application/json">{"results": {"n_docs": 100, "labels": {"agreement": 0.907, "kappa": 0.842, "left_out": 9}, "plans": {"P0": {"seconds": 0, "errors": null, "unsupported": null, "owners": null, "owners_ci": null, "screen": {"P": 0.537, "R": 0.846, "F1": 0.657, "not_decided": 0, "R_lenient": 0.846}, "screen_ci": [0.5, 0.779]}, "P1": {"seconds": 2137, "errors": 2, "unsupported": 0.01, "owners": {"P": 0.719, "R": 0.82, "F1": 0.766}, "owners_ci": [0.725, 0.808], "screen": {"P": 0.952, "R": 0.769, "F1": 0.851, "not_decided": 1, "R_lenient": 0.769}, "screen_ci": [0.714, 0.943]}, "P1r": {"seconds": 2234, "errors": 1, "unsupported": 0.011, "owners": {"P": 0.719, "R": 0.837, "F1": 0.773}, "owners_ci": [0.735, 0.812], "screen": {"P": 0.952, "R": 0.769, "F1": 0.851, "not_decided": 1, "R_lenient": 0.769}, "screen_ci": [0.714, 0.943]}, "P2": {"seconds": 2928, "errors": 3, "unsupported": 0.026, "owners": {"P": 0.738, "R": 0.824, "F1": 0.779}, "owners_ci": [0.741, 0.812], "screen": {"P": 0.944, "R": 0.654, "F1": 0.773, "not_decided": 0, "R_lenient": 0.654}, "screen_ci": [0.621, 0.889]}, "P3": {"seconds": 2853, "errors": 0, "unsupported": 0.003, "owners": {"P": 0.732, "R": 0.861, "F1": 0.791}, "owners_ci": [0.756, 0.827], "screen": {"P": 0.952, "R": 0.769, "F1": 0.851, "not_decided": 0, "R_lenient": 0.769}, "screen_ci": [0.714, 0.943]}, "P4": {"seconds": 4531, "errors": 2, "unsupported": 0.008, "owners": {"P": 0.713, "R": 0.822, "F1": 0.764}, "owners_ci": [0.722, 0.805], "screen": {"P": 0.952, "R": 0.769, "F1": 0.851, "not_decided": 1, "R_lenient": 0.769}, "screen_ci": [0.714, 0.943]}, "P5": {"seconds": 2903, "errors": 0, "unsupported": 0.003, "owners": {"P": 0.732, "R": 0.861, "F1": 0.791}, "owners_ci": [0.756, 0.827], "screen": {"P": 0.95, "R": 0.731, "F1": 0.826, "not_decided": 0, "R_lenient": 0.731}, "screen_ci": [0.688, 0.93]}}}, "order": ["P0", "P1", "P1r", "P2", "P3", "P4", "P5"], "names": {"P0": "P0 name match", "P1": "P1 small model", "P1r": "P1r small + retry", "P2": "P2 large model", "P3": "P3 cascade", "P4": "P4 small + verifier", "P5": "P5 cascade + adjudicator"}, "what": {"P0": "Red Flag full-name string match on the raw text; no model.", "P1": "qwen3:8b extracts ownership events (owner, role, date, place, exact quote).", "P1r": "P1, and on a parse error or truncation the same model is asked again with more room.", "P2": "qwen2.5:14b, same task as P1.", "P3": "P1 first; a document goes to P2 only when a free check fails.", "P4": "P1, then a second pass by the same model fixes, drops or adds events.", "P5": "P3, then an adjudicator reads each flagged match with the list entry's note."}, "findings": [{"label": "Name matching vs small model", "value": "0.66 → 0.85", "text": "Screening F1. Reading dates and context removes most false alarms; precision rises from 0.54 to 0.95."}, {"label": "Bigger model alone", "value": "+37% compute", "text": "The 14b model is not reliably better than the 8b model on either task, and has the lowest recall at both museums."}, {"label": "Cascade (P3)", "value": "0.791 owner F1", "text": "Beats the small model and its retry on owners, but not the large model. It is cheaper than the large model only when cost ratio plus escalation share is below 1: just held on the test set, failed on the dev split."}, {"label": "Same model, retried", "value": "0.773 owner F1", "text": "Retrying the small model fixes an answer that ran out of room (+4.5% compute), but not a malformed one: at temperature 0 the same model repeats it."}], "examples": [{"id": "73398", "title": "A Flagellator of Christ", "artist": "Alessandro Algardi", "verdicts": [{"kind": "flag", "text": "P0 flagged"}, {"kind": "flag", "text": "P3 flagged"}, {"kind": "", "text": "reference: flagged"}], "quotes": [{"text": "This object was sold in 1942 with the Gutmann collection of 225 silver, jewelry and Renaissance objects to the dealers Karl Haberstock and Julius Boehler", "mark": "sold in 1942 with the Gutmann collection of 225 silver, jewelry and Renaissance objects to the dealers Karl Haberstock and Julius Boehler"}], "why": "The 1942 sale appears only in a footnote, after the main ownership chain. The extraction found it, dated it and linked both dealers to their list entries; string matching agreed. The answer is a pointer for an expert, with the footnote as its source."}, {"id": "172", "title": "Portrait of a Young Woman", "artist": "Giuliano Bugiardini", "verdicts": [{"kind": "flag", "text": "P0 flagged"}, {"kind": "ok", "text": "P3 not flagged"}, {"kind": "", "text": "reference: not flagged"}], "quotes": [{"text": "(Count Alessandro Contini Bonacossi [1878-1955], Rome);[2] sold 1929 to the Samuel H. Kress Foundation, New York", "mark": "sold 1929"}], "why": "Contini Bonacossi is on the list, so string matching raises an alarm. The extraction reads the holding period: he sold the painting in 1929, before 1933. This is the kind of false alarm that halves string matching's precision."}, {"id": "66424", "title": "Still Life with Sleeping Woman", "artist": "Henri Matisse", "verdicts": [{"kind": "flag", "text": "P0 flagged"}, {"kind": "flag", "text": "P3 flagged"}, {"kind": "", "text": "reference: flagged"}], "quotes": [{"text": "This painting was confiscated by the ERR in 1941 with others from the Rosenberg collection in France", "mark": "confiscated by the ERR in 1941"}, {"text": "Goering is documented as having traded the painting to Gustav Rochlitz, who claimed to have sold it to Hans Wendland", "mark": "who claimed to have sold it to Hans Wendland"}], "why": "The footnote names Hans Wendland, a dealer on the Red Flag list, but the museum's own structured owner list does not include him. A system that trusted the structured list alone would miss him; one that reads the text can show the gap to a curator."}], "dq": "Comparing each National Gallery text with the museum's own structured owner list, up to 148 owners named in the texts are missing from the list (61 of 100 objects), among them the Red Flag dealer Hans Wendland, and up to 38 acquisition dates differ by three years or more. These are upper bounds and candidates for curators, not measured errors: the name matching between the two is approximate (it links the Kress Foundation to Samuel H. Kress), some date pairs compare an end date with a start date, and 20 apparent conflicts were lifespans read as acquisition years."}</script>
+<script>
+(function () {
+  const D = JSON.parse(document.getElementById("data").textContent);
+  const $ = (id) => document.getElementById(id);
+  const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
+  const NS = "http://www.w3.org/2000/svg";
+  const sv = (tag, attrs, text) => { const e = document.createElementNS(NS, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); if (text != null) e.textContent = text; return e; };
+  const P = D.results.plans, ORDER = D.order.filter((n) => P[n]);
+
+  D.findings.forEach((f) => { const c = el("div", "finding"); c.append(el("span", "label", f.label), el("b", null, f.value), el("p", null, f.text)); $("findings").append(c); });
+
+  // Chart: rows = plans; columns = owners F1, screening F1, compute minutes.
+  const W = 860, ROW = 34, TOP = 56, LW = 190, GAP = 26, CW = (W - LW - 2 * GAP - 40) / 3, H = TOP + ROW * ORDER.length + 8;
+  const svg = sv("svg", { viewBox: `0 0 ${W} ${H}`, role: "img", "aria-label": "Owner F1, screening F1 and compute minutes per plan" });
+  const maxMin = Math.max(10, Math.ceil(Math.max(...ORDER.map((n) => P[n].seconds / 60)) / 10) * 10);
+  const cols = [
+    { title: "Owner extraction F1", lo: 0.70, hi: 0.85, ticks: [0.70, 0.75, 0.80, 0.85] },
+    { title: "Screening F1", lo: 0.45, hi: 1.0, ticks: [0.5, 0.6, 0.7, 0.8, 0.9, 1.0] },
+    { title: "Compute, min per 100 docs", lo: 0, hi: maxMin, ticks: Array.from({ length: maxMin / 20 + 1 }, (_, i) => i * 20) },
+  ];
+  cols.forEach((c, j) => {
+    c.x0 = LW + j * (CW + GAP); c.sx = (v) => c.x0 + (v - c.lo) / (c.hi - c.lo) * CW;
+    svg.append(sv("text", { x: c.x0, y: 20, "font-size": 13, "font-weight": 600 }, c.title));
+    c.ticks.forEach((t) => { svg.append(sv("line", { x1: c.sx(t), x2: c.sx(t), y1: TOP - 8, y2: H - 8, class: "grid" }));
+      svg.append(sv("text", { x: c.sx(t), y: TOP - 14, "text-anchor": "middle", class: "tick" }, String(t))); });
+  });
+  const tip = $("tip");
+  ORDER.forEach((n, i) => {
+    const p = P[n], y = TOP + ROW * i + ROW / 2;
+    const g = sv("g", { class: "row", tabindex: 0, "aria-label": D.names[n] });
+    g.append(sv("rect", { x: 0, y: y - ROW / 2 + 1, width: W, height: ROW - 2, rx: 4, class: "hit" }));
+    g.append(sv("text", { x: 8, y: y + 4, "font-size": 13 }, D.names[n]));
+    const dot = (c, v, ci) => { g.append(sv("line", { x1: c.sx(ci[0]), x2: c.sx(ci[1]), y1: y, y2: y, class: "ci" }));
+      g.append(sv("circle", { cx: c.sx(v), cy: y, r: 5, class: "dot" }));
+      g.append(sv("text", { x: c.sx(ci[1]) + 7, y: y + 4, class: "tick" }, v.toFixed(2))); };
+    if (n === "P5") g.append(sv("text", { x: cols[0].x0 + 4, y: y + 4, class: "tick" }, "same as P3"));
+    else if (p.owners) dot(cols[0], p.owners.F1, p.owners_ci);
+    else g.append(sv("text", { x: cols[0].x0 + 4, y: y + 4, class: "tick" }, "no extraction"));
+    dot(cols[1], p.screen.F1, p.screen_ci);
+    const m = p.seconds / 60, c = cols[2];
+    g.append(sv("rect", { x: c.x0, y: y - 6, width: Math.max(c.sx(m) - c.x0, 0), height: 12, rx: 3, class: "bar" }));
+    g.append(sv("text", { x: Math.max(c.sx(m), c.x0) + 6, y: y + 4, class: "tick" }, m.toFixed(0)));
+    const lines = [D.names[n], D.what[n]];
+    if (p.owners && n !== "P5") lines.push(`owners P ${p.owners.P.toFixed(2)} · R ${p.owners.R.toFixed(2)} · F1 ${p.owners.F1.toFixed(3)} [${p.owners_ci.join("–")}]`);
+    lines.push(`screening P ${p.screen.P.toFixed(2)} · R ${p.screen.R.toFixed(2)} · F1 ${p.screen.F1.toFixed(3)} [${p.screen_ci.join("–")}]`);
+    if (p.unsupported != null) lines.push(`unsupported quotes ${(p.unsupported * 100).toFixed(1)}% · errors ${p.errors}`);
+    const show = (ev) => { tip.textContent = lines.join("\n"); tip.style.whiteSpace = "pre-line"; tip.hidden = false;
+      const box = $("chart").getBoundingClientRect(), r = g.getBoundingClientRect();
+      tip.style.left = Math.min(Math.max(8, (ev && ev.clientX ? ev.clientX - box.left : 200) + 12), box.width - 290) + "px";
+      tip.style.top = (r.bottom - box.top + 4) + "px"; };
+    g.addEventListener("mousemove", show); g.addEventListener("focus", () => show(null));
+    g.addEventListener("mouseleave", () => { tip.hidden = true; }); g.addEventListener("blur", () => { tip.hidden = true; });
+    svg.append(g);
+  });
+  $("chart").append(svg);
+
+  const t = $("table");
+  t.innerHTML = "<thead><tr><th>Plan</th><th>Owner F1 [95% CI]</th><th>Screening F1 [95% CI]</th><th>Unsupported</th><th>Errors</th><th>Minutes</th></tr></thead>";
+  const tb = el("tbody"); ORDER.forEach((n) => { const p = P[n], tr = el("tr");
+    tr.append(el("td", null, D.names[n]),
+      el("td", "n", n === "P5" ? "same as P3" : p.owners ? `${p.owners.F1.toFixed(3)} [${p.owners_ci.join("–")}]` : "—"),
+      el("td", "n", `${p.screen.F1.toFixed(3)} [${p.screen_ci.join("–")}]`),
+      el("td", "n", p.unsupported != null ? (p.unsupported * 100).toFixed(1) + "%" : "—"),
+      el("td", "n", p.errors != null ? String(p.errors) : "—"), el("td", "n", (p.seconds / 60).toFixed(0)));
+    tb.append(tr); }); t.append(tb);
+  const pt = $("plans");
+  pt.innerHTML = "<thead><tr><th>Plan</th><th>What it does</th></tr></thead>";
+  const pb = el("tbody"); ORDER.forEach((n) => { const tr = el("tr"); tr.append(el("td", null, D.names[n]), el("td", null, D.what[n])); pb.append(tr); }); pt.append(pb);
+
+  D.examples.forEach((x) => {
+    const c = el("article", "ex"), meta = el("div", "meta");
+    meta.append(el("h3", null, x.title), el("span", "label", `NGA ${x.id} · ${x.artist}`));
+    const v = el("div", "verdicts");
+    x.verdicts.forEach((p) => v.append(el("span", "pill " + p.kind, p.text)));
+    c.append(meta, v);
+    x.quotes.forEach((q) => { const b = el("blockquote"); const i = q.text.indexOf(q.mark);
+      if (i >= 0) b.append(q.text.slice(0, i), el("mark", null, q.mark), q.text.slice(i + q.mark.length)); else b.textContent = q.text;
+      c.append(b); });
+    c.append(el("p", null, x.why));
+    $("examples").append(c);
+  });
+  $("dq").textContent = D.dq;
+})();
+</script>

@@ -1,0 +1,83 @@
+QUESTION  Which paintings passed through a dealer on the Nazi-era Red Flag list between 1933 and 1945? I want a quick answer.
+UNDERSTOOD  period 1933-1945 · watch list: red_flag · sources: NGA (100 records) · preference: fast · budget: none · read by qwen3:8b
+
+PLAN (chosen from measured results)
+  1. extract ownership events with qwen3:8b
+  2. keep only events whose quote is in the text
+  3. match owners to the Red Flag list, holding period within 1933-1945
+  4. verdict per object: flagged / not decided / not flagged, with evidence
+
+  chosen P1: screening F1 0.85, about 2137 s
+  alternatives: P0 F1 0.66 ~0 s; P1r F1 0.85 ~2234 s; P2 F1 0.77 ~2928 s; P3 F1 0.85 ~2853 s
+
+ANSWER  22 flagged · 0 not decided · 78 not flagged, of 100 records
+
+FLAGGED  NGA 422 · The Nativity
+   Count Alessandro Contini Bonacossi (other, Florence): "Count Alessandro Contini Bonacossi, Florence"
+     until Samuel H. Kress Foundation (October 1937): "sold October 1937 to the Samuel H. Kress Foundation, New York"
+FLAGGED  NGA 73398 · A Flagellator of Christ
+   Karl Haberstock and Julius Boehler (dealer, 1942): "sold in 1942 with the Gutmann collection of 225 silver, jewelry and Renaissance objects to the dealers Karl Haberstock and Julius Boehler"
+FLAGGED  NGA 297 · Allegory of Virtue and Vice
+   Count Alessandro Contini Bonacossi (other, Count Alessandro Contini Bonacossi, Florence and Rome): "(Count Alessandro Contini Bonacossi, Florence and Rome)"
+     until Samuel H. Kress Foundation (sold 1935): "sold 1935 to the Samuel H. Kress Foundation, New York;"
+FLAGGED  NGA 46246 · Saint Peter
+   Alessandro Contini Bonacossi (collector, 1878-1955): "(Alessandro Contini Bonacossi, 1878-1955, Rome and Florence);"
+     until Samuel H. Kress (26 June 1935): "purchased 26 June 1935 by Samuel H. Kress (1863-1955), New York;"
+FLAGGED  NGA 277 · Allegory of Painting
+   Count Alessandro Contini Bonacossi (collector, [1878-1955]): "Count Alessandro Contini Bonacossi [1878-1955], Florence and Rome"
+     until Samuel H. Kress Foundation (sold 1933): "sold 1933 to the Samuel H. Kress Foundation, New York"
+FLAGGED  NGA 46286 · Costume Ornament with Profile Portrait
+   Alessandro Contini Bonacossi (collector, 1878-1955): "(Alessandro Contini Bonacossi, 1878-1955, Rome and Florence);"
+     until Samuel H. Kress (26 June 1935): "purchased 26 June 1935 by Samuel H. Kress (1863-1955), New York;"
+FLAGGED  NGA 285 · Madonna Adoring the Child
+   Count Alessandro Contini Bonacossi (other, 1878-1955): "(Count Alessandro Contini Bonacossi [1878-1955], Florence and Rome)"
+     until Samuel H. Kress Foundation (1934): "sold 1934 to the Samuel H. Kress Foundation, New York[2]"
+FLAGGED  NGA 46224 · Saint Gregory
+   Alessandro Contini Bonacossi (collector, 1878-1955): "(Alessandro Contini Bonacossi, 1878-1955, Rome and Florence);"
+     until Samuel H. Kress (26 June 1935): "purchased 26 June 1935 by Samuel H. Kress (1863-1955), New York;"
+FLAGGED  NGA 46488 · French Theater
+   Étienne Bignou (dealer, on joint account with): "on joint account with (Étienne Bignou, Paris and New York); sold March 1933 to Chester Dale [1883-1962], New York;"
+     until Chester Dale (March 1933): "sold March 1933 to Chester Dale [1883-1962], New York;"
+FLAGGED  NGA 46258 · Episodes from the Life of Christ: Deposition
+   Alessandro Contini Bonacossi (collector, 1878-1955): "(Alessandro Contini Bonacossi, 1878-1955, Rome and Florence);"
+     until Samuel H. Kress (26 June 1935): "purchased 26 June 1935 by Samuel H. Kress (1863-1955), New York;"
+FLAGGED  NGA 66424 · Still Life with Sleeping Woman
+   Gustav Rochlitz (dealer, 1941): "Goering is documented as having traded the painting to Gustav Rochlitz, who claimed to have sold it to Hans Wendland"
+     until Hans Wendland (1941): "Goering is documented as having traded the painting to Gustav Rochlitz, who claimed to have sold it to Hans Wendland"
+   Hans Wendland (dealer, 1941): "Goering is documented as having traded the painting to Gustav Rochlitz, who claimed to have sold it to Hans Wendland"
+     until Kohl and Renoux (1941): "Paul Rosenberg's brother Edmond states that by that time the picture was in a private collection in Paris, having been sold by the dealers Kohl and Renoux of ru"
+FLAGGED  NGA 46163 · View of Munich
+   Karl Haberstock (collector, sold 1928 to (Karl Haberstock, Berlin), possibly until 1936): "Possibly (Sabin, London); sold 1928 to (Karl Haberstock, Berlin), possibly until 1936."
+FLAGGED  NGA 46285 · Cabinet
+   Count Alessandro Contini Bonacossi (collector, before 1922): "(Count Alessandro Contini Bonacossi, Rome and Florence);"
+     until Samuel H. Kress (26 June 1935): "purchased 26 June 1935 by Samuel H. Kress, New York;"
+FLAGGED  NGA 139213 · Malresl Working in the Kitchen
+   Paul Graupe (dealer, 12 October 1935): "(sale, Paul Graupe, Berlin, 12 October 1935, no. 64)"
+FLAGGED  NGA 470 · The Nativity
+   Count Alessandro Contini Bonacossi (collector, (Count Alessandro Contini Bonacossi, Florence);): "(Count Alessandro Contini Bonacossi, Florence); purchased June 1937 by the Samuel H. Kress Foundation, New York;[4]"
+     until Samuel H. Kress Foundation (purchased June 1937): "(Count Alessandro Contini Bonacossi, Florence); purchased June 1937 by the Samuel H. Kress Foundation, New York;[4]"
+FLAGGED  NGA 46207 · Saint Jerome
+   Alessandro Contini Bonacossi (collector, 1878-1955): "(Alessandro Contini Bonacossi, 1878-1955, Rome and Florence)"
+     until Samuel H. Kress (26 June 1935): "purchased 26 June 1935 by Samuel H. Kress (1863-1955), New York"
+FLAGGED  NGA 895 · Advice to a Young Artist
+   Galerie Étienne Bignou (dealer, 1941): "(Galerie Étienne Bignou, New York); sold 1941 to Duncan Phillips [1886-1966], Washington, D.C.;"
+FLAGGED  NGA 309 · Saint Jerome in the Wilderness
+   Count Alessandro Contini Bonacossi (collector, Florence): "(Count Alessandro Contini Bonacossi, Florence);"
+     until Samuel H. Kress Foundation (June 1935): "purchased June 1935 by the Samuel H. Kress Foundation, New York;"
+FLAGGED  NGA 46223 · Saint Augustine
+   Alessandro Contini Bonacossi (collector, 1878-1955): "(Alessandro Contini Bonacossi, 1878-1955, Rome and Florence);[2]"
+     until Samuel H. Kress (26 June 1935): "purchased 26 June 1935 by Samuel H. Kress (1863-1955), New York;"
+FLAGGED  NGA 12111 · Madonna and Child
+   Édouard Larcade (collector, by 1927): "(Édouard Larcade, Paris), by 1927."
+     until Count Alessandro Contini Bonacossi (by 1938): "(Count Alessandro Contini Bonacossi, Florence), by 1938;"
+   Count Alessandro Contini Bonacossi (collector, by 1938): "(Count Alessandro Contini Bonacossi, Florence), by 1938;"
+FLAGGED  NGA 52183 · Madame Lépine
+   Hôtel Drouot (auction, 23 November 1910): "(sale, Hôtel Drouot, Paris, 23 November 1910, no. 33)"
+     until Ailsa Mellon Bruce (15 August 1955): "by whom sold 15 August 1955 to Ailsa Mellon Bruce [1901-1969], New York;"
+FLAGGED  NGA 46273 · Bust of a Young Man in a Niche
+   Alessandro Contini Bonacossi (collector, 1878-1955): "(Alessandro Contini Bonacossi, 1878-1955, Rome and Florence)"
+     until Samuel H. Kress (26 June 1935): "purchased 26 June 1935 by Samuel H. Kress (1863-1955), New York"
+
+These are candidates and evidence for an expert to review, not a finding about any person or a restitution claim.
+
+ran in 0 s wall (cached answers are reused)

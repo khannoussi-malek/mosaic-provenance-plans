@@ -1,0 +1,21 @@
+qwen2.5:14b 16963: 5 events, 5/5 spans ok, 110.8s, out_tok=320, err=None
+qwen2.5:14b 12526: 7 events, 6/7 spans ok, 63.7s, out_tok=452, err=None
+qwen2.5:14b 46248: 6 events, 6/6 spans ok, 51.6s, out_tok=407, err=None
+qwen2.5:14b 42949: 8 events, 7/8 spans ok, 78.4s, out_tok=633, err=None
+qwen2.5:14b 27350: 7 events, 7/7 spans ok, 57.7s, out_tok=451, err=None
+qwen2.5:14b 20601: 6 events, 6/6 spans ok, 45.6s, out_tok=372, err=None
+qwen2.5:14b 16600: 7 events, 7/7 spans ok, 69.8s, out_tok=521, err=None
+qwen2.5:14b 243810: 14 events, 13/14 spans ok, 183.9s, out_tok=1256, err=None
+qwen2.5:14b 16405: 8 events, 8/8 spans ok, 93.8s, out_tok=693, err=None
+qwen2.5:14b 100264: 9 events, 9/9 spans ok, 85.5s, out_tok=657, err=None
+qwen2.5:14b 6398: 5 events, 5/5 spans ok, 37.3s, out_tok=312, err=None
+qwen2.5:14b 6238: 3 events, 3/3 spans ok, 24.4s, out_tok=221, err=None
+qwen2.5:14b 15860: 5 events, 5/5 spans ok, 35.9s, out_tok=325, err=None
+qwen2.5:14b 23333: 0 events, 0/0 spans ok, 84.3s, out_tok=825, err=ValueError: owner and source_span must be strings
+qwen2.5:14b 24361: 6 events, 6/6 spans ok, 40.4s, out_tok=448, err=None
+qwen2.5:14b 74793: 4 events, 4/4 spans ok, 30.8s, out_tok=339, err=None
+qwen2.5:14b 85663: 3 events, 3/3 spans ok, 20.8s, out_tok=226, err=None
+qwen2.5:14b 5513: 3 events, 3/3 spans ok, 22.5s, out_tok=228, err=None
+qwen2.5:14b 81788: 6 events, 6/6 spans ok, 41.9s, out_tok=473, err=None
+qwen2.5:14b 22186: 4 events, 4/4 spans ok, 24.9s, out_tok=288, err=None
+TOTAL qwen2.5:14b: 1212.8s wall for 20 docs

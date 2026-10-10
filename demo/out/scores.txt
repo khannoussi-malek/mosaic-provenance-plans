@@ -1,0 +1,29 @@
+test set: 100 docs, 540 gold owners, 31 silver-flagged
+
+P0 string match
+  owners:    n/a (no extraction)
+  screening: {'P': 0.568, 'R': 0.806, 'F1': 0.667, 'not_decided': 0, 'R_lenient': 0.806}
+  cost:      0 model calls
+
+run_P1
+  owners:    {'P': 0.719, 'R': 0.82, 'F1': 0.766}
+  screening: {'P': 0.909, 'R': 0.645, 'F1': 0.755, 'not_decided': 0, 'R_lenient': 0.645}
+  cost:      {'docs': 100, 'errors': 2, 'out_tok': 64815, 'seconds': 2136.7, 'unsupported': 0.01}
+
+run_P2
+  owners:    {'P': 0.738, 'R': 0.824, 'F1': 0.779}
+  screening: {'P': 0.895, 'R': 0.548, 'F1': 0.68, 'not_decided': 0, 'R_lenient': 0.548}
+  cost:      {'docs': 100, 'errors': 3, 'out_tok': 49208, 'seconds': 2928.1, 'unsupported': 0.026}
+
+run_P3
+  owners:    {'P': 0.732, 'R': 0.861, 'F1': 0.791}
+  screening: {'P': 0.909, 'R': 0.645, 'F1': 0.755, 'not_decided': 0, 'R_lenient': 0.645}
+  cost:      {'docs': 100, 'errors': 0, 'out_tok': 76843, 'seconds': 2852.5, 'unsupported': 0.003}
+
+95% bootstrap intervals (1,000 resamples of the 100 documents):
+  P0               owners F1 None  screening F1 (0.521, 0.775)
+  run_P1           owners F1 (0.725, 0.808)  screening F1 (0.6, 0.875)
+  run_P2           owners F1 (0.741, 0.812)  screening F1 (0.511, 0.807)
+  run_P3           owners F1 (0.756, 0.827)  screening F1 (0.6, 0.875)
+  run_P2 - P1      owners F1 (-0.024, 0.05)  screening F1 (-0.179, 0.0)
+  run_P3 - P1      owners F1 (0.005, 0.053)  screening F1 (0.0, 0.0)

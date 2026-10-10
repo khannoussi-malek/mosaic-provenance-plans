@@ -1,0 +1,1540 @@
+[
+ {
+  "id": "16963",
+  "title": "Eve after the Fall",
+  "artist": "Auguste Rodin (French, 1840–1917)",
+  "text": "The artist to Paul Paulin, Paris, about 1886 [letter from Andrė Schoeller to Knoedler and Co., July 19, 1922; copy in curatorial object file]; Andre Schoeller, Paris, until 1922; sold Knoedler and Co., New York to Martin A. Ryerson (d. 1932), Chicago, 1922 [letter from Knoedler and Co. to Martin A. Ryerson, June 2, 1922; copy in curatorial object file]; bequeathed to the Art Institute of Chicago, 1933.",
+  "owners": [
+   {
+    "key": "artist",
+    "name": "The artist",
+    "role": "other",
+    "date": "about 1886",
+    "plans": [
+     "P1",
+     "P3"
+    ]
+   },
+   {
+    "key": "paul paulin",
+    "name": "Paul Paulin",
+    "role": "other",
+    "date": null,
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "andre schoeller",
+    "name": "Andre Schoeller",
+    "role": "other",
+    "date": "until 1922",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "knoedler",
+    "name": "Knoedler and Co.",
+    "role": "auction",
+    "date": "1922",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "martin ryerson",
+    "name": "Martin A. Ryerson",
+    "role": "other",
+    "date": "1922",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "art chicago institute",
+    "name": "Art Institute of Chicago",
+    "role": "museum",
+    "date": "1933",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "12526",
+  "title": "Four Sketches of Arab Men",
+  "artist": "Eugène Delacroix\nFrench, 1798-1863",
+  "text": "Estate of the artist [Lugt suppl. 838a].  Sold, Hôtel Drouot, Paris, February 22-27, 1864, lot 535.  Baron (Joseph?)  Vitta (died 1942), [according to New York 1959 auction cat.].  Sold by Charles Slatkin Gallery, New York, to Samuel Sair, Winnipeg, Manitoba, Canada [according to New York 1959 auction cat.]; sold, Parke-Bernet Galleries, New York, December 9, 1959, lot 13.  Sold by Charles Slatkin Gallery, New York, to the Art Institute, 1960.",
+  "owners": [
+   {
+    "key": "artist estate",
+    "name": "Estate of the artist",
+    "role": "other",
+    "date": "1864",
+    "plans": [
+     "P1"
+    ]
+   },
+   {
+    "key": "joseph vitta",
+    "name": "Baron (Joseph?) Vitta",
+    "role": "other",
+    "date": "1864",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "charles slatkin",
+    "name": "Charles Slatkin Gallery",
+    "role": "dealer",
+    "date": "1959",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "sair samuel",
+    "name": "Samuel Sair",
+    "role": "other",
+    "date": "1959",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "bernet galleries parke",
+    "name": "Parke-Bernet Galleries",
+    "role": "auction",
+    "date": "December 9, 1959",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "art institute",
+    "name": "Art Institute",
+    "role": "museum",
+    "date": "1960",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "drouot hotel",
+    "name": "Hôtel Drouot",
+    "role": "auction",
+    "date": "February 22-27, 1864",
+    "plans": [
+     "P2",
+     "P3"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "46248",
+  "title": "Crucifix",
+  "artist": "Mosan; Meuse River Valley or German; Rhineland",
+  "text": "Richard von Kaufmann, Berlin, before 1917; sold, Paul Cassirer and Hugo Helbing, Berlin, 12 December 1917, lot 470.   Harry Fuld (b. 1879 - d. 1932), Frankfurt; by descent to his widow, Lucie Mayer-Fuld (d. 1966), Frankfurt, Berlin, and New York, 1932-1942 [according to incoming shipping receipt in curatorial file]; on loan to the Art Institute starting October 17, 1942 [according to incoming receipt in Registrar's file]; sold, through Raphael Stora, to the Art Institute, 1942 [according to incoming shipping receipt, mentioned above].",
+  "owners": [
+   {
+    "key": "kaufmann richard",
+    "name": "Richard von Kaufmann",
+    "role": "collector",
+    "date": "before 1917",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "cassirer helbing hugo paul",
+    "name": "Paul Cassirer and Hugo Helbing",
+    "role": "dealer",
+    "date": "12 December 1917",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "fuld harry",
+    "name": "Harry Fuld",
+    "role": "collector",
+    "date": "1932-1942",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "fuld lucie mayer",
+    "name": "Lucie Mayer-Fuld",
+    "role": "heir",
+    "date": "1932-1942",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "art institute",
+    "name": "Art Institute",
+    "role": "museum",
+    "date": "starting October 17, 1942",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "raphael stora",
+    "name": "Raphael Stora",
+    "role": "dealer",
+    "date": "1942",
+    "plans": [
+     "P1",
+     "P3"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "42949",
+  "title": "Portrait of Jeanne Wenz",
+  "artist": "Henri de Toulouse-Lautrec (French, 1864–1901)",
+  "text": "Given by the artist to Arthur-Paul Huc, Toulouse [see Roqué 1999]. Paul Rosenberg, Paris, by 1912 [see Dortu 1971]. Pierre Decourcelle, Paris, by at least 1914 [lent by him to Paris 1914]; sold, Hôtel Drouot, Paris, June 16, 1926, no. 78, for 63,000 francs, to Jerome Stonborough [according to annotated copy of the Decourcelle sale catalogue in the library of the National Gallery of Art, Washington, D.C.; copy in curatorial file]; Jerome Stonborough (died 1938), New York; his estate sale, Parke-Bernet Galleries, New York, October 17, 1940, no. 70; Paul Rosenberg and Co., New York, Nov. 17, 1940 [according to the Rosenberg ledger, no. 120, Museum of Modern Art, New York, copy in curatorial file and letter of May 5, 1977, from Alexandre Rosenberg, who stated that the firm acquired the painting on 17 November, 1940, from the estate of Stonborough]; sold to the Art Institute of Chicago, October 3, 1941.",
+  "owners": [
+   {
+    "key": "arthur huc paul",
+    "name": "Arthur-Paul Huc",
+    "role": "collector",
+    "date": "Toulouse",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "paul rosenberg",
+    "name": "Paul Rosenberg",
+    "role": "collector",
+    "date": "Paris",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "decourcelle pierre",
+    "name": "Pierre Decourcelle",
+    "role": "collector",
+    "date": "Paris",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "drouot hotel",
+    "name": "Hôtel Drouot",
+    "role": "auction",
+    "date": "Paris",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "jerome stonborough",
+    "name": "Jerome Stonborough",
+    "role": "collector",
+    "date": "New York",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "bernet galleries parke",
+    "name": "Parke-Bernet Galleries",
+    "role": "auction",
+    "date": "New York",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "art chicago institute",
+    "name": "Art Institute of Chicago",
+    "role": "museum",
+    "date": "",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "27350",
+  "title": "Study",
+  "artist": "Denis Auguste Marie Raffet\nFrench, 1804-1860",
+  "text": "Auguste Cain, France, by 1892 [Paris 1892].  Pierre-Jules Mène, France; sold, Hôtel Drouot, Paris, February 20-21, 1899, lot 225.  Henri Vever (died 1942), Paris, by 1904 [Paris 1904].  Germain Seligman (died 1978), New York [his stamp on verso, not in Lugt]; sold by Jacques Seligmann and Company, New York, to the Art Institute, 1967.",
+  "owners": [
+   {
+    "key": "auguste cain",
+    "name": "Auguste Cain",
+    "role": "collector",
+    "date": "France, by 1892",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "jules mene pierre",
+    "name": "Pierre-Jules Mène",
+    "role": "collector",
+    "date": "France",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "drouot hotel",
+    "name": "Hôtel Drouot",
+    "role": "auction",
+    "date": "February 20-21, 1899",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "henri vever",
+    "name": "Henri Vever",
+    "role": "collector",
+    "date": "Paris, by 1904",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "germain seligman",
+    "name": "Germain Seligman",
+    "role": "collector",
+    "date": "New York",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "company jacques seligmann",
+    "name": "Jacques Seligmann and Company",
+    "role": "dealer",
+    "date": "New York",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "art institute",
+    "name": "Art Institute",
+    "role": "museum",
+    "date": "1967",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "20601",
+  "title": "Fire in the Port",
+  "artist": "Louis Gabriel Moreau\nFrench, 1740-1806",
+  "text": "Marquis Le Franc de Pompignon, Château de Hordesse; sold, Hôtel Drouot, Paris, June 20, 1927, lot 4, to Marius Paulme (died 1928), Paris.  Wildenstein and Company, by March 1934-at least 1955 [London 1934; New York 1955].  Given by Mrs. Joseph Regenstein, Chicago, to the Art Institute, 1964.",
+  "owners": [
+   {
+    "key": "franc marquis pompignon",
+    "name": "Marquis Le Franc de Pompignon",
+    "role": "collector",
+    "date": "Château de Hordesse",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "drouot hotel paris",
+    "name": "Hôtel Drouot, Paris",
+    "role": "auction",
+    "date": "June 20, 1927",
+    "plans": [
+     "P1"
+    ]
+   },
+   {
+    "key": "marius paulme",
+    "name": "Marius Paulme",
+    "role": "collector",
+    "date": "1927",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "company wildenstein",
+    "name": "Wildenstein and Company",
+    "role": "dealer",
+    "date": "by March 1934-at least 1955",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "joseph regenstein",
+    "name": "Mrs. Joseph Regenstein",
+    "role": "heir",
+    "date": "1964",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "art institute",
+    "name": "Art Institute",
+    "role": "museum",
+    "date": "1964",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "drouot hotel",
+    "name": "Hôtel Drouot",
+    "role": "auction",
+    "date": "June 20, 1927",
+    "plans": [
+     "P2",
+     "P3"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "16600",
+  "title": "Lucie Berard (Child in White)",
+  "artist": "Pierre-Auguste Renoir (French, 1841–1919)",
+  "text": "Commissioned by Paul Berard (1833-1905) (father of sitter), Wargemont and Paris [per Bailey 1997]; sold, Paul Berard sale, Galerie Georges Petit, Paris, May 8, 1905, lot 20, to, J. E. D. Pieyre Lacombe de Mandiargues (1879–1916) (husband of sitter), for 10,030 francs [per auction catalogue, 1905]. André Schoeller, Paris, by May 25, 1912 [this and the following per Dauberville and Dauberville 2009]; sold to Bernheim-Jeune, Paris, May 25, 1912, for 11,000 francs; sold to Martin A. Ryerson (d. 1932), Chicago, February 26, 1913, for 23,500 francs [per purchase receipt from Bernheim-Jeune to Monsieur A. [sic] Ryerson, photocopy in curatorial object file]; Bequeathed to the Art Institute of Chicago, 1933.",
+  "owners": [
+   {
+    "key": "berard paul",
+    "name": "Paul Berard",
+    "role": "collector",
+    "date": "Wargemont and Paris",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "lacombe mandiargues pieyre",
+    "name": "J. E. D. Pieyre Lacombe de Mandiargues",
+    "role": "collector",
+    "date": "May 8, 1905",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "andre schoeller",
+    "name": "André Schoeller",
+    "role": "collector",
+    "date": "May 25, 1912",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "bernheim jeune",
+    "name": "Bernheim-Jeune",
+    "role": "dealer",
+    "date": "May 25, 1912",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "martin ryerson",
+    "name": "Martin A. Ryerson",
+    "role": "collector",
+    "date": "February 26, 1913",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "art chicago institute",
+    "name": "Art Institute of Chicago",
+    "role": "museum",
+    "date": "1933",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "243810",
+  "title": "The Zone (Outside the City Walls)",
+  "artist": "Georges Seurat\nFrench, 1859-1891",
+  "text": "By descent to the artist's brother-in-law, Léon Appert (1837–1925), Paris, 1891; possibly by descent to the artist’s nephew, Maurice-Adrien (1869–1941), Paris, 1925 [Seligmann 1947].  Galerie Knoedler & Co., Paris [according to De Hauke 1961].  Galerie Gérard Frères, Paris [according to De Hauke 1961].  Gustave Goubaux (1876–1957) [according to De Hauke 1961].  Félix Fénéon (1861–1944), Paris, by Jan. 1937 [London 1937]; sold, Paris, Hôtel Drouot, Collection Fénéon, May 30, 1947, lot 40 (ill.). Private Collection, Paris, by 1954 [Paris, 1954].   Alex Loeb, Paris, by 1961–at least 1962 [De Hauke 1961; Herbert 1962].  Galerie Max Kaganovitch, Paris, by May 1966; sold to Abraham (1900–1975) and Nadia (Nehama) Jaglom (née Shoenberg; 1900–2004), New York, by June 2, 1969 [Abraham Jaglom diary entry]; by descent to private collection, New York; sold, New York, Sotheby's, May 3, 2005, lot 48; to the present owner; offered through Daxer & Marschall Kunsthandel, Munich, to the Art Institute, 2018.",
+  "owners": [
+   {
+    "key": "appert leon",
+    "name": "Léon Appert",
+    "role": "collector",
+    "date": "1891",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "adrien maurice",
+    "name": "Maurice-Adrien",
+    "role": "collector",
+    "date": "1925",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "knoedler",
+    "name": "Galerie Knoedler & Co.",
+    "role": "dealer",
+    "date": "according to De Hauke 1961",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "freres gerard",
+    "name": "Galerie Gérard Frères",
+    "role": "dealer",
+    "date": "according to De Hauke 1961",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "goubaux gustave",
+    "name": "Gustave Goubaux",
+    "role": "collector",
+    "date": "according to De Hauke 1961",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "felix feneon",
+    "name": "Félix Fénéon",
+    "role": "collector",
+    "date": "by Jan. 1937",
+    "plans": [
+     "P1",
+     "P3"
+    ]
+   },
+   {
+    "key": "drouot hotel",
+    "name": "Hôtel Drouot",
+    "role": "auction",
+    "date": "May 30, 1947",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "private",
+    "name": "Private Collection",
+    "role": "collector",
+    "date": "by 1954",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "alex loeb",
+    "name": "Alex Loeb",
+    "role": "collector",
+    "date": "by 1961–at least 1962",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "kaganovitch max",
+    "name": "Galerie Max Kaganovitch",
+    "role": "dealer",
+    "date": "by May 1966",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "abraham jaglom nadia",
+    "name": "Abraham and Nadia Jaglom",
+    "role": "collector",
+    "date": "by June 2, 1969",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "sotheby",
+    "name": "Sotheby's",
+    "role": "auction",
+    "date": "May 3, 2005",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "daxer kunsthandel marschall",
+    "name": "Daxer & Marschall Kunsthandel",
+    "role": "dealer",
+    "date": "to the Art Institute",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "emile felix feneon",
+    "name": "Émile Félix Fénéon",
+    "role": "collector",
+    "date": "by Jan. 1937",
+    "plans": [
+     "P2"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "16405",
+  "title": "Innocence Prefers Love to Riches",
+  "artist": "Pierre Paul Prud'hon (French, 1758–1823)",
+  "text": "Probably François Marcille (died 1856), Paris [de Goncourt and de Goncourt 1876 report that he bought it in 1839 and bequeathed it to his son Camille]; by descent to his son, Camille Marcille (died 1875), Paris; his estate sale Hôtel Drouot, Paris, March 6, 1876, lot 51, for 8,000 francs [price according to an annotated copy of the sale catalogue in the Rijksbureau voor Kunsthistorische Documentatie, The Hague]. L. Tabourier, Paris, by 1889 [lent to Paris 1889]; sold, Hôtel Drouot, Paris, June 20–22, 1898, lot 118, for 5,000 francs [price according to an annotated copy of the sale catalogue in the Rijksbureau voor Kunsthistorische Documentatie, The Hague]. Durand-Ruel, Paris, by 1898 [it is likely that Durand-Ruel purchased the painting at the Tabourier sale, possibly as agent for Martin A. Ryerson]; sold to Martin A. Ryerson (died 1932) for 5,000 francs, July 20, 1898 [according to the transaction invoice, Ryerson Papers, Art Institute Archives]; bequeathed to the Art Institute, 1933.",
+  "owners": [
+   {
+    "key": "francois marcille",
+    "name": "François Marcille",
+    "role": "collector",
+    "date": "1839",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "camille marcille",
+    "name": "Camille Marcille",
+    "role": "collector",
+    "date": "by descent to his son, Camille Marcille",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "drouot hotel paris",
+    "name": "Hôtel Drouot, Paris",
+    "role": "auction",
+    "date": "March 6, 1876",
+    "plans": [
+     "P1",
+     "P3"
+    ]
+   },
+   {
+    "key": "tabourier",
+    "name": "L. Tabourier",
+    "role": "collector",
+    "date": "by 1889",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "durand ruel",
+    "name": "Durand-Ruel",
+    "role": "dealer",
+    "date": "by 1898",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "martin ryerson",
+    "name": "Martin A. Ryerson",
+    "role": "collector",
+    "date": "July 20, 1898",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "art institute",
+    "name": "Art Institute",
+    "role": "museum",
+    "date": "1933",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "drouot hotel",
+    "name": "Hôtel Drouot",
+    "role": "auction",
+    "date": "March 6, 1876",
+    "plans": [
+     "P2"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "100264",
+  "title": "Hercules and the Hydra of Lerna",
+  "artist": "Gustave Moreau\nFrench, 1826-1898",
+  "text": "Gustave Duruflé (1834–1909), Paris [invoice and Mathieu 1976].  Georges Wildenstein (1892–1963), Paris; confiscated by the Einsatzstab Reichsleiter Rosenberg (E.R.R.), before January 15, 1943 [January 15, 1943 is the date the drawing was entered into the E.R.R.’s records at the Jeu de Paume Museum in Paris; see ERR card W162]; recovered by the American Forces’ Monuments, Fine Arts, and Archives Service (M.F.A.A.) and processed at the Munich Central Art Collecting Point, June 27, 1945 [Central Collecting Point card]; repatriated to France, October 10, 1946 and restituted to Georges Wildenstein (date unknown) [Central Collecting Point card; Cultural Plunder by the Einsatzstab Reichsleiter Rosenberg: Database of Art Objects at the Jeu de Paume (on-line)]; by descent to his son, Daniel Wildenstein (1917–2001), 1963–at least 1976 [Mathieu, 1976].  Sold by Galerie Claude Bernard, Paris, to the Art Institute, 1983.",
+  "owners": [
+   {
+    "key": "durufle gustave",
+    "name": "Gustave Duruflé",
+    "role": "collector",
+    "date": "Paris [invoice and Mathieu 1976]",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "georges wildenstein",
+    "name": "Georges Wildenstein",
+    "role": "collector",
+    "date": "Paris; confiscated by the Einsatzstab Reichsleiter Rosenberg (E.R.R.), before January 15, 1943",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "einsatzstab reichsleiter rosenberg",
+    "name": "Einsatzstab Reichsleiter Rosenberg (E.R.R.)",
+    "role": "confiscating agency",
+    "date": "January 15, 1943 is the date the drawing was entered into the E.R.R.’s records at the Jeu de Paume Museum in Paris",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "american archives arts fine forces monuments service",
+    "name": "American Forces’ Monuments, Fine Arts, and Archives Service (M.F.A.A.)",
+    "role": "museum",
+    "date": "recovered by the American Forces’ Monuments, Fine Arts, and Archives Service (M.F.A.A.) and processed at the Munich Central Art Collecting Point, June 27, 1945",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "art central collecting munich point",
+    "name": "Munich Central Art Collecting Point",
+    "role": "collecting point",
+    "date": "June 27, 1945",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "france",
+    "name": "France",
+    "role": "museum",
+    "date": "repatriated to France, October 10, 1946 and restituted to Georges Wildenstein (date unknown)",
+    "plans": [
+     "P1",
+     "P3"
+    ]
+   },
+   {
+    "key": "bernard claude",
+    "name": "Galerie Claude Bernard",
+    "role": "dealer",
+    "date": "Sold by Galerie Claude Bernard, Paris, to the Art Institute, 1983",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "art institute",
+    "name": "Art Institute",
+    "role": "museum",
+    "date": "Sold by Galerie Claude Bernard, Paris, to the Art Institute, 1983",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "daniel wildenstein",
+    "name": "Daniel Wildenstein",
+    "role": "heir",
+    "date": null,
+    "plans": [
+     "P2"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "6398",
+  "title": "Goblet",
+  "artist": "England, Staffordshire",
+  "text": "John Wanamaker (1838–1922), Philadelphia; sold to Kate Sturges Buckingham (1858–1937), Chicago, Nov. 1919; given to her sister Lucy Maud Buckingham (1870–1920); her estate [with Kate serving as executor]; given to the Art Institute of Chicago, 1922.",
+  "owners": [
+   {
+    "key": "john wanamaker",
+    "name": "John Wanamaker",
+    "role": "collector",
+    "date": "1838–1922",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "buckingham kate sturges",
+    "name": "Kate Sturges Buckingham",
+    "role": "collector",
+    "date": "Nov. 1919",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "buckingham lucy maud",
+    "name": "Lucy Maud Buckingham",
+    "role": "heir",
+    "date": "1870–1920",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "art chicago institute",
+    "name": "Art Institute of Chicago",
+    "role": "museum",
+    "date": "1922",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "6238",
+  "title": "Stirrup Spout Vessel Depicting Costumed Runners",
+  "artist": "Moche\nChicama Valley, north coast, Peru",
+  "text": "Bruno John Wassermann-San Blás Collection, Buenos Aires, Argentina, by 1938 [Wassermann-San Blás, 1938]; sold to Nathan Cummings (1896–1985), Chicago, 1954; given to the Art Institute of Chicago, 1957.",
+  "owners": [
+   {
+    "key": "blas bruno john san wassermann",
+    "name": "Bruno John Wassermann-San Blás Collection",
+    "role": "collector",
+    "date": "Buenos Aires, Argentina, by 1938",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "cummings nathan",
+    "name": "Nathan Cummings",
+    "role": "collector",
+    "date": "1954",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "art chicago institute",
+    "name": "Art Institute of Chicago",
+    "role": "museum",
+    "date": "1957",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "15860",
+  "title": "Seated Breton Woman",
+  "artist": "Paul Gauguin\nFrench, 1848-1903",
+  "text": "Given by the artist to Charles Laval (1862–1894), Paris [inscription on recto]. Sold by the estate of André Teissier (died 1927), Mâcon, France, to Henri Cottereau, Galerie Choiseul, Paris, 1928 [Harrison collection notes]; sold to Carter H. Harrison (1860-1953), Chicago, 1928; given to the Art Institute, 1933.",
+  "owners": [
+   {
+    "key": "charles laval",
+    "name": "Charles Laval",
+    "role": "other",
+    "date": "Given by the artist to Charles Laval (1862–1894), Paris [inscription on recto]",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "andre teissier",
+    "name": "André Teissier",
+    "role": "collector",
+    "date": "Sold by the estate of André Teissier (died 1927), Mâcon, France, to Henri Cottereau, Galerie Choiseul, Paris, 1928 [Harrison collection notes]",
+    "plans": [
+     "P1"
+    ]
+   },
+   {
+    "key": "cottereau henri",
+    "name": "Henri Cottereau",
+    "role": "dealer",
+    "date": "Sold by the estate of André Teissier (died 1927), Mâcon, France, to Henri Cottereau, Galerie Choiseul, Paris, 1928 [Harrison collection notes]",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "carter harrison",
+    "name": "Carter H. Harrison",
+    "role": "collector",
+    "date": "Sold to Carter H. Harrison (1860-1953), Chicago, 1928",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "art institute",
+    "name": "Art Institute",
+    "role": "museum",
+    "date": "given to the Art Institute, 1933",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "andre etate teissier",
+    "name": "Étate of André Teissier",
+    "role": "heir",
+    "date": null,
+    "plans": [
+     "P2",
+     "P3"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "23333",
+  "title": "Pastoral Scene",
+  "artist": "Giovanni Battista Piazzetta (Italian, 1682–1754)",
+  "text": "Commissioned by Marshall Schulenburg, Venice, by 1743 [his inventory 1743, Royal Academy 1954–55, no. 510]; his heirs; sold to Mr. Greenwood in 1774 [Binion 1994, pp. 98–99]; his sale at Christie’s, London, April 13, 1775, no. 41 or 42; Guida da Faenza Collection; his sale, Rome, 1902 [letter from M. D. Koetser, dated February 27, 1936, in curatorial file]; 17th-Century Gallery, London, 1917 [unsubstantiated note in curatorial file and Maxon and Rishel 1970, p. 88]. Auction London, 1935; G. H. Winterbottom, London; Jacob Heimann, Milan, 1936 [letter from Heimann to Art Institute of Chicago, dated April 25, 1937];  M. D. and D. M. Koetser, London, 1936 [Koetser letter, cited above]; purchased by Art Institute, 1937.",
+  "owners": [
+   {
+    "key": "marshall schulenburg",
+    "name": "Marshall Schulenburg",
+    "role": "collector",
+    "date": "by 1743",
+    "plans": [
+     "P1",
+     "P3"
+    ]
+   },
+   {
+    "key": "heirs his",
+    "name": "his heirs",
+    "role": "heir",
+    "date": null,
+    "plans": [
+     "P1",
+     "P3"
+    ]
+   },
+   {
+    "key": "greenwood",
+    "name": "Mr. Greenwood",
+    "role": "collector",
+    "date": "1774",
+    "plans": [
+     "P1",
+     "P3"
+    ]
+   },
+   {
+    "key": "christie",
+    "name": "Christie’s",
+    "role": "auction",
+    "date": "April 13, 1775",
+    "plans": [
+     "P1",
+     "P3"
+    ]
+   },
+   {
+    "key": "da faenza guida",
+    "name": "Guida da Faenza Collection",
+    "role": "collector",
+    "date": null,
+    "plans": [
+     "P1",
+     "P3"
+    ]
+   },
+   {
+    "key": "his",
+    "name": "his sale",
+    "role": "auction",
+    "date": "Rome, 1902",
+    "plans": [
+     "P1",
+     "P3"
+    ]
+   },
+   {
+    "key": "century th",
+    "name": "17th-Century Gallery",
+    "role": "collector",
+    "date": "1917",
+    "plans": [
+     "P1",
+     "P3"
+    ]
+   },
+   {
+    "key": "auction london",
+    "name": "Auction London",
+    "role": "auction",
+    "date": "1935",
+    "plans": [
+     "P1",
+     "P3"
+    ]
+   },
+   {
+    "key": "winterbottom",
+    "name": "G. H. Winterbottom",
+    "role": "collector",
+    "date": null,
+    "plans": [
+     "P1",
+     "P3"
+    ]
+   },
+   {
+    "key": "heimann jacob",
+    "name": "Jacob Heimann",
+    "role": "collector",
+    "date": "1936",
+    "plans": [
+     "P1",
+     "P3"
+    ]
+   },
+   {
+    "key": "koetser",
+    "name": "M. D. and D. M. Koetser",
+    "role": "collector",
+    "date": "1936",
+    "plans": [
+     "P1",
+     "P3"
+    ]
+   },
+   {
+    "key": "art institute",
+    "name": "Art Institute",
+    "role": "museum",
+    "date": "1937",
+    "plans": [
+     "P1",
+     "P3"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "24361",
+  "title": "The Holy Trinity with Saint Michael Conquering the Dragon",
+  "artist": "Pietro da Cortona\nItalian, 1596-1669",
+  "text": "Probably with John Udny (1727-1800), London [Lugt 2248], 1762 [according to Gottardo 2005].  Viscount Churchill, probably Victor Albert Francis Charles Spencer (1864-1938) [according to St. Louis 1972, and Gottardo 2005].  Earl of Harewood; sold, Christie’s, London, July 6, 1965, Harewood sale, lot 122, to Hans Calmann, London [according to sale results in catalogue]; sold to the Art Institute, 1965.",
+  "owners": [
+   {
+    "key": "john udny",
+    "name": "John Udny",
+    "role": "collector",
+    "date": "1762",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "churchill viscount",
+    "name": "Viscount Churchill",
+    "role": "collector",
+    "date": "probably 1864-1938",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "earl harewood",
+    "name": "Earl of Harewood",
+    "role": "collector",
+    "date": "1965",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "calmann hans",
+    "name": "Hans Calmann",
+    "role": "collector",
+    "date": "1965",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "art institute",
+    "name": "Art Institute",
+    "role": "museum",
+    "date": "1965",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "christie",
+    "name": "Christie's",
+    "role": "auction",
+    "date": "July 6, 1965",
+    "plans": [
+     "P2",
+     "P3"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "74793",
+  "title": "Panel",
+  "artist": "Portugal",
+  "text": "Erna Goodman, Chicago (born Sawyer, also Mrs. William O. Goodman, 1859-1943); by descent to her granddaughter, Mrs. Marjorie Dewey (born Goodman, also Mrs. Charles S. Dewey, Jr.; later Mrs. Robert D. Graff, 1914-2009), Chicago, then Far Hills, NJ, 1943 [on loan to the Art Insitute of Chicago from Oct. 16, 1943, incoming receipt R8007, loan number 938.1943]; given to the Art Institute of Chicago, 1951.",
+  "owners": [
+   {
+    "key": "also born chicago erna goodman sawyer william",
+    "name": "Erna Goodman, Chicago (born Sawyer, also Mrs. William O. Goodman, 1859-1943)",
+    "role": "collector",
+    "date": "by descent to her granddaughter, Mrs. Marjorie Dewey (born Goodman, also Mrs. Charles S. Dewey, Jr.; later Mrs. Robert D. Graff, 1914-2009), Chicago, then Far Hills, NJ, 1943",
+    "plans": [
+     "P1",
+     "P3"
+    ]
+   },
+   {
+    "key": "art chicago institute",
+    "name": "Art Institute of Chicago",
+    "role": "museum",
+    "date": "on loan to the Art Insitute of Chicago from Oct. 16, 1943, incoming receipt R8007, loan number 938.1943",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "erna goodman",
+    "name": "Erna Goodman",
+    "role": "collector",
+    "date": null,
+    "plans": [
+     "P2"
+    ]
+   },
+   {
+    "key": "dewey marjorie",
+    "name": "Mrs. Marjorie Dewey",
+    "role": "heir",
+    "date": "1943",
+    "plans": [
+     "P2"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "85663",
+  "title": "Illustration to Scene from the Liberation of Jerusalem (Gerusalemme Liberata)",
+  "artist": "After Bernardo Castello\nItalian, 1557-1629",
+  "text": "Sold, Puttick & Simpson, London, Nov. 20, 1914, to William F. E. Gurley (1854–1943), Chicago [stamp (Lugt 5308), recto, lower right, in black]; given to the Art Institute of Chicago for the Leonora Hall Gurley Memorial Collection, 1922 [stamp (Lugt 1230b), verso, center on mount, in black].",
+  "owners": [
+   {
+    "key": "puttick simpson",
+    "name": "Puttick & Simpson",
+    "role": "auction",
+    "date": "Nov. 20, 1914",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "gurley william",
+    "name": "William F. E. Gurley",
+    "role": "collector",
+    "date": "1922",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "art chicago institute",
+    "name": "Art Institute of Chicago",
+    "role": "museum",
+    "date": "1922",
+    "plans": [
+     "P2",
+     "P3"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "5513",
+  "title": "Two Tahitian Women in a Landscape",
+  "artist": "Paul Gauguin\nFrench, 1848-1903",
+  "text": "Francisco “Paco” Durrio (1868–1940), Paris, between 1893 and 1895 [González de Durana, Alzuri, and Amezaga, Francisco Durrio (1868–1940): Sobre las huellas de Gauguin, exh. cat. (Museo de Bellas Artes de Bilbao, 2013), pp. 195–98, 208, no. 4].  Emily Crane Chadbourne (1871–1964), Chicago and London, by 1910 [Robins, “‘Manet and the Post-Impressionists’: A Checklist of Exhibits,” Burlington Magazine, 152, no. 1293 (Dec. 2010), pp. 787–88.]; given to the Art Institute of Chicago, 1922.",
+  "owners": [
+   {
+    "key": "durrio francisco paco",
+    "name": "Francisco \"Paco\" Durrio",
+    "role": "collector",
+    "date": "between 1893 and 1895",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "chadbourne crane emily",
+    "name": "Emily Crane Chadbourne",
+    "role": "collector",
+    "date": "by 1910",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "art chicago institute",
+    "name": "Art Institute of Chicago",
+    "role": "museum",
+    "date": "1922",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "81788",
+  "title": "Visitation",
+  "artist": "Luca Cambiaso\nItalian, 1527-1585",
+  "text": "W. Young Ottley [script (Lugt 2663) recto, lower left, in pen and black ink].  Sir Thomas Lawrence [see Lugt 2445-46, according to inscription, verso, upper left on mount, in graphite].  Dr. C. D. Ginsburg [stamp (Lugt 1145), recto, lower left and verso, lower left on mount, in black]; sold, Sotheby's, London, July 20, 1915, part of lot 8, as Cambiaso, to Maggs Bros., London.  William F. E. Gurley (1854–1943), Chicago [stamp (Lugt 5308), recto, lower right, in black]; given to the Art Institute of Chicago for the Leonora Hall Gurley Memorial Collection, 1922 [stamp (Lugt 1230b), verso, center on mount, in black].",
+  "owners": [
+   {
+    "key": "ottley young",
+    "name": "W. Young Ottley",
+    "role": "other",
+    "date": "script (Lugt 2663) recto, lower left, in pen and black ink",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "lawrence sir thomas",
+    "name": "Sir Thomas Lawrence",
+    "role": "other",
+    "date": "see Lugt 2445-46, according to inscription, verso, upper left on mount, in graphite",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "ginsburg",
+    "name": "Dr. C. D. Ginsburg",
+    "role": "other",
+    "date": "stamp (Lugt 1145), recto, lower left and verso, lower left on mount, in black",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "sotheby",
+    "name": "Sotheby's",
+    "role": "auction",
+    "date": "July 20, 1915",
+    "plans": [
+     "P1"
+    ]
+   },
+   {
+    "key": "bros maggs",
+    "name": "Maggs Bros.",
+    "role": "dealer",
+    "date": "July 20, 1915",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "gurley william",
+    "name": "William F. E. Gurley",
+    "role": "other",
+    "date": "stamp (Lugt 5308), recto, lower right, in black",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "art chicago institute",
+    "name": "Art Institute of Chicago",
+    "role": "museum",
+    "date": "1922",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "22186",
+  "title": "The Actor Sawamura Sojuro III as the Spirit of the Courtesan Takao in the Play Takao Daimyojin Momiji no Tamagaki, Performed at the Nakamura Theater in the Seventh Month, 1787",
+  "artist": "Katsukawa Shunko I\nJapanese, 1743-1812",
+  "text": "Judson David Metzgar (1870–1958), Los Angeles and Moline, IL; sold, American Art Galleries, New York, Nov. 13–14, 1916, to Kate Sturges Buckingham (1858–1937), Chicago; given to the Art Institute of Chicago, 1925.",
+  "owners": [
+   {
+    "key": "david judson metzgar",
+    "name": "Judson David Metzgar",
+    "role": "collector",
+    "date": "1870–1958",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "american art galleries",
+    "name": "American Art Galleries",
+    "role": "auction",
+    "date": "Nov. 13–14, 1916",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "buckingham kate sturges",
+    "name": "Kate Sturges Buckingham",
+    "role": "collector",
+    "date": "1858–1937",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   },
+   {
+    "key": "art chicago institute",
+    "name": "Art Institute of Chicago",
+    "role": "museum",
+    "date": "1925",
+    "plans": [
+     "P1",
+     "P2",
+     "P3"
+    ]
+   }
+  ]
+ }
+]

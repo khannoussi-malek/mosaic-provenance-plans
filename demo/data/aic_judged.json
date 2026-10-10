@@ -1,0 +1,256 @@
+[
+ {
+  "id": "16963",
+  "verdicts": {
+   "artist": "unclear",
+   "paul paulin": "correct",
+   "andre schoeller": "correct",
+   "knoedler": "correct",
+   "martin ryerson": "correct",
+   "art chicago institute": "correct"
+  },
+  "missing": []
+ },
+ {
+  "id": "12526",
+  "verdicts": {
+   "artist estate": "correct",
+   "joseph vitta": "correct",
+   "charles slatkin": "correct",
+   "sair samuel": "correct",
+   "bernet galleries parke": "correct",
+   "art institute": "correct",
+   "drouot hotel": "correct"
+  },
+  "missing": []
+ },
+ {
+  "id": "46248",
+  "verdicts": {
+   "kaufmann richard": "correct",
+   "cassirer helbing hugo paul": "correct",
+   "fuld harry": "correct",
+   "fuld lucie mayer": "correct",
+   "art institute": "correct",
+   "raphael stora": "correct"
+  },
+  "missing": []
+ },
+ {
+  "id": "42949",
+  "verdicts": {
+   "arthur huc paul": "correct",
+   "paul rosenberg": "correct",
+   "decourcelle pierre": "correct",
+   "drouot hotel": "correct",
+   "jerome stonborough": "correct",
+   "bernet galleries parke": "correct",
+   "art chicago institute": "correct"
+  },
+  "missing": []
+ },
+ {
+  "id": "27350",
+  "verdicts": {
+   "auguste cain": "correct",
+   "jules mene pierre": "correct",
+   "drouot hotel": "correct",
+   "henri vever": "correct",
+   "germain seligman": "correct",
+   "company jacques seligmann": "correct",
+   "art institute": "correct"
+  },
+  "missing": []
+ },
+ {
+  "id": "20601",
+  "verdicts": {
+   "franc marquis pompignon": "correct",
+   "drouot hotel paris": "correct",
+   "marius paulme": "correct",
+   "company wildenstein": "correct",
+   "joseph regenstein": "correct",
+   "art institute": "correct",
+   "drouot hotel": "correct"
+  },
+  "missing": []
+ },
+ {
+  "id": "16600",
+  "verdicts": {
+   "berard paul": "correct",
+   "lacombe mandiargues pieyre": "correct",
+   "andre schoeller": "correct",
+   "bernheim jeune": "correct",
+   "martin ryerson": "correct",
+   "art chicago institute": "correct"
+  },
+  "missing": [
+   "Galerie Georges Petit"
+  ]
+ },
+ {
+  "id": "243810",
+  "verdicts": {
+   "appert leon": "correct",
+   "adrien maurice": "unclear",
+   "knoedler": "correct",
+   "freres gerard": "correct",
+   "goubaux gustave": "correct",
+   "felix feneon": "correct",
+   "drouot hotel": "correct",
+   "private": "correct",
+   "alex loeb": "correct",
+   "kaganovitch max": "correct",
+   "abraham jaglom nadia": "correct",
+   "sotheby": "correct",
+   "daxer kunsthandel marschall": "correct",
+   "emile felix feneon": "correct"
+  },
+  "missing": [
+   "Art Institute",
+   "private collection, New York"
+  ]
+ },
+ {
+  "id": "16405",
+  "verdicts": {
+   "francois marcille": "correct",
+   "camille marcille": "correct",
+   "drouot hotel paris": "correct",
+   "tabourier": "correct",
+   "durand ruel": "correct",
+   "martin ryerson": "correct",
+   "art institute": "correct",
+   "drouot hotel": "correct"
+  },
+  "missing": []
+ },
+ {
+  "id": "100264",
+  "verdicts": {
+   "durufle gustave": "correct",
+   "georges wildenstein": "correct",
+   "einsatzstab reichsleiter rosenberg": "correct",
+   "american archives arts fine forces monuments service": "correct",
+   "art central collecting munich point": "correct",
+   "france": "unclear",
+   "bernard claude": "correct",
+   "art institute": "correct",
+   "daniel wildenstein": "correct"
+  },
+  "missing": []
+ },
+ {
+  "id": "6398",
+  "verdicts": {
+   "john wanamaker": "correct",
+   "buckingham kate sturges": "correct",
+   "buckingham lucy maud": "correct",
+   "art chicago institute": "correct"
+  },
+  "missing": []
+ },
+ {
+  "id": "6238",
+  "verdicts": {
+   "blas bruno john san wassermann": "correct",
+   "cummings nathan": "correct",
+   "art chicago institute": "correct"
+  },
+  "missing": []
+ },
+ {
+  "id": "15860",
+  "verdicts": {
+   "charles laval": "correct",
+   "andre teissier": "correct",
+   "cottereau henri": "correct",
+   "carter harrison": "correct",
+   "art institute": "correct",
+   "andre etate teissier": "correct"
+  },
+  "missing": []
+ },
+ {
+  "id": "23333",
+  "verdicts": {
+   "marshall schulenburg": "correct",
+   "heirs his": "correct",
+   "greenwood": "correct",
+   "christie": "correct",
+   "da faenza guida": "correct",
+   "his": "wrong",
+   "century th": "correct",
+   "auction london": "unclear",
+   "winterbottom": "correct",
+   "heimann jacob": "correct",
+   "koetser": "correct",
+   "art institute": "correct"
+  },
+  "missing": []
+ },
+ {
+  "id": "24361",
+  "verdicts": {
+   "john udny": "correct",
+   "churchill viscount": "correct",
+   "earl harewood": "correct",
+   "calmann hans": "correct",
+   "art institute": "correct",
+   "christie": "correct"
+  },
+  "missing": []
+ },
+ {
+  "id": "74793",
+  "verdicts": {
+   "also born chicago erna goodman sawyer william": "correct",
+   "art chicago institute": "correct",
+   "erna goodman": "correct",
+   "dewey marjorie": "correct"
+  },
+  "missing": []
+ },
+ {
+  "id": "85663",
+  "verdicts": {
+   "puttick simpson": "correct",
+   "gurley william": "correct",
+   "art chicago institute": "correct"
+  },
+  "missing": []
+ },
+ {
+  "id": "5513",
+  "verdicts": {
+   "durrio francisco paco": "correct",
+   "chadbourne crane emily": "correct",
+   "art chicago institute": "correct"
+  },
+  "missing": []
+ },
+ {
+  "id": "81788",
+  "verdicts": {
+   "ottley young": "correct",
+   "lawrence sir thomas": "correct",
+   "ginsburg": "correct",
+   "sotheby": "correct",
+   "bros maggs": "correct",
+   "gurley william": "correct",
+   "art chicago institute": "correct"
+  },
+  "missing": []
+ },
+ {
+  "id": "22186",
+  "verdicts": {
+   "david judson metzgar": "correct",
+   "american art galleries": "correct",
+   "buckingham kate sturges": "correct",
+   "art chicago institute": "correct"
+  },
+  "missing": []
+ }
+]

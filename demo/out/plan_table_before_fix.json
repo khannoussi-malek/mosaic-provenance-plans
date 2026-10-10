@@ -1,0 +1,18 @@
+{
+ "P0": {
+  "screen_f1": 0.667,
+  "sec_per_doc": 0.0
+ },
+ "P1": {
+  "screen_f1": 0.755,
+  "sec_per_doc": 21.4
+ },
+ "P2": {
+  "screen_f1": 0.68,
+  "sec_per_doc": 29.3
+ },
+ "P3": {
+  "screen_f1": 0.755,
+  "sec_per_doc": 28.5
+ }
+}

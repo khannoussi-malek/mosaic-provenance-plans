@@ -1,0 +1,3217 @@
+[
+ {
+  "id": "229508",
+  "stratum": "p0_miss",
+  "silver": "flagged",
+  "trigger": [
+   "Galerie J. Kugel (None-None)"
+  ],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "52199",
+  "stratum": "p0_miss",
+  "silver": "flagged",
+  "trigger": [
+   "Rochlitz, Gustav (1941-1945)"
+  ],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "143662",
+  "stratum": "p0_miss",
+  "silver": "flagged",
+  "trigger": [
+   "Koenigs, Franz Wilhelm (None-None)"
+  ],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "73852",
+  "stratum": "p0_miss",
+  "silver": "flagged",
+  "trigger": [
+   "Mühlmann, Kajetan (1941-1941)"
+  ],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "53128",
+  "stratum": "p0_miss",
+  "silver": "flagged",
+  "trigger": [
+   "Buchholz, Karl (None-None)"
+  ],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "139276",
+  "stratum": "p0_miss",
+  "silver": "flagged",
+  "trigger": [
+   "Hirschland, Georg S. (None-None)"
+  ],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": "span not in text"
+ },
+ {
+  "id": "3199",
+  "stratum": "redflag_fullname",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "flagged",
+  "P1": "not flagged",
+  "P1_ev": [
+   {
+    "owner": "Étienne Bignou, Paris",
+    "keys": [
+     "bignou"
+    ],
+    "year": 1927,
+    "next_year": 1931,
+    "span_ok": true,
+    "date": "by 1927"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [
+   {
+    "owner": "Étienne Bignou, Paris",
+    "keys": [
+     "bignou"
+    ],
+    "year": 1927,
+    "next_year": 1931,
+    "span_ok": true,
+    "date": "by 1927"
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [
+   {
+    "owner": "Étienne Bignou, Paris",
+    "keys": [
+     "bignou"
+    ],
+    "year": 1927,
+    "next_year": 1931,
+    "span_ok": true,
+    "date": "by 1927"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "422",
+  "stratum": "redflag_fullname",
+  "silver": "flagged",
+  "trigger": [
+   "Contini Bonacossi, Alessandro, Count (None-1937)"
+  ],
+  "P0": "flagged",
+  "P1": "flagged",
+  "P1_ev": [
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": null,
+    "next_year": 1937,
+    "span_ok": true,
+    "date": "Florence"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "flagged",
+  "P2_ev": [
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": null,
+    "next_year": 1937,
+    "span_ok": true,
+    "date": null
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "flagged",
+  "P3_ev": [
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": null,
+    "next_year": 1937,
+    "span_ok": true,
+    "date": "Florence"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "73398",
+  "stratum": "redflag_fullname",
+  "silver": "flagged",
+  "trigger": [
+   "Haberstock, Karl (1942-1945)",
+   "Böhler, Julius (1942-1945)"
+  ],
+  "P0": "flagged",
+  "P1": "flagged",
+  "P1_ev": [
+   {
+    "owner": "Karl Haberstock and Julius Boehler",
+    "keys": [
+     "boehler",
+     "haberstock"
+    ],
+    "year": 1942,
+    "next_year": 1946,
+    "span_ok": true,
+    "date": "1942"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "flagged",
+  "P2_ev": [
+   {
+    "owner": "Karl Haberstock and Julius Boehler",
+    "keys": [
+     "boehler",
+     "haberstock"
+    ],
+    "year": 1942,
+    "next_year": 1946,
+    "span_ok": true,
+    "date": "1942"
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "flagged",
+  "P3_ev": [
+   {
+    "owner": "Karl Haberstock and Julius Boehler",
+    "keys": [
+     "boehler",
+     "haberstock"
+    ],
+    "year": 1942,
+    "next_year": 1946,
+    "span_ok": true,
+    "date": "1942"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "297",
+  "stratum": "redflag_fullname",
+  "silver": "flagged",
+  "trigger": [
+   "Contini Bonacossi, Alessandro, Count (1934-1935)"
+  ],
+  "P0": "flagged",
+  "P1": "flagged",
+  "P1_ev": [
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": null,
+    "next_year": 1935,
+    "span_ok": true,
+    "date": "Count Alessandro Contini Bonacossi, Florence and Rome"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "flagged",
+  "P2_ev": [
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": 1935,
+    "next_year": 1935,
+    "span_ok": true,
+    "date": null
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "flagged",
+  "P3_ev": [
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": null,
+    "next_year": 1935,
+    "span_ok": true,
+    "date": "Count Alessandro Contini Bonacossi, Florence and Rome"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "51136",
+  "stratum": "redflag_fullname",
+  "silver": "flagged",
+  "trigger": [
+   "Bignou, Etienne (1935-1935)"
+  ],
+  "P0": "flagged",
+  "P1": "not flagged",
+  "P1_ev": [
+   {
+    "owner": "Étienne Bignou",
+    "keys": [
+     "bignou"
+    ],
+    "year": null,
+    "next_year": 1929,
+    "span_ok": true,
+    "date": "null"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [
+   {
+    "owner": "(Étienne Bignou, Paris)",
+    "keys": [
+     "bignou"
+    ],
+    "year": null,
+    "next_year": 1929,
+    "span_ok": true,
+    "date": null
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [
+   {
+    "owner": "Étienne Bignou",
+    "keys": [
+     "bignou"
+    ],
+    "year": null,
+    "next_year": 1929,
+    "span_ok": true,
+    "date": "null"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "73851",
+  "stratum": "redflag_fullname",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "46246",
+  "stratum": "redflag_fullname",
+  "silver": "flagged",
+  "trigger": [
+   "Contini Bonacossi, Alessandro, Count (1935-1935)"
+  ],
+  "P0": "flagged",
+  "P1": "flagged",
+  "P1_ev": [
+   {
+    "owner": "Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": 1878,
+    "next_year": 1935,
+    "span_ok": true,
+    "date": "1878-1955"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "flagged",
+  "P2_ev": [
+   {
+    "owner": "Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": 1878,
+    "next_year": 1935,
+    "span_ok": true,
+    "date": null
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "flagged",
+  "P3_ev": [
+   {
+    "owner": "Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": 1878,
+    "next_year": 1935,
+    "span_ok": true,
+    "date": "1878-1955"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "277",
+  "stratum": "redflag_fullname",
+  "silver": "flagged",
+  "trigger": [
+   "Contini Bonacossi, Alessandro, Count (None-None)"
+  ],
+  "P0": "flagged",
+  "P1": "flagged",
+  "P1_ev": [
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": 1878,
+    "next_year": 1933,
+    "span_ok": true,
+    "date": "[1878-1955]"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "flagged",
+  "P2_ev": [
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": null,
+    "next_year": 1933,
+    "span_ok": true,
+    "date": null
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "flagged",
+  "P3_ev": [
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": 1878,
+    "next_year": 1933,
+    "span_ok": true,
+    "date": "[1878-1955]"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "46286",
+  "stratum": "redflag_fullname",
+  "silver": "flagged",
+  "trigger": [
+   "Contini Bonacossi, Alessandro, Count (1937-1937)"
+  ],
+  "P0": "flagged",
+  "P1": "flagged",
+  "P1_ev": [
+   {
+    "owner": "Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": null,
+    "next_year": 1935,
+    "span_ok": true,
+    "date": "1878-1955"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "flagged",
+  "P2_ev": [
+   {
+    "owner": "Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": 1878,
+    "next_year": 1935,
+    "span_ok": true,
+    "date": null
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "flagged",
+  "P3_ev": [
+   {
+    "owner": "Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": null,
+    "next_year": 1935,
+    "span_ok": true,
+    "date": "1878-1955"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "46090",
+  "stratum": "redflag_fullname",
+  "silver": "flagged",
+  "trigger": [
+   "Bignou, Etienne (1935-1935)"
+  ],
+  "P0": "flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": "JSONDecodeError: Expecting ',' delimiter: line 106 column 6 (char 5319) truncated at 2048 tokens",
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": "error or empty"
+ },
+ {
+  "id": "182",
+  "stratum": "redflag_fullname",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "flagged",
+  "P1": "not flagged",
+  "P1_ev": [
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": null,
+    "next_year": 1930,
+    "span_ok": true,
+    "date": "Rome"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": "JSONDecodeError: Expecting ',' delimiter: line 1 column 689 (char 688)",
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": null,
+    "next_year": 1930,
+    "span_ok": true,
+    "date": "Rome"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "172",
+  "stratum": "redflag_fullname",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "flagged",
+  "P1": "not flagged",
+  "P1_ev": [
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": 1878,
+    "next_year": 1929,
+    "span_ok": true,
+    "date": "1878-1955"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": null,
+    "next_year": 1929,
+    "span_ok": true,
+    "date": null
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": 1878,
+    "next_year": 1929,
+    "span_ok": true,
+    "date": "1878-1955"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "285",
+  "stratum": "redflag_fullname",
+  "silver": "flagged",
+  "trigger": [
+   "Contini Bonacossi, Alessandro, Count (None-1934)"
+  ],
+  "P0": "flagged",
+  "P1": "flagged",
+  "P1_ev": [
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": null,
+    "next_year": 1934,
+    "span_ok": true,
+    "date": "1878-1955"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "flagged",
+  "P2_ev": [
+   {
+    "owner": "Count Alessandro Contini Bonacossi [1878-1955]",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": null,
+    "next_year": 1934,
+    "span_ok": true,
+    "date": null
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "flagged",
+  "P3_ev": [
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": null,
+    "next_year": 1934,
+    "span_ok": true,
+    "date": "1878-1955"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "1609",
+  "stratum": "redflag_fullname",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "flagged",
+  "P1": "not flagged",
+  "P1_ev": [
+   {
+    "owner": "Alba sale, Hôtel Drouot, Paris",
+    "keys": [
+     "drouot"
+    ],
+    "year": 1877,
+    "next_year": 1921,
+    "span_ok": true,
+    "date": "7-20 April 1877"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [
+   {
+    "owner": "Hôtel Drouot",
+    "keys": [
+     "drouot"
+    ],
+    "year": 1877,
+    "next_year": 1880,
+    "span_ok": true,
+    "date": "7-20 April 1877"
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [
+   {
+    "owner": "Hôtel Drouot",
+    "keys": [
+     "drouot"
+    ],
+    "year": 1877,
+    "next_year": 1880,
+    "span_ok": true,
+    "date": "7-20 April 1877"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": "span not in text"
+ },
+ {
+  "id": "11589",
+  "stratum": "redflag_fullname",
+  "silver": "flagged",
+  "trigger": [
+   "Drouot, Hôtel (None-None)"
+  ],
+  "P0": "flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "46224",
+  "stratum": "redflag_fullname",
+  "silver": "flagged",
+  "trigger": [
+   "Contini Bonacossi, Alessandro, Count (1935-1935)"
+  ],
+  "P0": "flagged",
+  "P1": "flagged",
+  "P1_ev": [
+   {
+    "owner": "Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": 1878,
+    "next_year": 1935,
+    "span_ok": true,
+    "date": "1878-1955"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "flagged",
+  "P2_ev": [
+   {
+    "owner": "Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": 1878,
+    "next_year": 1935,
+    "span_ok": true,
+    "date": null
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "flagged",
+  "P3_ev": [
+   {
+    "owner": "Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": 1878,
+    "next_year": 1935,
+    "span_ok": true,
+    "date": "1878-1955"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "46488",
+  "stratum": "redflag_fullname",
+  "silver": "flagged",
+  "trigger": [
+   "Bignou, Etienne (1930-1933)"
+  ],
+  "P0": "flagged",
+  "P1": "flagged",
+  "P1_ev": [
+   {
+    "owner": "Étienne Bignou",
+    "keys": [
+     "bignou"
+    ],
+    "year": null,
+    "next_year": 1933,
+    "span_ok": true,
+    "date": "on joint account with"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [
+   {
+    "owner": "Étienne Bignou",
+    "keys": [
+     "bignou"
+    ],
+    "year": 1933,
+    "next_year": 1930,
+    "span_ok": true,
+    "date": null
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "flagged",
+  "P3_ev": [
+   {
+    "owner": "Étienne Bignou",
+    "keys": [
+     "bignou"
+    ],
+    "year": null,
+    "next_year": 1933,
+    "span_ok": true,
+    "date": "on joint account with"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "165",
+  "stratum": "redflag_fullname",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "flagged",
+  "P1": "not flagged",
+  "P1_ev": [
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": 1927,
+    "next_year": 1927,
+    "span_ok": true,
+    "date": "October 1927"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [
+   {
+    "owner": "(Count Alessandro Contini Bonacossi, Rome)",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": null,
+    "next_year": 1927,
+    "span_ok": true,
+    "date": null
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": 1927,
+    "next_year": 1927,
+    "span_ok": true,
+    "date": "October 1927"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "46258",
+  "stratum": "redflag_fullname",
+  "silver": "flagged",
+  "trigger": [
+   "Contini Bonacossi, Alessandro, Count (1935-1935)"
+  ],
+  "P0": "flagged",
+  "P1": "flagged",
+  "P1_ev": [
+   {
+    "owner": "Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": 1878,
+    "next_year": 1935,
+    "span_ok": true,
+    "date": "1878-1955"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "flagged",
+  "P3_ev": [
+   {
+    "owner": "Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": 1878,
+    "next_year": 1935,
+    "span_ok": true,
+    "date": "1878-1955"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "1262",
+  "stratum": "redflag_fullname",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "flagged",
+  "P1": "not flagged",
+  "P1_ev": [
+   {
+    "owner": "Hotel Drouot, Paris",
+    "keys": [
+     "drouot"
+    ],
+    "year": 1897,
+    "next_year": 1911,
+    "span_ok": true,
+    "date": "29 March-10 April 1897"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [
+   {
+    "owner": "Hotel Drouot",
+    "keys": [
+     "drouot"
+    ],
+    "year": 1897,
+    "next_year": 1911,
+    "span_ok": true,
+    "date": "29 March-10 April 1897"
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [
+   {
+    "owner": "Hotel Drouot, Paris",
+    "keys": [
+     "drouot"
+    ],
+    "year": 1897,
+    "next_year": 1911,
+    "span_ok": true,
+    "date": "29 March-10 April 1897"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "66424",
+  "stratum": "redflag_fullname",
+  "silver": "flagged",
+  "trigger": [
+   "Rochlitz, Gustav (1941-1941)"
+  ],
+  "P0": "flagged",
+  "P1": "flagged",
+  "P1_ev": [
+   {
+    "owner": "Gustav Rochlitz",
+    "keys": [
+     "rochlitz"
+    ],
+    "year": 1941,
+    "next_year": 1941,
+    "span_ok": true,
+    "date": "1941"
+   },
+   {
+    "owner": "Hans Wendland",
+    "keys": [
+     "wendland"
+    ],
+    "year": 1941,
+    "next_year": 1941,
+    "span_ok": true,
+    "date": "1941"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [
+   {
+    "owner": "Gustav Rochlitz",
+    "keys": [
+     "rochlitz"
+    ],
+    "year": null,
+    "next_year": 1951,
+    "span_ok": true,
+    "date": null
+   },
+   {
+    "owner": "Hans Wendland",
+    "keys": [
+     "wendland"
+    ],
+    "year": null,
+    "next_year": 1951,
+    "span_ok": true,
+    "date": null
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "flagged",
+  "P3_ev": [
+   {
+    "owner": "Gustav Rochlitz",
+    "keys": [
+     "rochlitz"
+    ],
+    "year": 1941,
+    "next_year": 1941,
+    "span_ok": true,
+    "date": "1941"
+   },
+   {
+    "owner": "Hans Wendland",
+    "keys": [
+     "wendland"
+    ],
+    "year": 1941,
+    "next_year": 1941,
+    "span_ok": true,
+    "date": "1941"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "46681",
+  "stratum": "redflag_fullname",
+  "silver": "flagged",
+  "trigger": [
+   "Bignou, Etienne (None-None)"
+  ],
+  "P0": "flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": "JSONDecodeError: Expecting ',' delimiter: line 63 column 8 (char 1729)",
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [
+   {
+    "owner": "Étienne Bignou",
+    "keys": [
+     "bignou"
+    ],
+    "year": null,
+    "next_year": 1931,
+    "span_ok": true,
+    "date": null
+   },
+   {
+    "owner": "Galerie Étienne Bignou",
+    "keys": [
+     "bignou"
+    ],
+    "year": 1931,
+    "next_year": 1882,
+    "span_ok": true,
+    "date": "September 1931"
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [
+   {
+    "owner": "Étienne Bignou",
+    "keys": [
+     "bignou"
+    ],
+    "year": null,
+    "next_year": 1931,
+    "span_ok": true,
+    "date": null
+   },
+   {
+    "owner": "Galerie Étienne Bignou",
+    "keys": [
+     "bignou"
+    ],
+    "year": 1931,
+    "next_year": 1882,
+    "span_ok": true,
+    "date": "September 1931"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": "error or empty"
+ },
+ {
+  "id": "61248",
+  "stratum": "redflag_fullname",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "flagged",
+  "P1": "not flagged",
+  "P1_ev": [
+   {
+    "owner": "Hôtel Drouot",
+    "keys": [
+     "drouot"
+    ],
+    "year": 1922,
+    "next_year": 1932,
+    "span_ok": true,
+    "date": "16 May 1922"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [
+   {
+    "owner": "Hôtel Drouot",
+    "keys": [
+     "drouot"
+    ],
+    "year": 1921,
+    "next_year": 1922,
+    "span_ok": true,
+    "date": "28 October 1921"
+   },
+   {
+    "owner": "Hôtel Drouot",
+    "keys": [
+     "drouot"
+    ],
+    "year": 1922,
+    "next_year": 1889,
+    "span_ok": false,
+    "date": "16 May 1922"
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [
+   {
+    "owner": "Hôtel Drouot",
+    "keys": [
+     "drouot"
+    ],
+    "year": 1921,
+    "next_year": 1922,
+    "span_ok": true,
+    "date": "28 October 1921"
+   },
+   {
+    "owner": "Hôtel Drouot",
+    "keys": [
+     "drouot"
+    ],
+    "year": 1922,
+    "next_year": 1889,
+    "span_ok": false,
+    "date": "16 May 1922"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": "no dated 1933-45 event"
+ },
+ {
+  "id": "46081",
+  "stratum": "redflag_fullname",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "3155",
+  "stratum": "redflag_fullname",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "46163",
+  "stratum": "redflag_fullname",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "flagged",
+  "P1": "flagged",
+  "P1_ev": [
+   {
+    "owner": "Karl Haberstock",
+    "keys": [
+     "haberstock"
+    ],
+    "year": 1928,
+    "next_year": 1951,
+    "span_ok": true,
+    "date": "sold 1928 to (Karl Haberstock, Berlin), possibly until 1936"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "flagged",
+  "P2_ev": [
+   {
+    "owner": "(Karl Haberstock, Berlin)",
+    "keys": [
+     "haberstock"
+    ],
+    "year": 1928,
+    "next_year": 1951,
+    "span_ok": true,
+    "date": "1928"
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "flagged",
+  "P3_ev": [
+   {
+    "owner": "(Karl Haberstock, Berlin)",
+    "keys": [
+     "haberstock"
+    ],
+    "year": 1928,
+    "next_year": 1951,
+    "span_ok": true,
+    "date": "1928"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": "no dated 1933-45 event"
+ },
+ {
+  "id": "46285",
+  "stratum": "redflag_fullname",
+  "silver": "flagged",
+  "trigger": [
+   "Contini Bonacossi, Alessandro, Count (1935-1935)"
+  ],
+  "P0": "flagged",
+  "P1": "flagged",
+  "P1_ev": [
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": 1922,
+    "next_year": 1935,
+    "span_ok": true,
+    "date": "before 1922"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "flagged",
+  "P2_ev": [
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": null,
+    "next_year": 1935,
+    "span_ok": true,
+    "date": null
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "flagged",
+  "P3_ev": [
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": 1922,
+    "next_year": 1935,
+    "span_ok": true,
+    "date": "before 1922"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "32679",
+  "stratum": "redflag_fullname",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "139213",
+  "stratum": "redflag_fullname",
+  "silver": "flagged",
+  "trigger": [
+   "Graupe, Paul (None-None)"
+  ],
+  "P0": "flagged",
+  "P1": "flagged",
+  "P1_ev": [
+   {
+    "owner": "Paul Graupe",
+    "keys": [
+     "graupe"
+    ],
+    "year": 1935,
+    "next_year": 1975,
+    "span_ok": true,
+    "date": "12 October 1935"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "flagged",
+  "P2_ev": [
+   {
+    "owner": "Paul Graupe",
+    "keys": [
+     "graupe"
+    ],
+    "year": 1935,
+    "next_year": 1975,
+    "span_ok": true,
+    "date": "12 October 1935"
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "flagged",
+  "P3_ev": [
+   {
+    "owner": "Paul Graupe",
+    "keys": [
+     "graupe"
+    ],
+    "year": 1935,
+    "next_year": 1975,
+    "span_ok": true,
+    "date": "12 October 1935"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "95",
+  "stratum": "redflag_fullname",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": "span not in text"
+ },
+ {
+  "id": "119837",
+  "stratum": "footnote",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "176613",
+  "stratum": "footnote",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "1192",
+  "stratum": "footnote",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "69390",
+  "stratum": "footnote",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "flagged",
+  "P1": "not flagged",
+  "P1_ev": [
+   {
+    "owner": "Paul Cassirer & Co.",
+    "keys": [
+     "cassirer"
+    ],
+    "year": 1924,
+    "next_year": 1927,
+    "span_ok": true,
+    "date": "by 1924"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [
+   {
+    "owner": "(Paul Cassirer & Co., Berlin)",
+    "keys": [
+     "cassirer"
+    ],
+    "year": 1924,
+    "next_year": 1927,
+    "span_ok": true,
+    "date": null
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [
+   {
+    "owner": "(Paul Cassirer & Co., Berlin)",
+    "keys": [
+     "cassirer"
+    ],
+    "year": 1924,
+    "next_year": 1927,
+    "span_ok": true,
+    "date": null
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": "no dated 1933-45 event"
+ },
+ {
+  "id": "41708",
+  "stratum": "footnote",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "34056",
+  "stratum": "footnote",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "3965",
+  "stratum": "footnote",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "1184",
+  "stratum": "footnote",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": "span not in text"
+ },
+ {
+  "id": "1512",
+  "stratum": "footnote",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "126155",
+  "stratum": "footnote",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": "no dated 1933-45 event"
+ },
+ {
+  "id": "34047",
+  "stratum": "footnote",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": "no dated 1933-45 event"
+ },
+ {
+  "id": "563",
+  "stratum": "footnote",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "470",
+  "stratum": "footnote",
+  "silver": "flagged",
+  "trigger": [
+   "Contini Bonacossi, Alessandro, Count (1937-1937)"
+  ],
+  "P0": "flagged",
+  "P1": "flagged",
+  "P1_ev": [
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": null,
+    "next_year": 1937,
+    "span_ok": true,
+    "date": "(Count Alessandro Contini Bonacossi, Florence);"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "flagged",
+  "P2_ev": [
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": null,
+    "next_year": 1937,
+    "span_ok": true,
+    "date": null
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "flagged",
+  "P3_ev": [
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": null,
+    "next_year": 1937,
+    "span_ok": true,
+    "date": "(Count Alessandro Contini Bonacossi, Florence);"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "34659",
+  "stratum": "footnote",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "497",
+  "stratum": "footnote",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "34105",
+  "stratum": "footnote",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "34068",
+  "stratum": "footnote",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "47182",
+  "stratum": "footnote",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "3773",
+  "stratum": "footnote",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "176624",
+  "stratum": "footnote",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "111",
+  "stratum": "vague_date",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "61369",
+  "stratum": "vague_date",
+  "silver": "flagged",
+  "trigger": [
+   "Bignou, Etienne (None-None)"
+  ],
+  "P0": "flagged",
+  "P1": "not flagged",
+  "P1_ev": [
+   {
+    "owner": "Etienne Bignou, Paris",
+    "keys": [
+     "bignou"
+    ],
+    "year": null,
+    "next_year": 1956,
+    "span_ok": true,
+    "date": "Possibly"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [
+   {
+    "owner": "Etienne Bignou, Paris",
+    "keys": [
+     "bignou"
+    ],
+    "year": null,
+    "next_year": 1956,
+    "span_ok": true,
+    "date": null
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [
+   {
+    "owner": "Etienne Bignou, Paris",
+    "keys": [
+     "bignou"
+    ],
+    "year": null,
+    "next_year": 1956,
+    "span_ok": true,
+    "date": null
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": "span not in text"
+ },
+ {
+  "id": "43028",
+  "stratum": "vague_date",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "46207",
+  "stratum": "vague_date",
+  "silver": "flagged",
+  "trigger": [
+   "Contini Bonacossi, Alessandro, Count (1935-1935)"
+  ],
+  "P0": "flagged",
+  "P1": "flagged",
+  "P1_ev": [
+   {
+    "owner": "Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": 1878,
+    "next_year": 1935,
+    "span_ok": true,
+    "date": "1878-1955"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "flagged",
+  "P2_ev": [
+   {
+    "owner": "Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": null,
+    "next_year": 1935,
+    "span_ok": true,
+    "date": null
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "flagged",
+  "P3_ev": [
+   {
+    "owner": "Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": 1878,
+    "next_year": 1935,
+    "span_ok": true,
+    "date": "1878-1955"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "895",
+  "stratum": "vague_date",
+  "silver": "flagged",
+  "trigger": [
+   "Bignou, Etienne (1929-1941)"
+  ],
+  "P0": "flagged",
+  "P1": "flagged",
+  "P1_ev": [
+   {
+    "owner": "Hôtel Drouot, Paris",
+    "keys": [
+     "drouot"
+    ],
+    "year": 1875,
+    "next_year": 1875,
+    "span_ok": true,
+    "date": "7-9 June 1875"
+   },
+   {
+    "owner": "Galerie Étienne Bignou",
+    "keys": [
+     "bignou"
+    ],
+    "year": 1941,
+    "next_year": 1941,
+    "span_ok": true,
+    "date": "1941"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "flagged",
+  "P2_ev": [
+   {
+    "owner": "(his estate sale, Hôtel Drouot, Paris)",
+    "keys": [
+     "drouot"
+    ],
+    "year": 1875,
+    "next_year": 1901,
+    "span_ok": true,
+    "date": "part III, 7-9 June 1875"
+   },
+   {
+    "owner": "(Galerie Étienne Bignou, New York)",
+    "keys": [
+     "bignou"
+    ],
+    "year": 1941,
+    "next_year": 1941,
+    "span_ok": true,
+    "date": null
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "flagged",
+  "P3_ev": [
+   {
+    "owner": "Hôtel Drouot, Paris",
+    "keys": [
+     "drouot"
+    ],
+    "year": 1875,
+    "next_year": 1875,
+    "span_ok": true,
+    "date": "7-9 June 1875"
+   },
+   {
+    "owner": "Galerie Étienne Bignou",
+    "keys": [
+     "bignou"
+    ],
+    "year": 1941,
+    "next_year": 1941,
+    "span_ok": true,
+    "date": "1941"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "195291",
+  "stratum": "vague_date",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "38570",
+  "stratum": "vague_date",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "309",
+  "stratum": "vague_date",
+  "silver": "flagged",
+  "trigger": [
+   "Contini Bonacossi, Alessandro, Count (1930-1935)"
+  ],
+  "P0": "flagged",
+  "P1": "flagged",
+  "P1_ev": [
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": null,
+    "next_year": 1935,
+    "span_ok": true,
+    "date": "Florence"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "flagged",
+  "P2_ev": [
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": null,
+    "next_year": 1935,
+    "span_ok": true,
+    "date": null
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "flagged",
+  "P3_ev": [
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": null,
+    "next_year": 1935,
+    "span_ok": true,
+    "date": "Florence"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "46223",
+  "stratum": "vague_date",
+  "silver": "flagged",
+  "trigger": [
+   "Contini Bonacossi, Alessandro, Count (1935-1935)"
+  ],
+  "P0": "flagged",
+  "P1": "flagged",
+  "P1_ev": [
+   {
+    "owner": "Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": 1878,
+    "next_year": 1935,
+    "span_ok": true,
+    "date": "1878-1955"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "flagged",
+  "P2_ev": [
+   {
+    "owner": "Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": null,
+    "next_year": 1935,
+    "span_ok": true,
+    "date": null
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "flagged",
+  "P3_ev": [
+   {
+    "owner": "Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": 1878,
+    "next_year": 1935,
+    "span_ok": true,
+    "date": "1878-1955"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "12111",
+  "stratum": "vague_date",
+  "silver": "flagged",
+  "trigger": [
+   "Contini Bonacossi, Alessandro, Count (1939-1939)"
+  ],
+  "P0": "flagged",
+  "P1": "flagged",
+  "P1_ev": [
+   {
+    "owner": "Édouard Larcade",
+    "keys": [
+     "larcade"
+    ],
+    "year": 1927,
+    "next_year": 1938,
+    "span_ok": true,
+    "date": "by 1927"
+   },
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": 1938,
+    "next_year": 1939,
+    "span_ok": true,
+    "date": "by 1938"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "flagged",
+  "P2_ev": [
+   {
+    "owner": "Édouard Larcade",
+    "keys": [
+     "larcade"
+    ],
+    "year": 1927,
+    "next_year": 1938,
+    "span_ok": true,
+    "date": null
+   },
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": 1938,
+    "next_year": 1939,
+    "span_ok": true,
+    "date": null
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "flagged",
+  "P3_ev": [
+   {
+    "owner": "Édouard Larcade",
+    "keys": [
+     "larcade"
+    ],
+    "year": 1927,
+    "next_year": 1938,
+    "span_ok": true,
+    "date": "by 1927"
+   },
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": 1938,
+    "next_year": 1939,
+    "span_ok": true,
+    "date": "by 1938"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "119049",
+  "stratum": "vague_date",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "47120",
+  "stratum": "vague_date",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "46682",
+  "stratum": "vague_date",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "flagged",
+  "P1": "not flagged",
+  "P1_ev": [
+   {
+    "owner": "Hans Wendland",
+    "keys": [
+     "wendland"
+    ],
+    "year": 1916,
+    "next_year": 1928,
+    "span_ok": true,
+    "date": "1916"
+   },
+   {
+    "owner": "Dr. Gottlieb Friedrich Reber",
+    "keys": [
+     "reber"
+    ],
+    "year": null,
+    "next_year": 1928,
+    "span_ok": true,
+    "date": "Barmen, Germany"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [
+   {
+    "owner": "Hans Wendland",
+    "keys": [
+     "wendland"
+    ],
+    "year": 1916,
+    "next_year": 1928,
+    "span_ok": true,
+    "date": "sold 1916"
+   },
+   {
+    "owner": "Dr. Gottlieb Friedrich Reber",
+    "keys": [
+     "reber"
+    ],
+    "year": null,
+    "next_year": 1928,
+    "span_ok": true,
+    "date": null
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [
+   {
+    "owner": "Hans Wendland",
+    "keys": [
+     "wendland"
+    ],
+    "year": 1916,
+    "next_year": 1928,
+    "span_ok": true,
+    "date": "1916"
+   },
+   {
+    "owner": "Dr. Gottlieb Friedrich Reber",
+    "keys": [
+     "reber"
+    ],
+    "year": null,
+    "next_year": 1928,
+    "span_ok": true,
+    "date": "Barmen, Germany"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "157925",
+  "stratum": "vague_date",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "136751",
+  "stratum": "vague_date",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "9948",
+  "stratum": "random",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "41639",
+  "stratum": "random",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": "JSONDecodeError: Expecting ',' delimiter: line 1 column 1039 (char 1038)",
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "3318",
+  "stratum": "random",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "52183",
+  "stratum": "random",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "flagged",
+  "P1": "flagged",
+  "P1_ev": [
+   {
+    "owner": "Hôtel Drouot",
+    "keys": [
+     "drouot"
+    ],
+    "year": 1910,
+    "next_year": 1955,
+    "span_ok": true,
+    "date": "23 November 1910"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "flagged",
+  "P2_ev": [
+   {
+    "owner": "Hôtel Drouot",
+    "keys": [
+     "drouot"
+    ],
+    "year": 1910,
+    "next_year": 1952,
+    "span_ok": true,
+    "date": "23 November 1910"
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "flagged",
+  "P3_ev": [
+   {
+    "owner": "Hôtel Drouot",
+    "keys": [
+     "drouot"
+    ],
+    "year": 1910,
+    "next_year": 1952,
+    "span_ok": true,
+    "date": "23 November 1910"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": "no dated 1933-45 event"
+ },
+ {
+  "id": "1008",
+  "stratum": "random",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "440",
+  "stratum": "random",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "46273",
+  "stratum": "random",
+  "silver": "flagged",
+  "trigger": [
+   "Contini Bonacossi, Alessandro, Count (1935-1935)"
+  ],
+  "P0": "flagged",
+  "P1": "flagged",
+  "P1_ev": [
+   {
+    "owner": "Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": 1878,
+    "next_year": 1935,
+    "span_ok": true,
+    "date": "1878-1955"
+   }
+  ],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "flagged",
+  "P2_ev": [
+   {
+    "owner": "Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": 1878,
+    "next_year": 1935,
+    "span_ok": true,
+    "date": null
+   }
+  ],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "flagged",
+  "P3_ev": [
+   {
+    "owner": "Alessandro Contini Bonacossi",
+    "keys": [
+     "contini bonacossi"
+    ],
+    "year": 1878,
+    "next_year": 1935,
+    "span_ok": true,
+    "date": "1878-1955"
+   }
+  ],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "3748",
+  "stratum": "random",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "72164",
+  "stratum": "random",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": "no dated 1933-45 event"
+ },
+ {
+  "id": "6611",
+  "stratum": "random",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "1117",
+  "stratum": "random",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": "JSONDecodeError: Expecting ',' delimiter: line 1 column 2895 (char 2894)",
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "139202",
+  "stratum": "random",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": "span not in text"
+ },
+ {
+  "id": "3783",
+  "stratum": "random",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "141337",
+  "stratum": "random",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "1216",
+  "stratum": "random",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": "span not in text"
+ },
+ {
+  "id": "10566",
+  "stratum": "random",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "6037",
+  "stratum": "random",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "11642",
+  "stratum": "random",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": "no dated 1933-45 event"
+ },
+ {
+  "id": "46083",
+  "stratum": "random",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": "no dated 1933-45 event"
+ },
+ {
+  "id": "130843",
+  "stratum": "random",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": "no dated 1933-45 event"
+ },
+ {
+  "id": "9965",
+  "stratum": "random",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "1735",
+  "stratum": "random",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "10012",
+  "stratum": "random",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "9904",
+  "stratum": "random",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "3592",
+  "stratum": "random",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "46517",
+  "stratum": "random",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": "no dated 1933-45 event"
+ },
+ {
+  "id": "4640",
+  "stratum": "random",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ },
+ {
+  "id": "52161",
+  "stratum": "random",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": "span not in text"
+ },
+ {
+  "id": "195943",
+  "stratum": "random",
+  "silver": "not flagged",
+  "trigger": [],
+  "P0": "not flagged",
+  "P1": "not flagged",
+  "P1_ev": [],
+  "P1_err": null,
+  "P1_esc": null,
+  "P2": "not flagged",
+  "P2_ev": [],
+  "P2_err": null,
+  "P2_esc": null,
+  "P3": "not flagged",
+  "P3_ev": [],
+  "P3_err": null,
+  "P3_esc": null
+ }
+]

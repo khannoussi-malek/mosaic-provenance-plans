@@ -1,0 +1,1374 @@
+[
+ {
+  "id": "16963",
+  "model": "qwen3:8b",
+  "events": [
+   {
+    "owner": "The artist",
+    "role": "other",
+    "date": "about 1886",
+    "year": 1886,
+    "place": "Paris",
+    "source_span": "The artist to Paul Paulin, Paris, about 1886 [letter from Andrė Schoeller to Knoedler and Co., July 19, 1922; copy in curatorial object file]",
+    "span_ok": true
+   },
+   {
+    "owner": "Paul Paulin",
+    "role": "other",
+    "date": null,
+    "year": null,
+    "place": "Paris",
+    "source_span": "The artist to Paul Paulin, Paris, about 1886 [letter from Andrė Schoeller to Knoedler and Co., July 19, 1922; copy in curatorial object file]",
+    "span_ok": true
+   },
+   {
+    "owner": "Andre Schoeller",
+    "role": "other",
+    "date": "until 1922",
+    "year": null,
+    "place": "Paris",
+    "source_span": "Andre Schoeller, Paris, until 1922; sold Knoedler and Co., New York to Martin A. Ryerson (d. 1932), Chicago, 1922 [letter from Knoedler and Co. to Martin A. Ryerson, June 2, 1922; copy in curatorial object file]",
+    "span_ok": true
+   },
+   {
+    "owner": "Knoedler and Co.",
+    "role": "auction",
+    "date": "1922",
+    "year": 1922,
+    "place": "New York",
+    "source_span": "Andre Schoeller, Paris, until 1922; sold Knoedler and Co., New York to Martin A. Ryerson (d. 1932), Chicago, 1922 [letter from Knoedler and Co. to Martin A. Ryerson, June 2, 1922; copy in curatorial object file]",
+    "span_ok": true
+   },
+   {
+    "owner": "Martin A. Ryerson",
+    "role": "other",
+    "date": "1922",
+    "year": 1922,
+    "place": "Chicago",
+    "source_span": "Andre Schoeller, Paris, until 1922; sold Knoedler and Co., New York to Martin A. Ryerson (d. 1932), Chicago, 1922 [letter from Knoedler and Co. to Martin A. Ryerson, June 2, 1922; copy in curatorial object file]",
+    "span_ok": true
+   },
+   {
+    "owner": "Art Institute of Chicago",
+    "role": "museum",
+    "date": "1933",
+    "year": 1933,
+    "place": null,
+    "source_span": "bequeathed to the Art Institute of Chicago, 1933",
+    "span_ok": true
+   }
+  ],
+  "error": null,
+  "in_tok": 348,
+  "out_tok": 675,
+  "seconds": 46.088487708,
+  "escalated": null
+ },
+ {
+  "id": "12526",
+  "model": "qwen2.5:14b",
+  "events": [
+   {
+    "owner": "Hôtel Drouot",
+    "role": "auction",
+    "date": "February 22-27, 1864",
+    "year": 1864,
+    "place": "Paris",
+    "source_span": "Sold, Hôtel Drouot, Paris, February 22-27, 1864, lot 535.",
+    "span_ok": true
+   },
+   {
+    "owner": "Baron (Joseph?) Vitta",
+    "role": "collector",
+    "date": null,
+    "year": 1942,
+    "place": null,
+    "source_span": "Baron (Joseph?) Vitta (died 1942)",
+    "span_ok": false
+   },
+   {
+    "owner": "Charles Slatkin Gallery",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "New York",
+    "source_span": "Sold by Charles Slatkin Gallery, New York, to Samuel Sair, Winnipeg, Manitoba, Canada",
+    "span_ok": true
+   },
+   {
+    "owner": "Samuel Sair",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Winnipeg, Manitoba, Canada",
+    "source_span": "to Samuel Sair, Winnipeg, Manitoba, Canada",
+    "span_ok": true
+   },
+   {
+    "owner": "Parke-Bernet Galleries",
+    "role": "auction",
+    "date": "December 9, 1959",
+    "year": 1959,
+    "place": "New York",
+    "source_span": "sold, Parke-Bernet Galleries, New York, December 9, 1959, lot 13",
+    "span_ok": true
+   },
+   {
+    "owner": "Charles Slatkin Gallery",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "New York",
+    "source_span": "Sold by Charles Slatkin Gallery, New York, to the Art Institute, 1960.",
+    "span_ok": true
+   },
+   {
+    "owner": "the Art Institute",
+    "role": "museum",
+    "date": null,
+    "year": 1960,
+    "place": null,
+    "source_span": "to the Art Institute, 1960.",
+    "span_ok": true
+   }
+  ],
+  "error": null,
+  "in_tok": 750,
+  "out_tok": 1171,
+  "seconds": 107.360252334,
+  "escalated": "span not in text"
+ },
+ {
+  "id": "46248",
+  "model": "qwen3:8b",
+  "events": [
+   {
+    "owner": "Richard von Kaufmann",
+    "role": "collector",
+    "date": "before 1917",
+    "year": 1917,
+    "place": "Berlin",
+    "source_span": "Richard von Kaufmann, Berlin, before 1917",
+    "span_ok": true
+   },
+   {
+    "owner": "Paul Cassirer and Hugo Helbing",
+    "role": "dealer",
+    "date": "12 December 1917",
+    "year": 1917,
+    "place": "Berlin",
+    "source_span": "sold, Paul Cassirer and Hugo Helbing, Berlin, 12 December 1917, lot 470",
+    "span_ok": true
+   },
+   {
+    "owner": "Harry Fuld",
+    "role": "collector",
+    "date": "1932-1942",
+    "year": 1932,
+    "place": "Frankfurt",
+    "source_span": "Harry Fuld (b. 1879 - d. 1932), Frankfurt; by descent to his widow, Lucie Mayer-Fuld (d. 1966), Frankfurt, Berlin, and New York, 1932-1942 [according to incoming shipping receipt in curatorial file]",
+    "span_ok": true
+   },
+   {
+    "owner": "Lucie Mayer-Fuld",
+    "role": "heir",
+    "date": "1932-1942",
+    "year": 1932,
+    "place": "Frankfurt, Berlin, and New York",
+    "source_span": "Harry Fuld (b. 1879 - d. 1932), Frankfurt; by descent to his widow, Lucie Mayer-Fuld (d. 1966), Frankfurt, Berlin, and New York, 1932-1942 [according to incoming shipping receipt in curatorial file]",
+    "span_ok": true
+   },
+   {
+    "owner": "Art Institute",
+    "role": "museum",
+    "date": "starting October 17, 1942",
+    "year": 1942,
+    "place": null,
+    "source_span": "on loan to the Art Institute starting October 17, 1942 [according to incoming receipt in Registrar's file]",
+    "span_ok": true
+   },
+   {
+    "owner": "Raphael Stora",
+    "role": "dealer",
+    "date": "1942",
+    "year": 1942,
+    "place": null,
+    "source_span": "sold, through Raphael Stora, to the Art Institute, 1942 [according to incoming shipping receipt, mentioned above]",
+    "span_ok": true
+   },
+   {
+    "owner": "Art Institute",
+    "role": "museum",
+    "date": "1942",
+    "year": 1942,
+    "place": null,
+    "source_span": "sold, through Raphael Stora, to the Art Institute, 1942 [according to incoming shipping receipt, mentioned above]",
+    "span_ok": true
+   }
+  ],
+  "error": null,
+  "in_tok": 374,
+  "out_tok": 685,
+  "seconds": 37.448372917,
+  "escalated": null
+ },
+ {
+  "id": "42949",
+  "model": "qwen3:8b",
+  "events": [
+   {
+    "owner": "Arthur-Paul Huc",
+    "role": "collector",
+    "date": "Toulouse",
+    "year": null,
+    "place": null,
+    "source_span": "Given by the artist to Arthur-Paul Huc, Toulouse [see Roqué 1999]",
+    "span_ok": true
+   },
+   {
+    "owner": "Paul Rosenberg",
+    "role": "collector",
+    "date": "Paris",
+    "year": 1912,
+    "place": null,
+    "source_span": "Paul Rosenberg, Paris, by 1912 [see Dortu 1971]",
+    "span_ok": true
+   },
+   {
+    "owner": "Pierre Decourcelle",
+    "role": "collector",
+    "date": "Paris",
+    "year": 1914,
+    "place": null,
+    "source_span": "Pierre Decourcelle, Paris, by at least 1914 [lent by him to Paris 1914]",
+    "span_ok": true
+   },
+   {
+    "owner": "Hôtel Drouot",
+    "role": "auction",
+    "date": "Paris",
+    "year": 1926,
+    "place": null,
+    "source_span": "sold, Hôtel Drouot, Paris, June 16, 1926, no. 78, for 63,000 francs, to Jerome Stonborough",
+    "span_ok": true
+   },
+   {
+    "owner": "Jerome Stonborough",
+    "role": "collector",
+    "date": "New York",
+    "year": null,
+    "place": null,
+    "source_span": "Jerome Stonborough (died 1938), New York",
+    "span_ok": true
+   },
+   {
+    "owner": "Parke-Bernet Galleries",
+    "role": "auction",
+    "date": "New York",
+    "year": 1940,
+    "place": null,
+    "source_span": "his estate sale, Parke-Bernet Galleries, New York, October 17, 1940, no. 70",
+    "span_ok": true
+   },
+   {
+    "owner": "Paul Rosenberg and Co.",
+    "role": "dealer",
+    "date": "New York",
+    "year": 1940,
+    "place": null,
+    "source_span": "Paul Rosenberg and Co., New York, Nov. 17, 1940 [according to the Rosenberg ledger, no. 120, Museum of Modern Art, New York, copy in curatorial file and letter of May 5, 1977, from Alexandre Rosenberg, who stated that the firm acquired the painting on 17 November, 1940, from the estate of Stonborough]",
+    "span_ok": true
+   },
+   {
+    "owner": "Art Institute of Chicago",
+    "role": "museum",
+    "date": "",
+    "year": 1941,
+    "place": null,
+    "source_span": "sold to the Art Institute of Chicago, October 3, 1941",
+    "span_ok": true
+   }
+  ],
+  "error": null,
+  "in_tok": 508,
+  "out_tok": 680,
+  "seconds": 41.67883825,
+  "escalated": null
+ },
+ {
+  "id": "27350",
+  "model": "qwen2.5:14b",
+  "events": [
+   {
+    "owner": "Auguste Cain",
+    "role": "collector",
+    "date": null,
+    "year": 1892,
+    "place": "Paris",
+    "source_span": "Auguste Cain, France, by 1892 [Paris 1892]",
+    "span_ok": true
+   },
+   {
+    "owner": "Pierre-Jules Mène",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "France",
+    "source_span": "Pierre-Jules Mène, France",
+    "span_ok": true
+   },
+   {
+    "owner": "Hôtel Drouot",
+    "role": "auction",
+    "date": "February 20-21, 1899",
+    "year": 1899,
+    "place": "Paris",
+    "source_span": "sold, Hôtel Drouot, Paris, February 20-21, 1899",
+    "span_ok": true
+   },
+   {
+    "owner": "Henri Vever",
+    "role": "collector",
+    "date": null,
+    "year": 1904,
+    "place": "Paris",
+    "source_span": "Henri Vever (died 1942), Paris, by 1904 [Paris 1904]",
+    "span_ok": true
+   },
+   {
+    "owner": "Germain Seligman",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "New York",
+    "source_span": "Germain Seligman (died 1978), New York [his stamp on verso, not in Lugt]",
+    "span_ok": true
+   },
+   {
+    "owner": "Jacques Seligmann and Company",
+    "role": "dealer",
+    "date": null,
+    "year": 1967,
+    "place": null,
+    "source_span": "sold by Jacques Seligmann and Company, New York, to the Art Institute, 1967",
+    "span_ok": true
+   },
+   {
+    "owner": "Art Institute",
+    "role": "museum",
+    "date": null,
+    "year": 1967,
+    "place": null,
+    "source_span": "sold by Jacques Seligmann and Company, New York, to the Art Institute, 1967",
+    "span_ok": true
+   }
+  ],
+  "error": null,
+  "in_tok": 698,
+  "out_tok": 1131,
+  "seconds": 90.054703458,
+  "escalated": "no dated 1933-45 event"
+ },
+ {
+  "id": "20601",
+  "model": "qwen2.5:14b",
+  "events": [
+   {
+    "owner": "Marquis Le Franc de Pompignon",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Château de Hordesse",
+    "source_span": "Marquis Le Franc de Pompignon, Château de Hordesse",
+    "span_ok": true
+   },
+   {
+    "owner": "Hôtel Drouot",
+    "role": "auction",
+    "date": "June 20, 1927",
+    "year": 1927,
+    "place": "Paris",
+    "source_span": "sold, Hôtel Drouot, Paris, June 20, 1927",
+    "span_ok": true
+   },
+   {
+    "owner": "Marius Paulme",
+    "role": "collector",
+    "date": null,
+    "year": 1928,
+    "place": "Paris",
+    "source_span": "to Marius Paulme (died 1928), Paris.",
+    "span_ok": true
+   },
+   {
+    "owner": "Wildenstein and Company",
+    "role": "dealer",
+    "date": "by March 1934-at least 1955",
+    "year": 1934,
+    "place": null,
+    "source_span": "Wildenstein and Company, by March 1934-at least 1955",
+    "span_ok": true
+   },
+   {
+    "owner": "Mrs. Joseph Regenstein",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": "Chicago",
+    "source_span": "Given by Mrs. Joseph Regenstein, Chicago, to the Art Institute",
+    "span_ok": true
+   },
+   {
+    "owner": "Art Institute",
+    "role": "museum",
+    "date": null,
+    "year": 1964,
+    "place": null,
+    "source_span": "to the Art Institute, 1964.",
+    "span_ok": true
+   }
+  ],
+  "error": null,
+  "in_tok": 652,
+  "out_tok": 870,
+  "seconds": 70.879265834,
+  "escalated": "no dated 1933-45 event"
+ },
+ {
+  "id": "16600",
+  "model": "qwen3:8b",
+  "events": [
+   {
+    "owner": "Paul Berard",
+    "role": "collector",
+    "date": "Wargemont and Paris",
+    "year": null,
+    "place": null,
+    "source_span": "Commissioned by Paul Berard (1833-1905) (father of sitter), Wargemont and Paris [per Bailey 1997]",
+    "span_ok": true
+   },
+   {
+    "owner": "J. E. D. Pieyre Lacombe de Mandiargues",
+    "role": "collector",
+    "date": "May 8, 1905",
+    "year": 1905,
+    "place": "Paris",
+    "source_span": "sold, Paul Berard sale, Galerie Georges Petit, Paris, May 8, 1905, lot 20, to, J. E. D. Pieyre Lacombe de Mandiargues (1879–1916) (husband of sitter), for 10,030 francs [per auction catalogue, 1905]",
+    "span_ok": true
+   },
+   {
+    "owner": "André Schoeller",
+    "role": "collector",
+    "date": "May 25, 1912",
+    "year": 1912,
+    "place": "Paris",
+    "source_span": "André Schoeller, Paris, by May 25, 1912 [this and the following per Dauberville and Dauberville 2009]",
+    "span_ok": true
+   },
+   {
+    "owner": "Bernheim-Jeune",
+    "role": "dealer",
+    "date": "May 25, 1912",
+    "year": 1912,
+    "place": "Paris",
+    "source_span": "sold to Bernheim-Jeune, Paris, May 25, 1912, for 11,000 francs",
+    "span_ok": true
+   },
+   {
+    "owner": "Martin A. Ryerson",
+    "role": "collector",
+    "date": "February 26, 1913",
+    "year": 1913,
+    "place": "Chicago",
+    "source_span": "sold to Martin A. Ryerson (d. 1932), Chicago, February 26, 1913, for 23,500 francs [per purchase receipt from Bernheim-Jeune to Monsieur A. [sic] Ryerson, photocopy in curatorial object file]",
+    "span_ok": true
+   },
+   {
+    "owner": "Art Institute of Chicago",
+    "role": "museum",
+    "date": "1933",
+    "year": 1933,
+    "place": null,
+    "source_span": "Bequeathed to the Art Institute of Chicago, 1933",
+    "span_ok": true
+   }
+  ],
+  "error": null,
+  "in_tok": 481,
+  "out_tok": 644,
+  "seconds": 42.569078542,
+  "escalated": null
+ },
+ {
+  "id": "243810",
+  "model": "qwen3:8b",
+  "events": [
+   {
+    "owner": "Léon Appert",
+    "role": "collector",
+    "date": "1891",
+    "year": 1891,
+    "place": "Paris",
+    "source_span": "By descent to the artist's brother-in-law, Léon Appert (1837–1925), Paris, 1891",
+    "span_ok": true
+   },
+   {
+    "owner": "Maurice-Adrien",
+    "role": "collector",
+    "date": "1925",
+    "year": 1925,
+    "place": "Paris",
+    "source_span": "possibly by descent to the artist’s nephew, Maurice-Adrien (1869–1941), Paris, 1925 [Seligmann 1947]",
+    "span_ok": true
+   },
+   {
+    "owner": "Galerie Knoedler & Co.",
+    "role": "dealer",
+    "date": "according to De Hauke 1961",
+    "year": null,
+    "place": "Paris",
+    "source_span": "Galerie Knoedler & Co., Paris [according to De Hauke 1961]",
+    "span_ok": true
+   },
+   {
+    "owner": "Galerie Gérard Frères",
+    "role": "dealer",
+    "date": "according to De Hauke 1961",
+    "year": null,
+    "place": "Paris",
+    "source_span": "Galerie Gérard Frères, Paris [according to De Hauke 1961]",
+    "span_ok": true
+   },
+   {
+    "owner": "Gustave Goubaux",
+    "role": "collector",
+    "date": "according to De Hauke 1961",
+    "year": null,
+    "place": null,
+    "source_span": "Gustave Goubaux (1876–1957) [according to De Hauke 1961]",
+    "span_ok": true
+   },
+   {
+    "owner": "Félix Fénéon",
+    "role": "collector",
+    "date": "by Jan. 1937",
+    "year": 1937,
+    "place": "Paris",
+    "source_span": "Félix Fénéon (1861–1944), Paris, by Jan. 1937 [London 1937]",
+    "span_ok": true
+   },
+   {
+    "owner": "Hôtel Drouot",
+    "role": "auction",
+    "date": "May 30, 1947",
+    "year": 1947,
+    "place": "Paris",
+    "source_span": "sold, Paris, Hôtel Drouot, Collection Fénéon, May 30, 1947, lot 40 (ill.)",
+    "span_ok": true
+   },
+   {
+    "owner": "Private Collection",
+    "role": "collector",
+    "date": "by 1954",
+    "year": 1954,
+    "place": "Paris",
+    "source_span": "Private Collection, Paris, by 1954 [Paris, 1954]",
+    "span_ok": true
+   },
+   {
+    "owner": "Alex Loeb",
+    "role": "collector",
+    "date": "by 1961–at least 1962",
+    "year": null,
+    "place": "Paris",
+    "source_span": "Alex Loeb, Paris, by 1961–at least 1962 [De Hauke 1961; Herbert 1962]",
+    "span_ok": true
+   },
+   {
+    "owner": "Galerie Max Kaganovitch",
+    "role": "dealer",
+    "date": "by May 1966",
+    "year": null,
+    "place": "Paris",
+    "source_span": "Galerie Max Kaganovitch, Paris, by May 1966",
+    "span_ok": true
+   },
+   {
+    "owner": "Abraham and Nadia Jaglom",
+    "role": "collector",
+    "date": "by June 2, 1969",
+    "year": 1969,
+    "place": "New York",
+    "source_span": "sold to Abraham (1900–1975) and Nadia (Nehama) Jaglom (née Shoenberg; 1900–2004), New York, by June 2, 1969 [Abraham Jaglom diary entry]",
+    "span_ok": true
+   },
+   {
+    "owner": "private collection",
+    "role": "collector",
+    "date": "by descent to private collection",
+    "year": null,
+    "place": "New York",
+    "source_span": "by descent to private collection, New York",
+    "span_ok": true
+   },
+   {
+    "owner": "Sotheby's",
+    "role": "auction",
+    "date": "May 3, 2005",
+    "year": 2005,
+    "place": "New York",
+    "source_span": "sold, New York, Sotheby's, May 3, 2005, lot 48",
+    "span_ok": true
+   },
+   {
+    "owner": "Daxer & Marschall Kunsthandel",
+    "role": "dealer",
+    "date": "to the Art Institute",
+    "year": 2018,
+    "place": "Munich",
+    "source_span": "offered through Daxer & Marschall Kunsthandel, Munich, to the Art Institute, 2018",
+    "span_ok": true
+   }
+  ],
+  "error": null,
+  "in_tok": 633,
+  "out_tok": 1254,
+  "seconds": 79.344894375,
+  "escalated": null
+ },
+ {
+  "id": "16405",
+  "model": "qwen3:8b",
+  "events": [
+   {
+    "owner": "François Marcille",
+    "role": "collector",
+    "date": "1839",
+    "year": 1839,
+    "place": "Paris",
+    "source_span": "Probably François Marcille (died 1856), Paris [de Goncourt and de Goncourt 1876 report that he bought it in 1839 and bequeathed it to his son Camille]",
+    "span_ok": true
+   },
+   {
+    "owner": "Camille Marcille",
+    "role": "collector",
+    "date": "by descent to his son, Camille Marcille",
+    "year": null,
+    "place": "Paris",
+    "source_span": "by descent to his son, Camille Marcille (died 1875), Paris",
+    "span_ok": true
+   },
+   {
+    "owner": "Hôtel Drouot, Paris",
+    "role": "auction",
+    "date": "March 6, 1876",
+    "year": 1876,
+    "place": "Paris",
+    "source_span": "his estate sale Hôtel Drouot, Paris, March 6, 1876, lot 51, for 8,000 francs",
+    "span_ok": true
+   },
+   {
+    "owner": "L. Tabourier",
+    "role": "collector",
+    "date": "by 1889",
+    "year": null,
+    "place": "Paris",
+    "source_span": "L. Tabourier, Paris, by 1889 [lent to Paris 1889]",
+    "span_ok": true
+   },
+   {
+    "owner": "Hôtel Drouot, Paris",
+    "role": "auction",
+    "date": "June 20–22, 1898",
+    "year": 1898,
+    "place": "Paris",
+    "source_span": "sold, Hôtel Drouot, Paris, June 20–22, 1898, lot 118, for 5,000 francs",
+    "span_ok": true
+   },
+   {
+    "owner": "Durand-Ruel",
+    "role": "dealer",
+    "date": "by 1898",
+    "year": null,
+    "place": "Paris",
+    "source_span": "Durand-Ruel, Paris, by 1898 [it is likely that Durand-Ruel purchased the painting at the Tabourier sale, possibly as agent for Martin A. Ryerson]",
+    "span_ok": true
+   },
+   {
+    "owner": "Martin A. Ryerson",
+    "role": "collector",
+    "date": "July 20, 1898",
+    "year": 1898,
+    "place": null,
+    "source_span": "sold to Martin A. Ryerson (died 1932) for 5,000 francs, July 20, 1898 [according to the transaction invoice, Ryerson Papers, Art Institute Archives]",
+    "span_ok": true
+   },
+   {
+    "owner": "Art Institute",
+    "role": "museum",
+    "date": "1933",
+    "year": 1933,
+    "place": null,
+    "source_span": "bequeathed to the Art Institute, 1933",
+    "span_ok": true
+   }
+  ],
+  "error": null,
+  "in_tok": 539,
+  "out_tok": 740,
+  "seconds": 51.361810875,
+  "escalated": null
+ },
+ {
+  "id": "100264",
+  "model": "qwen3:8b",
+  "events": [
+   {
+    "owner": "Gustave Duruflé",
+    "role": "collector",
+    "date": "Paris [invoice and Mathieu 1976]",
+    "year": 1934,
+    "place": "Paris",
+    "source_span": "Gustave Duruflé (1834–1909), Paris [invoice and Mathieu 1976]",
+    "span_ok": true
+   },
+   {
+    "owner": "Georges Wildenstein",
+    "role": "collector",
+    "date": "Paris; confiscated by the Einsatzstab Reichsleiter Rosenberg (E.R.R.), before January 15, 1943",
+    "year": 1943,
+    "place": "Paris",
+    "source_span": "Georges Wildenstein (1892–1963), Paris; confiscated by the Einsatzstab Reichsleiter Rosenberg (E.R.R.), before January 15, 1943",
+    "span_ok": true
+   },
+   {
+    "owner": "Einsatzstab Reichsleiter Rosenberg (E.R.R.)",
+    "role": "confiscating agency",
+    "date": "January 15, 1943 is the date the drawing was entered into the E.R.R.’s records at the Jeu de Paume Museum in Paris",
+    "year": 1943,
+    "place": "Paris",
+    "source_span": "January 15, 1943 is the date the drawing was entered into the E.R.R.’s records at the Jeu de Paume Museum in Paris",
+    "span_ok": true
+   },
+   {
+    "owner": "American Forces’ Monuments, Fine Arts, and Archives Service (M.F.A.A.)",
+    "role": "museum",
+    "date": "recovered by the American Forces’ Monuments, Fine Arts, and Archives Service (M.F.A.A.) and processed at the Munich Central Art Collecting Point, June 27, 1945",
+    "year": 1945,
+    "place": "Munich",
+    "source_span": "recovered by the American Forces’ Monuments, Fine Arts, and Archives Service (M.F.A.A.) and processed at the Munich Central Art Collecting Point, June 27, 1945",
+    "span_ok": true
+   },
+   {
+    "owner": "Munich Central Art Collecting Point",
+    "role": "collecting point",
+    "date": "June 27, 1945",
+    "year": 1945,
+    "place": "Munich",
+    "source_span": "recovered by the American Forces’ Monuments, Fine Arts, and Archives Service (M.F.A.A.) and processed at the Munich Central Art Collecting Point, June 27, 1945",
+    "span_ok": true
+   },
+   {
+    "owner": "France",
+    "role": "museum",
+    "date": "repatriated to France, October 10, 1946 and restituted to Georges Wildenstein (date unknown)",
+    "year": 1946,
+    "place": "France",
+    "source_span": "repatriated to France, October 10, 1946 and restituted to Georges Wildenstein (date unknown)",
+    "span_ok": true
+   },
+   {
+    "owner": "Georges Wildenstein",
+    "role": "heir",
+    "date": "by descent to his son, Daniel Wildenstein (1917–2001), 1963–at least 1976",
+    "year": 1963,
+    "place": "null",
+    "source_span": "by descent to his son, Daniel Wildenstein (1917–2001), 1963–at least 1976",
+    "span_ok": true
+   },
+   {
+    "owner": "Galerie Claude Bernard",
+    "role": "dealer",
+    "date": "Sold by Galerie Claude Bernard, Paris, to the Art Institute, 1983",
+    "year": 1983,
+    "place": "Paris",
+    "source_span": "Sold by Galerie Claude Bernard, Paris, to the Art Institute, 1983",
+    "span_ok": true
+   },
+   {
+    "owner": "Art Institute",
+    "role": "museum",
+    "date": "Sold by Galerie Claude Bernard, Paris, to the Art Institute, 1983",
+    "year": 1983,
+    "place": "null",
+    "source_span": "Sold by Galerie Claude Bernard, Paris, to the Art Institute, 1983",
+    "span_ok": true
+   }
+  ],
+  "error": null,
+  "in_tok": 499,
+  "out_tok": 1025,
+  "seconds": 67.610224208,
+  "escalated": null
+ },
+ {
+  "id": "6398",
+  "model": "qwen2.5:14b",
+  "events": [
+   {
+    "owner": "John Wanamaker",
+    "role": "collector",
+    "date": null,
+    "year": 1838,
+    "place": "Philadelphia",
+    "source_span": "John Wanamaker (1838–1922), Philadelphia",
+    "span_ok": true
+   },
+   {
+    "owner": "Kate Sturges Buckingham",
+    "role": "collector",
+    "date": "Nov. 1919",
+    "year": 1919,
+    "place": "Chicago",
+    "source_span": "sold to Kate Sturges Buckingham (1858–1937), Chicago, Nov. 1919",
+    "span_ok": true
+   },
+   {
+    "owner": "Lucy Maud Buckingham",
+    "role": "heir",
+    "date": null,
+    "year": 1870,
+    "place": null,
+    "source_span": "given to her sister Lucy Maud Buckingham (1870–1920)",
+    "span_ok": true
+   },
+   {
+    "owner": "Kate Sturges Buckingham",
+    "role": "other",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "[with Kate serving as executor]",
+    "span_ok": true
+   },
+   {
+    "owner": "Art Institute of Chicago",
+    "role": "museum",
+    "date": "1922",
+    "year": 1922,
+    "place": null,
+    "source_span": "given to the Art Institute of Chicago, 1922",
+    "span_ok": true
+   }
+  ],
+  "error": null,
+  "in_tok": 594,
+  "out_tok": 631,
+  "seconds": 58.445831958,
+  "escalated": "no dated 1933-45 event"
+ },
+ {
+  "id": "6238",
+  "model": "qwen3:8b",
+  "events": [
+   {
+    "owner": "Bruno John Wassermann-San Blás Collection",
+    "role": "collector",
+    "date": "Buenos Aires, Argentina, by 1938",
+    "year": 1938,
+    "place": "Buenos Aires, Argentina",
+    "source_span": "Bruno John Wassermann-San Blás Collection, Buenos Aires, Argentina, by 1938 [Wassermann-San Blás, 1938]",
+    "span_ok": true
+   },
+   {
+    "owner": "Nathan Cummings",
+    "role": "collector",
+    "date": "1954",
+    "year": 1954,
+    "place": "Chicago",
+    "source_span": "sold to Nathan Cummings (1896–1985), Chicago, 1954",
+    "span_ok": true
+   },
+   {
+    "owner": "Art Institute of Chicago",
+    "role": "museum",
+    "date": "1957",
+    "year": 1957,
+    "place": null,
+    "source_span": "given to the Art Institute of Chicago, 1957",
+    "span_ok": true
+   }
+  ],
+  "error": null,
+  "in_tok": 279,
+  "out_tok": 265,
+  "seconds": 17.913463042,
+  "escalated": null
+ },
+ {
+  "id": "15860",
+  "model": "qwen2.5:14b",
+  "events": [
+   {
+    "owner": "Charles Laval",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Paris",
+    "source_span": "Given by the artist to Charles Laval (1862–1894), Paris",
+    "span_ok": true
+   },
+   {
+    "owner": "Étate of André Teissier",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": "Mâcon, France",
+    "source_span": "Sold by the estate of André Teissier (died 1927), Mâcon, France",
+    "span_ok": true
+   },
+   {
+    "owner": "Henri Cottereau",
+    "role": "dealer",
+    "date": null,
+    "year": 1928,
+    "place": "Paris",
+    "source_span": "to Henri Cottereau, Galerie Choiseul, Paris, 1928",
+    "span_ok": true
+   },
+   {
+    "owner": "Carter H. Harrison",
+    "role": "collector",
+    "date": null,
+    "year": 1928,
+    "place": "Chicago",
+    "source_span": "sold to Carter H. Harrison (1860-1953), Chicago, 1928",
+    "span_ok": true
+   },
+   {
+    "owner": "Art Institute",
+    "role": "museum",
+    "date": null,
+    "year": 1933,
+    "place": null,
+    "source_span": "given to the Art Institute, 1933",
+    "span_ok": true
+   }
+  ],
+  "error": null,
+  "in_tok": 644,
+  "out_tok": 906,
+  "seconds": 68.546721209,
+  "escalated": "span not in text"
+ },
+ {
+  "id": "23333",
+  "model": "qwen3:8b",
+  "events": [
+   {
+    "owner": "Marshall Schulenburg",
+    "role": "collector",
+    "date": "by 1743",
+    "year": 1743,
+    "place": "Venice",
+    "source_span": "Commissioned by Marshall Schulenburg, Venice, by 1743 [his inventory 1743, Royal Academy 1954–55, no. 510]",
+    "span_ok": true
+   },
+   {
+    "owner": "his heirs",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "his heirs",
+    "span_ok": true
+   },
+   {
+    "owner": "Mr. Greenwood",
+    "role": "collector",
+    "date": "1774",
+    "year": 1774,
+    "place": null,
+    "source_span": "sold to Mr. Greenwood in 1774 [Binion 1994, pp. 98–99]",
+    "span_ok": true
+   },
+   {
+    "owner": "Christie’s",
+    "role": "auction",
+    "date": "April 13, 1775",
+    "year": 1775,
+    "place": "London",
+    "source_span": "his sale at Christie’s, London, April 13, 1775, no. 41 or 42",
+    "span_ok": true
+   },
+   {
+    "owner": "Guida da Faenza Collection",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "Guida da Faenza Collection",
+    "span_ok": true
+   },
+   {
+    "owner": "his sale",
+    "role": "auction",
+    "date": "Rome, 1902",
+    "year": 1902,
+    "place": "Rome",
+    "source_span": "his sale, Rome, 1902 [letter from M. D. Koetser, dated February 27, 1936, in curatorial file]",
+    "span_ok": true
+   },
+   {
+    "owner": "17th-Century Gallery",
+    "role": "collector",
+    "date": "1917",
+    "year": 1917,
+    "place": "London",
+    "source_span": "17th-Century Gallery, London, 1917 [unsubstantiated note in curatorial file and Maxon and Rishel 1970, p. 88]",
+    "span_ok": true
+   },
+   {
+    "owner": "Auction London",
+    "role": "auction",
+    "date": "1935",
+    "year": 1935,
+    "place": "London",
+    "source_span": "Auction London, 1935",
+    "span_ok": true
+   },
+   {
+    "owner": "G. H. Winterbottom",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "London",
+    "source_span": "G. H. Winterbottom, London",
+    "span_ok": true
+   },
+   {
+    "owner": "Jacob Heimann",
+    "role": "collector",
+    "date": "1936",
+    "year": 1936,
+    "place": "Milan",
+    "source_span": "Jacob Heimann, Milan, 1936 [letter from Heimann to Art Institute of Chicago, dated April 25, 1937]",
+    "span_ok": true
+   },
+   {
+    "owner": "M. D. and D. M. Koetser",
+    "role": "collector",
+    "date": "1936",
+    "year": 1936,
+    "place": "London",
+    "source_span": "M. D. and D. M. Koetser, London, 1936 [Koetser letter, cited above]",
+    "span_ok": true
+   },
+   {
+    "owner": "Art Institute",
+    "role": "museum",
+    "date": "1937",
+    "year": 1937,
+    "place": null,
+    "source_span": "purchased by Art Institute, 1937",
+    "span_ok": true
+   }
+  ],
+  "error": null,
+  "in_tok": 494,
+  "out_tok": 942,
+  "seconds": 55.256954417,
+  "escalated": null
+ },
+ {
+  "id": "24361",
+  "model": "qwen2.5:14b",
+  "events": [
+   {
+    "owner": "John Udny",
+    "role": "collector",
+    "date": "1762",
+    "year": 1762,
+    "place": "London",
+    "source_span": "Probably with John Udny (1727-1800), London [Lugt 2248], 1762",
+    "span_ok": true
+   },
+   {
+    "owner": "Viscount Churchill",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "Viscount Churchill, probably Victor Albert Francis Charles Spencer (1864-1938)",
+    "span_ok": true
+   },
+   {
+    "owner": "Earl of Harewood",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "Earl of Harewood; sold, Christie’s, London, July 6, 1965, Harewood sale, lot 122, to Hans Calmann, London",
+    "span_ok": true
+   },
+   {
+    "owner": "Christie's",
+    "role": "auction",
+    "date": "July 6, 1965",
+    "year": 1965,
+    "place": "London",
+    "source_span": "sold, Christie’s, London, July 6, 1965, Harewood sale, lot 122, to Hans Calmann, London",
+    "span_ok": true
+   },
+   {
+    "owner": "Hans Calmann",
+    "role": "collector",
+    "date": "July 6, 1965",
+    "year": 1965,
+    "place": "London",
+    "source_span": "sold, Christie’s, London, July 6, 1965, Harewood sale, lot 122, to Hans Calmann, London",
+    "span_ok": true
+   },
+   {
+    "owner": "Art Institute",
+    "role": "museum",
+    "date": null,
+    "year": 1965,
+    "place": null,
+    "source_span": "sold to the Art Institute, 1965",
+    "span_ok": true
+   }
+  ],
+  "error": null,
+  "in_tok": 714,
+  "out_tok": 922,
+  "seconds": 68.251172417,
+  "escalated": "no dated 1933-45 event"
+ },
+ {
+  "id": "74793",
+  "model": "qwen3:8b",
+  "events": [
+   {
+    "owner": "Erna Goodman, Chicago (born Sawyer, also Mrs. William O. Goodman, 1859-1943)",
+    "role": "collector",
+    "date": "by descent to her granddaughter, Mrs. Marjorie Dewey (born Goodman, also Mrs. Charles S. Dewey, Jr.; later Mrs. Robert D. Graff, 1914-2009), Chicago, then Far Hills, NJ, 1943",
+    "year": 1943,
+    "place": "Chicago, then Far Hills, NJ",
+    "source_span": "by descent to her granddaughter, Mrs. Marjorie Dewey (born Goodman, also Mrs. Charles S. Dewey, Jr.; later Mrs. Robert D. Graff, 1914-2009), Chicago, then Far Hills, NJ, 1943",
+    "span_ok": true
+   },
+   {
+    "owner": "Art Institute of Chicago",
+    "role": "museum",
+    "date": "on loan to the Art Insitute of Chicago from Oct. 16, 1943, incoming receipt R8007, loan number 938.1943",
+    "year": 1943,
+    "place": null,
+    "source_span": "on loan to the Art Insitute of Chicago from Oct. 16, 1943, incoming receipt R8007, loan number 938.1943",
+    "span_ok": true
+   },
+   {
+    "owner": "Art Institute of Chicago",
+    "role": "museum",
+    "date": "given to the Art Institute of Chicago",
+    "year": 1951,
+    "place": null,
+    "source_span": "given to the Art Institute of Chicago",
+    "span_ok": true
+   }
+  ],
+  "error": null,
+  "in_tok": 352,
+  "out_tok": 412,
+  "seconds": 28.02572625,
+  "escalated": null
+ },
+ {
+  "id": "85663",
+  "model": "qwen2.5:14b",
+  "events": [
+   {
+    "owner": "Puttick & Simpson",
+    "role": "auction",
+    "date": "Nov. 20, 1914",
+    "year": 1914,
+    "place": "London",
+    "source_span": "Sold, Puttick & Simpson, London, Nov. 20, 1914",
+    "span_ok": true
+   },
+   {
+    "owner": "William F. E. Gurley (1854–1943)",
+    "role": "collector",
+    "date": null,
+    "year": 1914,
+    "place": "Chicago",
+    "source_span": "to William F. E. Gurley (1854–1943), Chicago",
+    "span_ok": true
+   },
+   {
+    "owner": "Art Institute of Chicago",
+    "role": "museum",
+    "date": "1922",
+    "year": 1922,
+    "place": null,
+    "source_span": "given to the Art Institute of Chicago for the Leonora Hall Gurley Memorial Collection, 1922",
+    "span_ok": true
+   }
+  ],
+  "error": null,
+  "in_tok": 632,
+  "out_tok": 460,
+  "seconds": 35.325839542,
+  "escalated": "no dated 1933-45 event"
+ },
+ {
+  "id": "5513",
+  "model": "qwen2.5:14b",
+  "events": [
+   {
+    "owner": "Francisco “Paco” Durrio",
+    "role": "collector",
+    "date": "between 1893 and 1895",
+    "year": 1893,
+    "place": "Paris",
+    "source_span": "Francisco “Paco” Durrio (1868–1940), Paris, between 1893 and 1895",
+    "span_ok": true
+   },
+   {
+    "owner": "Emily Crane Chadbourne",
+    "role": "collector",
+    "date": "by 1910",
+    "year": 1910,
+    "place": "Chicago and London",
+    "source_span": "Emily Crane Chadbourne (1871–1964), Chicago and London, by 1910",
+    "span_ok": true
+   },
+   {
+    "owner": "Art Institute of Chicago",
+    "role": "museum",
+    "date": "1922",
+    "year": 1922,
+    "place": null,
+    "source_span": "given to the Art Institute of Chicago, 1922.",
+    "span_ok": true
+   }
+  ],
+  "error": null,
+  "in_tok": 848,
+  "out_tok": 630,
+  "seconds": 45.251647041,
+  "escalated": "no dated 1933-45 event"
+ },
+ {
+  "id": "81788",
+  "model": "qwen2.5:14b",
+  "events": [
+   {
+    "owner": "W. Young Ottley",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "W. Young Ottley [script (Lugt 2663) recto, lower left, in pen and black ink]",
+    "span_ok": true
+   },
+   {
+    "owner": "Sir Thomas Lawrence",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "Sir Thomas Lawrence [see Lugt 2445-46, according to inscription, verso, upper left on mount, in graphite]",
+    "span_ok": true
+   },
+   {
+    "owner": "Dr. C. D. Ginsburg",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "Dr. C. D. Ginsburg [stamp (Lugt 1145), recto, lower left and verso, lower left on mount, in black]",
+    "span_ok": true
+   },
+   {
+    "owner": "Maggs Bros.",
+    "role": "dealer",
+    "date": "July 20, 1915",
+    "year": 1915,
+    "place": "London",
+    "source_span": "sold, Sotheby's, London, July 20, 1915, part of lot 8, as Cambiaso, to Maggs Bros., London.",
+    "span_ok": true
+   },
+   {
+    "owner": "William F. E. Gurley",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Chicago",
+    "source_span": "William F. E. Gurley (1854–1943), Chicago [stamp (Lugt 5308), recto, lower right, in black]",
+    "span_ok": true
+   },
+   {
+    "owner": "Art Institute of Chicago",
+    "role": "museum",
+    "date": "1922",
+    "year": 1922,
+    "place": null,
+    "source_span": "given to the Art Institute of Chicago for the Leonora Hall Gurley Memorial Collection, 1922 [stamp (Lugt 1230b), verso, center on mount, in black]",
+    "span_ok": true
+   }
+  ],
+  "error": null,
+  "in_tok": 860,
+  "out_tok": 1192,
+  "seconds": 84.327041959,
+  "escalated": "span not in text"
+ },
+ {
+  "id": "22186",
+  "model": "qwen2.5:14b",
+  "events": [
+   {
+    "owner": "Judson David Metzgar",
+    "role": "collector",
+    "date": null,
+    "year": 1870,
+    "place": "Los Angeles and Moline, IL",
+    "source_span": "Judson David Metzgar (1870–1958), Los Angeles and Moline, IL",
+    "span_ok": true
+   },
+   {
+    "owner": "American Art Galleries",
+    "role": "auction",
+    "date": "Nov. 13–14, 1916",
+    "year": 1916,
+    "place": "New York",
+    "source_span": "sold, American Art Galleries, New York, Nov. 13–14, 1916",
+    "span_ok": true
+   },
+   {
+    "owner": "Kate Sturges Buckingham",
+    "role": "collector",
+    "date": null,
+    "year": 1858,
+    "place": "Chicago",
+    "source_span": "to Kate Sturges Buckingham (1858–1937), Chicago",
+    "span_ok": true
+   },
+   {
+    "owner": "Art Institute of Chicago",
+    "role": "museum",
+    "date": null,
+    "year": 1925,
+    "place": null,
+    "source_span": "given to the Art Institute of Chicago, 1925",
+    "span_ok": true
+   }
+  ],
+  "error": null,
+  "in_tok": 586,
+  "out_tok": 627,
+  "seconds": 46.387967,
+  "escalated": "no dated 1933-45 event"
+ }
+]

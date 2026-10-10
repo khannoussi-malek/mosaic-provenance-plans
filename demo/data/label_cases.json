@@ -1,0 +1,3039 @@
+[
+ {
+  "id": "229508",
+  "kind": "flagged",
+  "title": "Coconut Cup with Silver Gilt Mounts",
+  "artist": "Netherlandish 16th Century",
+  "text": "(Louis Alexander Ricard-Abenheimer, Frankfurt am Main); acquired by 1906 by Albert [1862-1912] and Hedwig [1872-1945] Ullmann, Frankfurt am Main;[1] by descent to their son Henry A. and his wife Elinor Ullin, Melbourne;[2] sale, 9 May 1974, Sotheby’s London, no. 165;[3] L. Scott;[4] sale, 19-20 May 1997, Sotheby’s, Geneva, no. 187; Belgian private collection; acquired 2023 by Galerie Kugel, Paris; purchased 2024 by NGA.\n \n[1] The notebook in which the Ullmanns recorded their purchases (kept in the private archive of their descendants) lists the coconut cup with its now-lost lid on page 15. See Maike Brüggen,  _Kunst in der Krise. Die Sammlung Hedwig und Albert Ullmann und der Frankfurter Kunstmarkt im Spiegel des Ersten Weltkriegs_, Ph.D. dissertation, Technische Universität Berlin, 2021: 192, n. 810.\n \n[2] Having fled Frankfurt in the wake of Nazi persecution, Hedwig Ullmann immigrated with her two sons and their families in 1939 to Australia, where they changed their surname to Ullin. See Brüggen (note 1), pp. 82-83. While they left behind most of their collection, the cup traveled with them.\n \n[3] The cup was paired with a lid, current whereabouts unknown, in the sale catalogue, which identifies the cup as the property of H.A. and E. Ullin of Melbourne.\n\n[4] See Sotheby's list of buyers's names from the 1974 sale, copy in NGA curatorial records.",
+  "owners": [
+   {
+    "name": "Ullmann, Albert and Hedwig",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Sotheby's",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Private Collection (NGA Former Owner)",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Galerie J. Kugel",
+    "begin": null,
+    "end": null,
+    "listed": true
+   }
+  ],
+  "entries": [
+   {
+    "key": "kugel",
+    "entry": "Kugel, M Jacques",
+    "note": "Kugel, M Jacques. Lisbon, rua das Chagas/rua Marochal Saldanha 2. German Jewish refugee dealer, of the Calondas Galleries, possibly implicated in art looting transactions, and twice reported as working for the Germans during the war."
+   }
+  ]
+ },
+ {
+  "id": "52199",
+  "kind": "flagged",
+  "title": "Place du Carrousel, Paris",
+  "artist": "Camille Pissarro",
+  "text": "By inheritance from the artist [1830-1903] to his wife, Mme. Camille [Julie] Pissarro; (Pissarro sale, Galerie Georges Petit, Paris, 3 December 1928, no. 44); purchased by Van Riel.[1] Bruno Stahl [1892-1958], Berlin, later Brussels and New York;[2] sold 5 January 1949 to (Wildenstein & Co., London, New York and Paris);[3] sold 30 March 1949 to Ailsa Mellon Bruce [1901-1969], New York;[4] bequest 1970 to NGA.\n\n\n[1] According to annotated sales catalogues, copies in NGA curatorial records.\n\n[2] This painting was confiscated by the ERR in France during World War II, with other objects from the Stahl collection that were stored in a bank vault with objects from the Wildenstein collection (ERR card UNB331, as _Ansicht des Louvres, Paris_. National Archives RG260/Property Division/Box 22, copy in NGA curatorial files).  The collection was likely established by Bruno's father, Heinrich Stahl [1868-1942] of Berlin.  Bruno left Germany for Brussels in 1933 where he remained until 1940. He and his family eventually emigrated to the United States after 1941.  The Pissarro was transferred to the Jeu de Paume and taken by Hermann Goering on 17 March 1941, as _Louvreansicht_, (No. 20 on the _Nachtrag zur Liste v. 20.10.42 der für die Sammlung des Reichsmarschalls Hermann Göring abgegebenen Kunstgegenstände_ dated 9 April 1943 in OSS Consolidated Interrogation Report #2, The Goering Collection, Attachment 5, National Archives RG239/Entry 75/Box 85, copy in NGA curatorial files). Goering traded the picture to Gustave Rochlitz in exchange for a Raffaellino del Garbo and a Wouters (OSS Consolidated Interrogation Report #1, Activities of the Einsatzstab Reichsleiter Rosenberg, p. 30, National Archives RG239/Entry 75/Box 85, copy in NGA curatorial files).  The painting remained with Rochlitz, in whose possession it was found after the war (Detailed Interrrogation Report #4, Gustave Rochlitz, p. 9, National Archives RG239/Entry 74/Box 84, copy in NGA curatorial files). The painting was restituted to France on 27 March 1946 (Munich property card #8040/6; French Receipt for Cultural Objects no. 5A, item no. 289, copies in NGA curatorial files). It was exhibited in 1946 in _Les Chefs-d'oeuvre des collections privées françaises retrouvés en Allemagne par la Commission de Récuperation artistique et les Services alliés_, no. 33. It was restituted to Wildenstein, from whose vault it had been removed, on 24 October 1947, and returned to Stahl that same year. Stahl sold the picture to Wildenstein on 5 January 1949.\n\n[3] See letter from Wildenstein dated 31 January 2001 in NGA curatorial files.\n\n[4] Bill of sale from Wildenstein dated 30 March 1949, in NGA curatorial files.",
+  "owners": [
+   {
+    "name": "Stahl, Bruno",
+    "begin": 1935,
+    "end": 1949,
+    "listed": false
+   },
+   {
+    "name": "Goering, Hermann, Reichsmarschall",
+    "begin": 1940,
+    "end": 1945,
+    "listed": false
+   },
+   {
+    "name": "ERR",
+    "begin": 1940,
+    "end": 1945,
+    "listed": false
+   },
+   {
+    "name": "Rochlitz, Gustav",
+    "begin": 1941,
+    "end": 1945,
+    "listed": true
+   },
+   {
+    "name": "Munich Central Collecting Point",
+    "begin": 1945,
+    "end": 1946,
+    "listed": false
+   },
+   {
+    "name": "Wildenstein & Co., Inc.",
+    "begin": 1949,
+    "end": 1949,
+    "listed": false
+   },
+   {
+    "name": "Bruce, Ailsa Mellon, Mrs.",
+    "begin": 1949,
+    "end": 1970,
+    "listed": false
+   },
+   {
+    "name": "Pissarro, Camille, Mme",
+    "begin": 1904,
+    "end": 1928,
+    "listed": false
+   },
+   {
+    "name": "Galerie Georges Petit",
+    "begin": 1928,
+    "end": 1928,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "rochlitz",
+    "entry": "Rochlitz, Gustav",
+    "note": "Rochlitz, Gustav. Art dealer, active in France prior to and during World War II in the interests of the Third Reich. Chief participant in exchanges of paintings confiscated by the ERR, and important recipient of loot. Personal belongings and dealer’s stock stated to be at Todtmoos/Baden (in French Zone of Occupation), in the house of Edward Schupp. Possibly removed by Lt Loos of the French Army to"
+   }
+  ]
+ },
+ {
+  "id": "143662",
+  "kind": "flagged",
+  "title": "Saint Anthony of Padua",
+  "artist": "Luca Giordano",
+  "text": "Wilhelm Koenig [1881-1941], Vienna (Lugt 2653b). Joseph F. McCrindle [1923-2008], New York; Joseph F. McCrindle Foundation, 2008; gift to NGA, 2009.",
+  "owners": [
+   {
+    "name": "Koenigs, Franz Wilhelm",
+    "begin": null,
+    "end": null,
+    "listed": true
+   },
+   {
+    "name": "McCrindle, Joseph F.",
+    "begin": null,
+    "end": null,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "koenigs",
+    "entry": "Koenigs, Franz (deceased)",
+    "note": "Koenigs, Franz (deceased). Well known German collaborator, resident in Holland during the war. Sold his collection to Miedl."
+   }
+  ]
+ },
+ {
+  "id": "73852",
+  "kind": "flagged",
+  "title": "Male Nude Holding a Mirror [recto]",
+  "artist": "Albrecht Dürer",
+  "text": "Prince Heinrich Lubomirski, Przeworsk, Poland [1770-1850], by 1823; transferred by his heirs to the Lubomirski Museum in the Ossolinski Library, Lemberg (now Lviv, Ukraine) 1869 (inv. 8296); on 2 January 1940, by decree of the People's Commissars of the Ukranian Soviet Socialist Republic, the Ossolinski Library ceased as a separate institution and was combined with other libraries into the L'vov branch of the Library of the Ukranian Academy of Sciences; German troops took L'vov in June 1941, and in July K. Muhlmann, the German special representative for works of art, took the Lubomirski Dürer drawings to Adolf Hitler in Berlin; in the possession of the German military until 1945, mainly at the Reich Chancellery; discovered in a salt mine near Salzburg, Austria, and taken to the Munich Central Collecting Point, April 1945; restituted to Prince Georg Lubomirski, Switzerland, 1950; (Colnaghi's, London, 1954); Dr. and Mrs. Vitale Bloch (sale, London, Sotheby's, 28 June 1962, lot 87); private collection, Nuremberg; (Rolf Kistner, Nuremberg); purchased by Ian Woodner, New York, 14 May 1985; by inheritance to his daughters, Andrea and Dian Woodner, New York, 1990; gift to NGA, 1991.",
+  "owners": [
+   {
+    "name": "Lubomirski, Georg, Prince",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Kistner, Rolf",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Lubomirski, Heinrich, Prince",
+    "begin": 1823,
+    "end": 1850,
+    "listed": false
+   },
+   {
+    "name": "Ossolinski Library",
+    "begin": 1869,
+    "end": 1940,
+    "listed": false
+   },
+   {
+    "name": "Library of the Ukrainian Academy of Sciences",
+    "begin": 1940,
+    "end": 1941,
+    "listed": false
+   },
+   {
+    "name": "Hitler, Adolf",
+    "begin": 1941,
+    "end": 1941,
+    "listed": false
+   },
+   {
+    "name": "Mühlmann, Kajetan",
+    "begin": 1941,
+    "end": 1941,
+    "listed": true
+   },
+   {
+    "name": "German military",
+    "begin": 1941,
+    "end": 1945,
+    "listed": false
+   },
+   {
+    "name": "Munich Central Collecting Point",
+    "begin": 1945,
+    "end": 1950,
+    "listed": false
+   },
+   {
+    "name": "Colnaghi & Co., Ltd., P. & D.",
+    "begin": 1954,
+    "end": 1954,
+    "listed": false
+   },
+   {
+    "name": "Bloch, Vitale, Dr.",
+    "begin": 1954,
+    "end": 1962,
+    "listed": false
+   },
+   {
+    "name": "Woodner, Ian",
+    "begin": 1986,
+    "end": 1990,
+    "listed": false
+   },
+   {
+    "name": "Woodner and Ms. Andrea Woodner, Dian, Ms.",
+    "begin": 1990,
+    "end": 1991,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "muehlmann",
+    "entry": "Muehlmann, Josef",
+    "note": "Muehlmann, Josef. Zell am See, Austria Berlin, Unter den Linden 27 (former). Half-brother of Kajetan Muehlmann, his agent and accomplice in Poland and his representative in Paris. Also active in Brussels, where he collaborated with Lagrand. Personally responsible for a substantial amount of organised looting activity in Poland. Recommended by this Unit for trial as a war criminal."
+   },
+   {
+    "key": "muehlmann",
+    "entry": "Muehlmann, Kajetan",
+    "note": "Muehlmann, Kajetan. Peuerbach, Austria. Austrian national. Leading early Nazi who held the position of Staatssekretaer and Fine Arts Minister under the Seyss-Inquart Anschluss government. Head of the official bureau for ‘securing and safeguarding of art and cultural treasures ‘ in Poland and Holland under Frank and Seyss-Inquart. Director of the Dienststolle Muehlmann. SS officer and the individua"
+   },
+   {
+    "key": "muehlmann",
+    "entry": "Muehlmann, Dienststelle",
+    "note": "Muehlmann, Dienststelle. The Hague. German buying organisation, established by Seyss-Inquart in 1940 to acquire works of art for Hitler. Headed by Kajetan Muehlmann."
+   }
+  ]
+ },
+ {
+  "id": "53128",
+  "kind": "flagged",
+  "title": "Still Life",
+  "artist": "André Derain",
+  "text": "(Galerie Kahnweiler, Paris).[1] Carl Hagemann [1867-1940], Frankfurt am Main, by 1915. Museum Folkwang, Essen, by 1934, until 1937; (Buchholz Gallery, Berlin).[2] (Valentine Gallery, New York); by exchange 1943 to Marie N. Harriman [1903-1970] and W. Averell Harriman [1891-1986], New York;[3] W. Averell Harriman Foundation; gift 1972 to NGA.\n\n\n[1] According to Michel Kellerman, _André Derain: Catalogue raisonné de l'oeuvre peint_, 3 vols., Paris, 1992: I:no. 329, and confirmed by a Galerie Kahnweiler label, annotated \"No. 1477,\" in the center of the painting's middle stretcher bar. The painting does not appear to have been included in any of the four sales of the Galerie Kahnweiler conducted by the French government (13 June 1921; 17 November 1921; 4 July 1922; 7 May 1923). \n\n[2] Confiscated on 25 August 1937 by the German government as \"degenerate art,\" and sold through the Buchholz Gallery in Berlin, one of the agents appointed by the German government's Commission for the Exploitation of Degenerate Art to sell objects purged from German museums.\n\n[3] According to Harriman collection records in NGA curatorial files.",
+  "owners": [
+   {
+    "name": "Kahnweiler, Daniel H.",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Valentine Gallery",
+    "begin": null,
+    "end": 1943,
+    "listed": false
+   },
+   {
+    "name": "Harriman Foundation, W. Averell",
+    "begin": 1943,
+    "end": 1972,
+    "listed": false
+   },
+   {
+    "name": "Buchholz, Karl",
+    "begin": null,
+    "end": null,
+    "listed": true
+   },
+   {
+    "name": "Museum Folkwang Essen",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Hagemann, Carl",
+    "begin": null,
+    "end": null,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "buchholz",
+    "entry": "Buchholz, Karl",
+    "note": "Buchholz, Karl. Lisbon, 50 avda da Liberdade. Berlin book dealer who opened a branch in Lisbon in 1943. Suspected of having worked for von Ribbentrop and Goebbels, and of possible traffic in loot. Partner of Lehrfeld, Portuguese national. Pre-war Berlin partner of Curt Valentin, German refugee dealer now established in New York (Buchholz Gallery, East 57th Street). Valentin is believed to have had"
+   }
+  ]
+ },
+ {
+  "id": "139276",
+  "kind": "flagged",
+  "title": "Tivoli and the Waterfalls with Shepherd Families",
+  "artist": "Joseph Anton Koch",
+  "text": "Possibly Baron von Bernus, Heidelberg. (Galerie Dr. H. Burg, Cologne).  Dr. Georg S.Hirschland [1885-1942], Essen and New York;[1] his son-in-law, Fred Triest [1914-1999], San Francisco; sold 1996 to Wolfgang Ratjen, Munich; purchased 2007 by NGA.\n\n[1] In 1938 Georg Hirschland, a patron of the Museum Folkwang, Essen, emigrated to the United States with his family, but was not permitted by the Nazi government to bring his art collection with him. In 1939 the Museum Folkwang and the city of Essen raised the funds to purchase the collection to keep it together; the funds were paid to an estate administrator. The collection consisted of 27 paintings and drawings including this by Koch, described as a pencil and India ink drawing of Tivoli.  \n\nEleven Hirschland paintings were evacuated, with other paintings from the Folkwang, to a mine near Siegen, where they were recovered by Allied forces and taken in June 1946 to the Collecting Point at Marburg, in the American zone of Occupied Germany. Other Hirschland objects were discovered in a convent in the French zone, and several drawings, including the Koch, were identified as being in a palace Hugenpost bei Kettwig, near Essen, in the British zone, in 1947. (List of location of objects from the Hirschland estate enclosed in letter from Riegelman, Strasser, Schwarz & Spiegelberg to the US Secretary of State dated 22 March 1947, National Archives RG260/Records of the Wiesbaden Central Collecting Point/Restitution Claim Records/ External Claims Case Files and Internal Claims Case Files, Boxes 116-123, M1947 reels 45 and 48)\n\nGeorg Hirschland died in New York in 1942. After the war his heirs, represented by a New York law firm, made claims for the collection. The 11 paintings in Marburg were transferred by September 1946 to the Collecting Point in Wiesbaden, and in October 1948 were transferred to the British zone (Receipt for Interzonal Exchange dated 19 October 1938, NARA M1941/reel 45). The objects in the French zone could not be transferred as there was no interzonal agreement in place. By 1951 it appears that all but one of the Hirschland objects in the British zone had been released to the estate in the United States. The sole holdout was an El Greco for which there was difficulty in obtaining an export permit. (Letter dated 20 August 1951 from the Senior Finance Officer, British Control Council for Germany, National Archives, Kew, FO 1014/668.)",
+  "owners": [
+   {
+    "name": "Triest, Fred",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Hirschland, Georg S.",
+    "begin": null,
+    "end": null,
+    "listed": true
+   },
+   {
+    "name": "Galerie Dr. H. Burg",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Stiftung Ratjen",
+    "begin": null,
+    "end": 2007,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "hirschland",
+    "entry": "Hirschland, Simeon",
+    "note": "Hirschland, Simeon. Geneva. Berlin banker and art collector. Active as agent of Dr Feist-Wollhel for sale in Switzerland of pictures from Holland and Germany. In contact with United States. In August 1945, attempted to obtain Argentine passport for Hans Wendland."
+   }
+  ]
+ },
+ {
+  "id": "3199",
+  "kind": "near",
+  "title": "Portrait of a Nobleman",
+  "artist": "French 16th Century",
+  "text": "De Burlett, Berlin.[1] (Étienne Bignou, Paris), by 1927;[2] purchased 25 March 1931 by Chester Dale [1883-1962], New York; gift 1942 to NGA.\n\n\n[1] Chester Dale Papers, copy in NGA curatorial files, not verified independently. This reference might possibly be to the Berlin dealer Charles Albert de Burlet.\n\n[2] Christian Zervos, \"Nos enquêtes: entretien avec Étienne Bignou,\" _Cahiers d'Art_ 2 (1927): 276.  A letter dated 7 August 1931 from Bignou to M. Knoedler & Co., New York, details shipping instructons, M. Knoedler & Co. Records, Getty Research Institute (copy NGA curatorial files).",
+  "owners": [
+   {
+    "name": "Burlet, Charles A. de",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Bignou, Etienne",
+    "begin": 1927,
+    "end": 1931,
+    "listed": true
+   },
+   {
+    "name": "Dale, Chester",
+    "begin": 1931,
+    "end": 1942,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "bignou",
+    "entry": "Bignou, Etienne",
+    "note": "Bignou, Etienne. Paris, rue de la Boetie. Schenker documents indicate sales to German buyers."
+   }
+  ]
+ },
+ {
+  "id": "422",
+  "kind": "flagged",
+  "title": "The Nativity",
+  "artist": "Fra Filippo Lippi and Workshop",
+  "text": "Comtesse De Lezze, Nice. (Count Alessandro Contini Bonacossi, Florence); sold October 1937 to the Samuel H. Kress Foundation, New York;[1] gift 1939 to NGA.\n\n[1] The bill of sale from Contini Bonacossi to the Kress Foundation, dated 20 October 1937, for this and several other paintings, gives the provenance as \"Formerly in the Collection of Countess De Lezze, Nizza\" (copy in NGA curatorial files). It has not been possible to find further information about this collection. See also The Kress Collection Digital Archive, https://kress.nga.gov/Detail/objects/2248.",
+  "owners": [
+   {
+    "name": "Lezze, Comtesse de",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Contini Bonacossi, Alessandro, Count",
+    "begin": null,
+    "end": 1937,
+    "listed": true
+   },
+   {
+    "name": "Kress Foundation, Samuel H.",
+    "begin": 1937,
+    "end": 1939,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "contini bonacossi",
+    "entry": "Contini-Bonacossi, Count Alessandro",
+    "note": "Contini-Bonacossi, Count Alessandro. Florence, Lungarno Amerigo Vespucci 28/Villa Vittoria-Carmignano, Tuscany. Art dealer and former prominent Fascist Party member. Close financial adviser to Mussolini. Has always maintained position of wealthy collector, rather than dealer, and engaged in large volume of international art business prior to 1939. Sold largest volume of works of art to Hofer for G"
+   }
+  ]
+ },
+ {
+  "id": "73398",
+  "kind": "flagged",
+  "title": "A Flagellator of Christ",
+  "artist": "Alessandro Algardi",
+  "text": "Eugen Gutmann [1840-1925], Berlin, by 1912;[1] Gutmann heirs, Holland;[2] sold on the New York art market c. 1950.[3] (sale, Sotheby's, New York, 22 June 1989, no. 150); (Ellin Mitchell, New York); purchased 7 June 1991 by NGA.\n\n[1] _Die Kunstsammlung Eugen Gutmann_, Berlin, 1912, no. 170.\n\n\n\n[2] This object was sold in 1942 with the Gutmann collection of 225 silver, jewelry and Renaissance objects to the dealers Karl Haberstock and Julius Boehler [See papers of Haberstock Gallery, National Archives RG 260/Box 446, copies NGA curatorial records]. After the war the Gutmann heirs filed a claim for the return of the collection, which was recovered in Starnberg, Germany, and sent to the Munich Central Collecting Point.  This sculpture was restituted to the Dutch government with others from the Gutmann collection on 8 July 1946. [See Dutch claim #N-3, National Archives RG 260/747; see also Munich property card #16395/33 and Dutch Receipt for Cultural Objects no. 15A, item no. 110, National Archives RG 260/288, copies NGA curatorial records.]. \n\n\n\n[3] \"Gutmann Collection Here for Dispersal,\" _Art Digest_ 25 (November 1, 1950), p. 13.",
+  "owners": [
+   {
+    "name": "Gutmann, Eugen",
+    "begin": 1912,
+    "end": 1925,
+    "listed": false
+   },
+   {
+    "name": "Haberstock, Karl",
+    "begin": 1942,
+    "end": 1945,
+    "listed": true
+   },
+   {
+    "name": "Böhler, Julius",
+    "begin": 1942,
+    "end": 1945,
+    "listed": true
+   },
+   {
+    "name": "Munich Central Collecting Point",
+    "begin": 1945,
+    "end": 1946,
+    "listed": false
+   },
+   {
+    "name": "Sotheby's",
+    "begin": 1989,
+    "end": 1989,
+    "listed": false
+   },
+   {
+    "name": "Mitchell, Ellin, Ms.",
+    "begin": 1991,
+    "end": 1991,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "boehler",
+    "entry": "Boehler, Julius Jr",
+    "note": "Boehler, Julius Jr. Munich, Briennerstrasse 12. Grandson of the late Julius Boehler of Munich; son of Julius Boehler Sr of Lucerne. Partner of Sauermann. Close contact of Haberstock. Strong Nazi. Travelled in Holland and Italy. With Haberstock, purchased an important section of the Gutmann collection."
+   },
+   {
+    "key": "boehler",
+    "entry": "Boehler, Julius Sr",
+    "note": "Boehler, Julius Sr. Lucerne, Hotel Bellevue. Son of Julius Boehler of Munich, who died about 1935. Of German birth; active in Switzerland since 1910. Became naturalised Swiss about 1935. Financed after loss of his fortune in 1929 by Kleinberger and subsequently by Fischer. Partner of Steinmeyer. Believed not to have engaged in significant looted art activity."
+   },
+   {
+    "key": "haberstock",
+    "entry": "Haberstock, Karl",
+    "note": "Haberstock, Karl. Berlin, Kurfurstenstrasse 59 Nuremberg. The leading Nazi art dealer. Involved from 1933-39 in the campaign against ‘degenerate ‘ art and sold such paintings at great profit outside of Germany. Became Hitler’s dealer in 1936 and was directly responsible for the appointment of Posse to the directorship of Linz. The most prolific German buyer in Paris during the war and regarded in "
+   }
+  ]
+ },
+ {
+  "id": "297",
+  "kind": "flagged",
+  "title": "Allegory of Virtue and Vice",
+  "artist": "Lorenzo Lotto",
+  "text": "Bernardo de' Rossi, Bishop of Treviso from 1505 until 1510.[1] Probably Palazzo Farnese, Parma. Antonio Bertioli, Parma, by 1791 until at least 1803. Giacomo Gritti, Bergamo, by c. 1880. (sale, Sotheby's, London, 9 May 1934, no. 129); purchased by Martin Asscher, London.[2] (Count Alessandro Contini Bonacossi, Florence and Rome); sold 1935 to the Samuel H. Kress Foundation, New York; [3] gift 1939 to NGA.\n\n\n[1] The painting bears his coat-of-arms.\n\n[2] According to Kress records in NGA curatorial files.\n\n[3] According to Fern Rusk Shapley, _Catalogue of the Italian Paintings_, 2 vols., Washington, D.C., 1979: 1:278. See also The Kress Collection Digital Archive, https://kress.nga.gov/Detail/objects/199.",
+  "owners": [
+   {
+    "name": "Palazzo Farnese",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Rossi, Bishop of Treviso, Bernardo de'",
+    "begin": 1505,
+    "end": 1510,
+    "listed": false
+   },
+   {
+    "name": "Bertioli, Antonio",
+    "begin": 1791,
+    "end": 1803,
+    "listed": false
+   },
+   {
+    "name": "Gritti, Giacomo",
+    "begin": 1880,
+    "end": 1880,
+    "listed": false
+   },
+   {
+    "name": "Sotheby's",
+    "begin": 1934,
+    "end": 1934,
+    "listed": false
+   },
+   {
+    "name": "Asscher, Martin",
+    "begin": 1934,
+    "end": 1935,
+    "listed": false
+   },
+   {
+    "name": "Contini Bonacossi, Alessandro, Count",
+    "begin": 1934,
+    "end": 1935,
+    "listed": true
+   },
+   {
+    "name": "Kress Foundation, Samuel H.",
+    "begin": 1935,
+    "end": 1939,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "contini bonacossi",
+    "entry": "Contini-Bonacossi, Count Alessandro",
+    "note": "Contini-Bonacossi, Count Alessandro. Florence, Lungarno Amerigo Vespucci 28/Villa Vittoria-Carmignano, Tuscany. Art dealer and former prominent Fascist Party member. Close financial adviser to Mussolini. Has always maintained position of wealthy collector, rather than dealer, and engaged in large volume of international art business prior to 1939. Sold largest volume of works of art to Hofer for G"
+   }
+  ]
+ },
+ {
+  "id": "51136",
+  "kind": "flagged",
+  "title": "Mlle Charlotte Berthier",
+  "artist": "Auguste Renoir",
+  "text": "Possibly Gustave Caillebotte [1848-1894], Paris. [1] Alexandre Berthier [1883-1918], Prince de Wagram, Paris; probably by inheritance to his sister, Élisabeth Marguerite, Princesse de La Tour d'Auvergne-Lauraguais; sold by Wagram heirs though (Canadeesche Hypothek Bank) through (Étienne Bignou, Paris) to (Alex Reid & Lefèvre, London); on joint account with (M. Knoedler & Co., London, New York and Paris) and (Marcel Kapferer); sold 5 October 1929 to (M. Knoedler & Co., New York); [2]  sold 1929 to Baron Maurice de Rothschild [1881-1957], Paris; [3] probably sold or consigned by 1933 to (Wildenstein and Co., London, New York and Paris) by 1933 until at least 1939. [4] Angelica Wertheim Frink [1884-1969], New York, by 1941;[5] gift 1970 to NGA.\n\n\n[1] Per François Daulte, _Auguste Renoir, catalogue raisonne de l'oeuvre peint_, Vol.I. Figures 1860-1890, Lausanne, 1971: no. 432.\n\n[2] Reid & Lefèvre Paintings Sold, sheet no. 207, #20/29 B1413 gives acquisition source and partial share information (Lefèvre archives, Hyman Kreitman Research Centre, Tate Britain, London, TGA 2002/11, Box 283).\n\n[3] M. Knoedler & Co. Records, accession number 2012.M.54, Research Library, Getty Research Institute, Los Angeles: Painting Stockbook no. 5, London 1928-1939, and Stockbook no. 8, New York, no. A623; copies in NGA curatorial files.\n\n[4]Lent by Wildenstein to exhibitions in Philadelphia in 1933 and Hartford in 1937.\n\n[5]Lent by Frink to two exhibitions in New York in 1941.",
+  "owners": [
+   {
+    "name": "Wagram, Alexandre Berthier, 4th Prince de",
+    "begin": null,
+    "end": 1918,
+    "listed": false
+   },
+   {
+    "name": "La Tour d'Auvergne-Lauraguais, Elisabeth Marguerite, Princesse de",
+    "begin": 1918,
+    "end": 1936,
+    "listed": false
+   },
+   {
+    "name": "Bignou, Etienne",
+    "begin": 1935,
+    "end": 1935,
+    "listed": true
+   },
+   {
+    "name": "Wildenstein & Co., Inc.",
+    "begin": 1935,
+    "end": 1941,
+    "listed": false
+   },
+   {
+    "name": "Frink, Angelika Wertheim, Mrs.",
+    "begin": 1941,
+    "end": 1969,
+    "listed": false
+   },
+   {
+    "name": "Canadeesche Hypothek Bank",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Kapferer, Marcel",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Knoedler & Company, M.",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Rothschild, Maurice de, Baron",
+    "begin": null,
+    "end": null,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "bignou",
+    "entry": "Bignou, Etienne",
+    "note": "Bignou, Etienne. Paris, rue de la Boetie. Schenker documents indicate sales to German buyers."
+   }
+  ]
+ },
+ {
+  "id": "46246",
+  "kind": "flagged",
+  "title": "Saint Peter",
+  "artist": "Italian 16th Century or Italian 18th or 19th Century",
+  "text": "Trivulzio Collection, Milan, by 1874 until after 1917;[1] (Alessandro Contini Bonacossi, 1878-1955, Rome and Florence);[2] purchased 26 June 1935 by Samuel H. Kress (1863-1955), New York; gift 27 September 1950 to the Samuel H. Kress Foundation, New York;[3] gift 1961 to NGA. \n\n[1] Laura Aldovini, _I Nielli Trivulzio. Storia, Tecnica, Collezionismo,_ Milan, 2021:231.\n\n[2] The bill of sale included sculptures, maiolicas, furniture, antique velvets, paintings, and enamels, for a total of one hundred objects. Copy in NGA curatorial files. See also The Kress Collection Digital Archive, (https://kress.nga.gov/Detail/acquisitions/ACQ143). \n\n[3] An affidavit of 21 August 1956 by Herbert L. Spencer, executive director, Samuel H. Kress Foundation, states the Trivulzio collection of nielli and enamels were given by Samuel H. Kress to the Foundation on 27 September 1950; original in National Gallery of Art Archives. Secretary and General Counsel Records – Major Donor Files; copy in NGA curatorial files.",
+  "owners": [
+   {
+    "name": "Trivulzio collection",
+    "begin": 1874,
+    "end": 1917,
+    "listed": false
+   },
+   {
+    "name": "Contini Bonacossi, Alessandro, Count",
+    "begin": 1935,
+    "end": 1935,
+    "listed": true
+   },
+   {
+    "name": "Kress, Samuel H.",
+    "begin": 1935,
+    "end": 1950,
+    "listed": false
+   },
+   {
+    "name": "Kress Foundation, Samuel H.",
+    "begin": 1950,
+    "end": 1961,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "contini bonacossi",
+    "entry": "Contini-Bonacossi, Count Alessandro",
+    "note": "Contini-Bonacossi, Count Alessandro. Florence, Lungarno Amerigo Vespucci 28/Villa Vittoria-Carmignano, Tuscany. Art dealer and former prominent Fascist Party member. Close financial adviser to Mussolini. Has always maintained position of wealthy collector, rather than dealer, and engaged in large volume of international art business prior to 1939. Sold largest volume of works of art to Hofer for G"
+   }
+  ]
+ },
+ {
+  "id": "277",
+  "kind": "flagged",
+  "title": "Allegory of Painting",
+  "artist": "Rosalba Carriera",
+  "text": "Eugene Kraemer; (his estate sale, Galerie Georges Petit, Paris, 5-6 May 1913, no. 1); Prince Giovannelli, Venice; Count Alessandro Contini Bonacossi [1878-1955], Florence and Rome; sold 1933 to the Samuel H. Kress Foundation, New York; gift 1939 to NGA.",
+  "owners": [
+   {
+    "name": "Kraemer, Eugene",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Giovanelli, Giuseppe Prince",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Contini Bonacossi, Alessandro, Count",
+    "begin": null,
+    "end": null,
+    "listed": true
+   },
+   {
+    "name": "Kress, Samuel H.",
+    "begin": null,
+    "end": 1939,
+    "listed": false
+   },
+   {
+    "name": "Kress Foundation, Samuel H.",
+    "begin": null,
+    "end": 1939,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "contini bonacossi",
+    "entry": "Contini-Bonacossi, Count Alessandro",
+    "note": "Contini-Bonacossi, Count Alessandro. Florence, Lungarno Amerigo Vespucci 28/Villa Vittoria-Carmignano, Tuscany. Art dealer and former prominent Fascist Party member. Close financial adviser to Mussolini. Has always maintained position of wealthy collector, rather than dealer, and engaged in large volume of international art business prior to 1939. Sold largest volume of works of art to Hofer for G"
+   }
+  ]
+ },
+ {
+  "id": "46286",
+  "kind": "flagged",
+  "title": "Costume Ornament with Profile Portrait",
+  "artist": "North Italian 14th Century",
+  "text": "Reportedly Trivulzio collection, Milan; [1] (Alessandro Contini Bonacossi, 1878-1955, Rome and Florence);[2] purchased 26 June 1935 by Samuel H. Kress (1863-1955), New York; [3] gift 27 September 1950 to the Samuel H. Kress Foundation, New York;[4] gift 1961 to NGA.\n \n[1] The information about the Trivulzio provenance is reported on the bill of sale from Alessandro Contini Bonacossi to Samuel H. Kress from 26 June 1935, as Sienese c. 1500.\n \n[2] The bill of sale included sculptures, maiolicas, furniture, antique velvets, paintings, and enamels, for a total of one hundred objects. Copy in NGA curatorial files. See also The Kress Collection Digital Archive, (https://kress.nga.gov/Detail/acquisitions/ACQ143).\n\n[3] A letter from A.M. Hind to NGA chief curator John Walker, NGA director, 12 June 1951, states that Hind first heard (from Alfred Frankfurter, editor of _The Art News_) of the Trivulzio nielli, with which this enamel was acquired, in Kress's hands in 1937. Marie-Madeleine Gauthier, in a letter to NGA curator Alison Luchs of 25 June 1984, mentions a sale of the Trivulzio collection in London, 6 June 1939; no catalogue has been located. Both letters are in NGA curatorial files.\n\n[4] An affidavit of 21 August 1956 by Herbert L. Spencer, executive director, Samuel H. Kress Foundation, states the Trivulzio collection of nielli and enamels were given by Samuel H. Kress to the Foundation on 27 September 1950 (Kress no. 0-150/1-9); original in National Gallery of Art Archives. Secretary and General Counsel Records – Major Donor Files; copy in NGA curatorial files.",
+  "owners": [
+   {
+    "name": "Trivulzio collection",
+    "begin": 1380,
+    "end": 1937,
+    "listed": false
+   },
+   {
+    "name": "Contini Bonacossi, Alessandro, Count",
+    "begin": 1937,
+    "end": 1937,
+    "listed": true
+   },
+   {
+    "name": "Kress, Samuel H.",
+    "begin": 1937,
+    "end": 1950,
+    "listed": false
+   },
+   {
+    "name": "Kress Foundation, Samuel H.",
+    "begin": 1950,
+    "end": 1961,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "contini bonacossi",
+    "entry": "Contini-Bonacossi, Count Alessandro",
+    "note": "Contini-Bonacossi, Count Alessandro. Florence, Lungarno Amerigo Vespucci 28/Villa Vittoria-Carmignano, Tuscany. Art dealer and former prominent Fascist Party member. Close financial adviser to Mussolini. Has always maintained position of wealthy collector, rather than dealer, and engaged in large volume of international art business prior to 1939. Sold largest volume of works of art to Hofer for G"
+   }
+  ]
+ },
+ {
+  "id": "46090",
+  "kind": "flagged",
+  "title": "Madame Henriot",
+  "artist": "Auguste Renoir",
+  "text": "Possibly Doctor Vaucaire, Paris. Possibly Mme Berne-Bellecour, Paris.[1] Probably Dr. Georges de Bellio [1828-1894], Paris; probably by inheritance to M et Mme [she, née Victorine de Bellio, 1863-1958] Ernest Donop de Monchy, Paris; sold probably 1906 to Alexandre Berthier [1883-1918], 4th Prince de Wagram, Paris;[2] probably by inheritance to his sister, Élisabeth Marguerite, Princesse de La Tour d'Auvergne-Lauraguais, Paris; sold by Wagram heirs though (Canadeesche Hypothek Bank) through (Étienne Bignou, Paris) to (Alex Reid & Lefèvre, London); on joint account with (M. Knoedler & Co., London, New York and Paris) and (Marcel Kapferer); sold September 1929 to Baron Maurice de Rothschild [1881-1957], Paris.[3] (Paul Rosenberg et Cie., Paris), by 1934.[4] Acquired by 1941 by Dr. David M. [1892-1977] and Adele Rosenwald [1892-1960] Levy, New York;[5] gift 1961 to NGA.\n\n\n[1] Vaucaire and Mme Berne-Bellecour according to the he Bignou albums at the documentation center of the Musée d'Orsay (copy in NGA curatorial files).  The latter is possibly the wife of the artisit Eitenne Prosper Berne-Bellecour [1838-1910].\n\n[2] According to Léa Saint-Raymond, Monchy seems to have commissioned a Madame Bresnard, the mother of architect Alfred-Jean Besnard, to sell the portrait; she contacted Berthier, and when he was slow to decide, the dealer Edouard Jonas, who was also interested in acquiring the painting, demanded on 13 March 1906 that Berthier inform Mme Bresnard of his decision. This spurred Berthier to purchase it. See Saint-Raymond, “Coulisses et Ficelles du Métier: Dans les Pas du Prince de Wagram,”  Alice Ensabella, et al., _Histoire des galeries d’art en France du XIXe au XXIe siècle_, Paris: 2024: 144. See also Saint-Raymond and Hadrien Viraben, \"Alexandre Berthier, the 4th Prince de Wagram: documentation on his collection (1904-1917)\", 2019, https://doi.org/10.7910/DVN/TIFXCH, Harvard Dataverse, V1.\n\n\n[3] Reid & Lefèvre Paintings Sold, sheet no. 211, #28/29 B1424 gives acquisition source and partial share information (Lefèvre archives, Hyman Kreitman Research Centre, Tate Britain, London, TGA 2002/11, Box 283).\n\n[4] Reproduced in Carroll Carstairs, _Postscript to Criticism_, London, 1934, crediting Paul Rosenberg. \n\n[5] The painting was lent by Dr. and Mrs. Levy to a 1941 exhibition in New York.",
+  "owners": [
+   {
+    "name": "Bellio, Georges de, Dr.",
+    "begin": null,
+    "end": 1894,
+    "listed": false
+   },
+   {
+    "name": "Donop de Monchy, Ernest, Mme",
+    "begin": 1894,
+    "end": 1900,
+    "listed": false
+   },
+   {
+    "name": "Wagram, Alexandre Berthier, 4th Prince de",
+    "begin": 1900,
+    "end": 1918,
+    "listed": false
+   },
+   {
+    "name": "La Tour d'Auvergne-Lauraguais, Elisabeth Marguerite, Princesse de",
+    "begin": 1918,
+    "end": 1935,
+    "listed": false
+   },
+   {
+    "name": "Rosenberg & Co., Paul P.",
+    "begin": 1935,
+    "end": 1935,
+    "listed": false
+   },
+   {
+    "name": "Knoedler & Company, M.",
+    "begin": 1935,
+    "end": 1935,
+    "listed": false
+   },
+   {
+    "name": "Bignou, Etienne",
+    "begin": 1935,
+    "end": 1935,
+    "listed": true
+   },
+   {
+    "name": "Levy, David M., Dr. and Mrs.",
+    "begin": 1941,
+    "end": 1960,
+    "listed": false
+   },
+   {
+    "name": "Levy Fund, Inc., Adele R.",
+    "begin": 1960,
+    "end": 1961,
+    "listed": false
+   },
+   {
+    "name": "Knoedler & Company, M.",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Kapferer, Marcel",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Reid & Lefèvre, Ltd, Alex",
+    "begin": null,
+    "end": null,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "bignou",
+    "entry": "Bignou, Etienne",
+    "note": "Bignou, Etienne. Paris, rue de la Boetie. Schenker documents indicate sales to German buyers."
+   }
+  ]
+ },
+ {
+  "id": "182",
+  "kind": "near",
+  "title": "The Presentation of the Virgin in the Temple",
+  "artist": "Andrea di Bartolo",
+  "text": "This panel, along with NGA 1939.1.42 and 1939.1.43, are stated to have come from the collection of a contessa Giustiniani, Genoa;[1] (Count Alessandro Contini Bonacossi, Rome); sold July 1930 to the Samuel H. Kress Foundation, New York;[2] gift 1939 to NGA.\n\n\n[1] See the bill of sale described in note 2. No documented collection of the conti Giustiniani at Genoa seems to have existed, at least in the early years of the twentieth century. The works that Elisabeth Gardner (_ A Bibliographical Repertory of Italian Private Collections_, ed. Chiara Ceschi and Katharine Baetjer, 4 vols., Vicenza, 1998-2011: 2(2002):183) cites as formerly the property of the contessa Giustiniani almost all seem to have been purchased on the art market shortly before 1930, when Contini Bonacossi sold them to Samuel H. Kress. The contessa is thus more likely to have been a dealer, or agent, than a collector. See also Miklós Boskovits and David Alan Brown, _Italian Paintings of the Fifteenth Century_, National Gallery of Art Systematic Catalogue, Washington and New York, 2003: 616 n. 3.\n\n[2] The painting is included on a bill of sale dated 15 July 1930 that included eight paintings from the Giustiniani collection (copy in NGA curatorial files); see also The Kress Collection Digital Archive, https://kress.nga.gov/Detail/objects/2274.",
+  "owners": [
+   {
+    "name": "Giustiniani, Contessa",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Contini Bonacossi, Alessandro, Count",
+    "begin": null,
+    "end": 1930,
+    "listed": true
+   },
+   {
+    "name": "Kress Foundation, Samuel H.",
+    "begin": null,
+    "end": 1939,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "contini bonacossi",
+    "entry": "Contini-Bonacossi, Count Alessandro",
+    "note": "Contini-Bonacossi, Count Alessandro. Florence, Lungarno Amerigo Vespucci 28/Villa Vittoria-Carmignano, Tuscany. Art dealer and former prominent Fascist Party member. Close financial adviser to Mussolini. Has always maintained position of wealthy collector, rather than dealer, and engaged in large volume of international art business prior to 1939. Sold largest volume of works of art to Hofer for G"
+   }
+  ]
+ },
+ {
+  "id": "172",
+  "kind": "near",
+  "title": "Portrait of a Young Woman",
+  "artist": "Giuliano Bugiardini",
+  "text": "(Charles Fairfax Murray [1849-1919], London and Florence).[1] (Count Alessandro Contini Bonacossi [1878-1955], Rome);[2] sold 1929 to the Samuel H. Kress Foundation, New York; gift 1939 to NGA.\n\n[1] According to Kress records in NGA curatorial files. The painting was not included in sales from Fairfax Murray's estate held at Christie's, London, 30 January - 2 February 1920; Sotheby's, London, 10 May 1922; Cassirer & Helbing, Berlin, 6-7 November 1929; see also The Kress Collection Digital Archive, https://kress.nga.gov/Detail/objects/1724.\n\n[2] According to L. Venturi, _Italian Paintings in America_, New York, 1933, Vol. III, plate 451.",
+  "owners": [
+   {
+    "name": "Murray, Charles Fairfax",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Contini Bonacossi, Alessandro, Count",
+    "begin": 1919,
+    "end": 1929,
+    "listed": true
+   },
+   {
+    "name": "Kress Foundation, Samuel H.",
+    "begin": 1929,
+    "end": 1939,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "contini bonacossi",
+    "entry": "Contini-Bonacossi, Count Alessandro",
+    "note": "Contini-Bonacossi, Count Alessandro. Florence, Lungarno Amerigo Vespucci 28/Villa Vittoria-Carmignano, Tuscany. Art dealer and former prominent Fascist Party member. Close financial adviser to Mussolini. Has always maintained position of wealthy collector, rather than dealer, and engaged in large volume of international art business prior to 1939. Sold largest volume of works of art to Hofer for G"
+   }
+  ]
+ },
+ {
+  "id": "285",
+  "kind": "flagged",
+  "title": "Madonna Adoring the Child",
+  "artist": "Marco Basaiti",
+  "text": "Contessa di Breganze, Venice.[1] (Count Alessandro Contini Bonacossi [1878-1955], Florence and Rome); sold 1934 to the Samuel H. Kress Foundation, New York[2]; gift 1939 to NGA.\n\n[1] According to Kress files in NGA curatorial records.\n\n[2] See also The Kress Collection Digital Archive, https://kress.nga.gov/Detail/objects/1320.",
+  "owners": [
+   {
+    "name": "Breganze, Contessa di",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Contini Bonacossi, Alessandro, Count",
+    "begin": null,
+    "end": 1934,
+    "listed": true
+   },
+   {
+    "name": "Kress Foundation, Samuel H.",
+    "begin": null,
+    "end": 1939,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "contini bonacossi",
+    "entry": "Contini-Bonacossi, Count Alessandro",
+    "note": "Contini-Bonacossi, Count Alessandro. Florence, Lungarno Amerigo Vespucci 28/Villa Vittoria-Carmignano, Tuscany. Art dealer and former prominent Fascist Party member. Close financial adviser to Mussolini. Has always maintained position of wealthy collector, rather than dealer, and engaged in large volume of international art business prior to 1939. Sold largest volume of works of art to Hofer for G"
+   }
+  ]
+ },
+ {
+  "id": "11589",
+  "kind": "flagged",
+  "title": "Rinaldo, Astride Baiardo, Flies Off in Pursuit of Angelica",
+  "artist": "Jean-Honoré Fragonard",
+  "text": "H. Walferdin [d. 1863]; (his sale, Hôtel Drouot, Paris, 12-16 April 1880, no. 228). Jacques Doucet [1853-1929], Paris; bought 1912 by Louis Olry-Roederer; sold 1923. Lessing J. Rosenwald (Lugt Supp.1760b); gift 1943 to NGA.",
+  "owners": [
+   {
+    "name": "Rosenwald, Lessing Julius",
+    "begin": null,
+    "end": 1943,
+    "listed": false
+   },
+   {
+    "name": "Walferdin, H.",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Doucet, Jacques",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Olry-Roederer, Louis",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Drouot, Hôtel",
+    "begin": null,
+    "end": null,
+    "listed": true
+   }
+  ],
+  "entries": [
+   {
+    "key": "drouot",
+    "entry": "Drouot, Hotel",
+    "note": "Drouot, Hotel. Paris, 6 rue Rossini. Most important art auction firm in Paris, which was allowed to operate during the occupation. Used by the Germans and collaborationist French dealers."
+   }
+  ]
+ },
+ {
+  "id": "46224",
+  "kind": "flagged",
+  "title": "Saint Gregory",
+  "artist": "Probably Lombard 15th/16th Century",
+  "text": "Trivulzio Collection, Milan, by 1844.[1] (Alessandro Contini Bonacossi, 1878-1955, Rome and Florence);[2] purchased 26 June 1935 by Samuel H. Kress (1863-1955), New York; gift 27 September 1950 to the Samuel H. Kress Foundation, New York;[3] gift 1961 to NGA. \n\n[1] Laura Aldovini, _I Nielli Trivulzio. Storia, Tecnica, Collezionismo,_ Milan, 2021:215.\n\n[2] The bill of sale included sculptures, maiolicas, furniture, antique velvets, paintings, and enamels, for a total of one hundred objects. Copy in NGA curatorial files. See also The Kress Collection Digital Archive, (https://kress.nga.gov/Detail/acquisitions/ACQ143). \n\n[3] An affidavit of 21 August 1956 by Herbert L. Spencer, executive director, Samuel H. Kress Foundation, states the Trivulzio collection of nielli and enamels were given by Samuel H. Kress to the Foundation on 27 September 1950; original in National Gallery of Art Archives. Secretary and General Counsel Records – Major Donor Files; copy in NGA curatorial files.",
+  "owners": [
+   {
+    "name": "Trivulzio collection",
+    "begin": 1844,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Contini Bonacossi, Alessandro, Count",
+    "begin": 1935,
+    "end": 1935,
+    "listed": true
+   },
+   {
+    "name": "Kress, Samuel H.",
+    "begin": 1935,
+    "end": 1950,
+    "listed": false
+   },
+   {
+    "name": "Kress Foundation, Samuel H.",
+    "begin": 1950,
+    "end": 1961,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "contini bonacossi",
+    "entry": "Contini-Bonacossi, Count Alessandro",
+    "note": "Contini-Bonacossi, Count Alessandro. Florence, Lungarno Amerigo Vespucci 28/Villa Vittoria-Carmignano, Tuscany. Art dealer and former prominent Fascist Party member. Close financial adviser to Mussolini. Has always maintained position of wealthy collector, rather than dealer, and engaged in large volume of international art business prior to 1939. Sold largest volume of works of art to Hofer for G"
+   }
+  ]
+ },
+ {
+  "id": "46488",
+  "kind": "flagged",
+  "title": "French Theater",
+  "artist": "Honoré Daumier",
+  "text": "Verdier, Paris, by 1878.[1] Egisto Fabbri [1866-1933], Florence, by 1901.[2] Henri Rouart [1833-1912], Paris; (his sale, Galerie Manzi-Joyant, Paris, 9 December 1912, no. 164, as _Un Coin de théâtre_); purchased by (Modernen Galerie Heinrich Thannhauser, Munich), where it remained until at least 1916.[3] Werner Feuz, Bern, by 1926; sold 1927 to (Alex Reid and Lefevre, Ltd., Glasgow); on joint account 1927 with (M. Knoedler & Co., London, New York and Paris); sold 1930 by (Alex Reid and Lefèvre, Ltd., Glasgow) to (Raphael Gérard, Paris);[4] sold May 1930 to (M. Knoedler & Co., London, New York, and Paris);[5] on joint account with (Étienne Bignou, Paris and New York); sold March 1933 to Chester Dale [1883-1962], New York; bequest 1963 to NGA.\n\n\n[1] Lent by Verdier to the 1878 exhibition at Galeries Durand-Ruel in Paris.\n\n[2] Lent by Fabbri to 1901 Paris Ecole des Beaux-Arts exhibition.\n\n[3] Illustrated in Galerie Thannhauser 1916 catalogue.\n\n[4] Reid & Lefèvre Pictures Sold 1927-1930, sheet no. 36, #102/27, bought from Werner Feuz, sold January 1930 to Raphael Gerard (Lefèvre archives, Hyman Kreitman Research Centre, Tate Britain, London, TGA 2002/11, Box 283). Information about Alex Reid and Lefèvre's dealing with the picture, including the joint account with Knoedler and the sale to Gérard, is also contained in a letter dated 15 August 1966 from Alex Reid and Lefèvre, in NGA curatorial files. According to a note in the object folder, dated 1966, Paul Vollotton, nephew of dealer Félix Vollotton, said the painting had been in his firm's possession sometime after Feuz' ownership, but that is unconfirmed. \n\n[5] M. Knoedler & Co. Records, accession number 2012.M.54, Research Library, Getty Research Institute, Los Angeles: Stock book no. 8, p.114; Sales book no. 13, p. 255; Inventory cards, box 115, item 005 (copies in NGA curatorial files). See also letter dated 23 August 1966 from Knoedler, in NGA curatorial files.",
+  "owners": [
+   {
+    "name": "Verdier",
+    "begin": null,
+    "end": 1878,
+    "listed": false
+   },
+   {
+    "name": "Fabbri, Egisto",
+    "begin": 1901,
+    "end": 1901,
+    "listed": false
+   },
+   {
+    "name": "Rouart, Henri",
+    "begin": 1905,
+    "end": 1912,
+    "listed": false
+   },
+   {
+    "name": "Galerie Manzi-Joyant",
+    "begin": 1912,
+    "end": 1912,
+    "listed": false
+   },
+   {
+    "name": "Galerie Heinrich Thannhauser, Moderne",
+    "begin": 1912,
+    "end": 1916,
+    "listed": false
+   },
+   {
+    "name": "Feuz, Werner",
+    "begin": 1926,
+    "end": 1926,
+    "listed": false
+   },
+   {
+    "name": "Knoedler & Company, M.",
+    "begin": 1927,
+    "end": 1927,
+    "listed": false
+   },
+   {
+    "name": "Reid & Lefèvre, Ltd, Alex",
+    "begin": 1927,
+    "end": 1930,
+    "listed": false
+   },
+   {
+    "name": "Gérard, Raphael",
+    "begin": 1930,
+    "end": 1930,
+    "listed": false
+   },
+   {
+    "name": "Knoedler & Company, M.",
+    "begin": 1930,
+    "end": 1931,
+    "listed": false
+   },
+   {
+    "name": "Bignou, Etienne",
+    "begin": 1930,
+    "end": 1933,
+    "listed": true
+   },
+   {
+    "name": "Dale, Chester",
+    "begin": 1933,
+    "end": 1963,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "bignou",
+    "entry": "Bignou, Etienne",
+    "note": "Bignou, Etienne. Paris, rue de la Boetie. Schenker documents indicate sales to German buyers."
+   }
+  ]
+ },
+ {
+  "id": "165",
+  "kind": "near",
+  "title": "Interior of the Pantheon, Rome",
+  "artist": "Giovanni Paolo Panini",
+  "text": "The Dowager Countess of Norfolk;[1] (Christie, Manson & Woods, London, 20 November 1925, no. 69); bought by (William Sabin, London);[2] sold presumably by him to (Count Alessandro Contini Bonacossi, Rome); purchased October 1927 by Samuel H. Kress [1863-1955], New York;[3] gift 1939 to NGA.\n\n\n[1] Oral communication from Charles Beddington, Christie's, 17 March 1993.\n\n\n[2] _Art Prices Current_, n.s. 5 (1925-1926): 29, no. 618.\n\n\n[3] The bill of sale for sculpture, maiolica, furniture, antique velvet, and several paintings, including NGA 1939.1.24, is dated 5 October 1927 (copy in NGA curatorial files. See also The Kress Collection Digital Archive, https://kress.nga.gov/Detail/objects/1109). The Panini was the first non-Renaissance Italian painting acquired by Kress (see Edgar Peters Bowron, \"The Kress Brothers and Their 'Bucolic Pictures': The Creation of an Italian Baroque Collection\", in _A Gift to America: Masterpieces of European Painting from the Samuel H. Kress Collection_, Exh. cat. North Carolina Museum of Art, Raleigh, 1994: 43, fig. 2).",
+  "owners": [
+   {
+    "name": "Norfolk, The Dowager Countess of",
+    "begin": 1925,
+    "end": 1925,
+    "listed": false
+   },
+   {
+    "name": "Christie, Manson & Woods, Ltd.",
+    "begin": 1925,
+    "end": 1925,
+    "listed": false
+   },
+   {
+    "name": "Contini Bonacossi, Alessandro, Count",
+    "begin": 1925,
+    "end": 1927,
+    "listed": true
+   },
+   {
+    "name": "Kress, Samuel H.",
+    "begin": 1927,
+    "end": 1939,
+    "listed": false
+   },
+   {
+    "name": "Kress Foundation, Samuel H.",
+    "begin": 1929,
+    "end": 1939,
+    "listed": false
+   },
+   {
+    "name": "Sabin, William",
+    "begin": null,
+    "end": null,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "contini bonacossi",
+    "entry": "Contini-Bonacossi, Count Alessandro",
+    "note": "Contini-Bonacossi, Count Alessandro. Florence, Lungarno Amerigo Vespucci 28/Villa Vittoria-Carmignano, Tuscany. Art dealer and former prominent Fascist Party member. Close financial adviser to Mussolini. Has always maintained position of wealthy collector, rather than dealer, and engaged in large volume of international art business prior to 1939. Sold largest volume of works of art to Hofer for G"
+   }
+  ]
+ },
+ {
+  "id": "46258",
+  "kind": "flagged",
+  "title": "Episodes from the Life of Christ: Deposition",
+  "artist": "Northern Italian 18th or 19th Century",
+  "text": "Collection of Leopoldo Cicognara [1767-1834], Venice;[1] Enrico Conti, Milan, before 1917(?); Trivulzio collection, Milan, after 1917; [2] (Alessandro Contini Bonacossi, 1878-1955, Rome and Florence);[3] purchased 26 June 1935 by Samuel H. Kress (1863-1955), New York; gift 27 September 1950 to the Samuel H. Kress Foundation, New York;[4] gift 1961 to NGA. \n\n[1] Laura Aldovini, _I Nielli Trivulzio. Storia, Tecnica, Collezionismo,_Milan, 2021: 240.\n\n[2] Aldovini, _I Nielli Trivulzio_, 239.\n\n[3] The bill of sale included sculptures, maiolicas, furniture, antique velvets, paintings, and enamels, for a total of one hundred objects. Copy in NGA curatorial files. See also The Kress Collection Digital Archive, (https://kress.nga.gov/Detail/acquisitions/ACQ143).",
+  "owners": [
+   {
+    "name": "Cicognara, Leopoldo, Count",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Conti, Enrico",
+    "begin": 1917,
+    "end": 1917,
+    "listed": false
+   },
+   {
+    "name": "Trivulzio collection",
+    "begin": 1917,
+    "end": 1917,
+    "listed": false
+   },
+   {
+    "name": "Contini Bonacossi, Alessandro, Count",
+    "begin": 1935,
+    "end": 1935,
+    "listed": true
+   },
+   {
+    "name": "Kress, Samuel H.",
+    "begin": 1935,
+    "end": 1950,
+    "listed": false
+   },
+   {
+    "name": "Kress Foundation, Samuel H.",
+    "begin": 1950,
+    "end": 1961,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "contini bonacossi",
+    "entry": "Contini-Bonacossi, Count Alessandro",
+    "note": "Contini-Bonacossi, Count Alessandro. Florence, Lungarno Amerigo Vespucci 28/Villa Vittoria-Carmignano, Tuscany. Art dealer and former prominent Fascist Party member. Close financial adviser to Mussolini. Has always maintained position of wealthy collector, rather than dealer, and engaged in large volume of international art business prior to 1939. Sold largest volume of works of art to Hofer for G"
+   }
+  ]
+ },
+ {
+  "id": "1262",
+  "kind": "near",
+  "title": "Alexandre Brongniart",
+  "artist": "Jean-Antoine Houdon",
+  "text": "By inheritance to the sitter's great-nephew, Baron Jérome Pichon; (his sale, Hotel Drouot, Paris, 29 March-10 April 1897, no. 1009); Joseph Bardac, Paris;[1] (Galerie Seligmann, Paris); sold 21 February 1911 to Peter A.B. Widener, Lynnewood Hall, Elkins Park, Pennsylvania; inheritance from Estate of Peter A.B. Widener by gift through power of appointment of Joseph E. Widener, Elkins Park, Pennsylvania;[2] gift 1942 to NGA.\n\n\n[1] According to German Seligman, _Merchants of Art: 1880-1960, Eighty Years of Professional Collecting_, New York, 1961: 13, it was Sigismond Bardac who sold the busts to his father, Jacques Seligmann. However, according to René Gimpel, _Diary of an Art Dealer_, New York, 1966: 7-8, it was Joseph Bardac, Sigismond's brother, who owned both the marbles of the Brongniart children and the terracottas; Gimpel sold the terracottas to Widener.  \n\n[2] See notes of Charles Seymour, Jr., about busts by Houdon in the NGA collection, and the letter of 17 January 1911 from Joseph Bardac to Jacques Seligmann, in NGA curatorial files.",
+  "owners": [
+   {
+    "name": "Pichon, Jérome, Baron",
+    "begin": null,
+    "end": 1897,
+    "listed": false
+   },
+   {
+    "name": "Drouot, Hôtel",
+    "begin": 1897,
+    "end": 1897,
+    "listed": true
+   },
+   {
+    "name": "Bardac, Joseph",
+    "begin": 1897,
+    "end": 1911,
+    "listed": false
+   },
+   {
+    "name": "Seligmann, Galerie",
+    "begin": 1911,
+    "end": 1911,
+    "listed": false
+   },
+   {
+    "name": "Widener, Peter Arrell Brown",
+    "begin": 1911,
+    "end": 1915,
+    "listed": false
+   },
+   {
+    "name": "Widener, Joseph E.",
+    "begin": 1915,
+    "end": 1942,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "drouot",
+    "entry": "Drouot, Hotel",
+    "note": "Drouot, Hotel. Paris, 6 rue Rossini. Most important art auction firm in Paris, which was allowed to operate during the occupation. Used by the Germans and collaborationist French dealers."
+   }
+  ]
+ },
+ {
+  "id": "66424",
+  "kind": "flagged",
+  "title": "Still Life with Sleeping Woman",
+  "artist": "Henri Matisse",
+  "text": "Purchased March 1940 from the artist by (Paul Rosenberg and Co, New York);[1] sold November 1951 to Robert von Hirsch [1883-1977] and Martha Dreyfus-Koch von Hirsch[1892-1965] Basel; (his estate sale, Sotheby's, London, 26 June 1978, no. 751); purchased by (John Baskett, Ltd., London) for Mr. and Mrs. Paul Mellon, Upperville, Virginia; gift 1985 to NGA.\n\n\n[1]This painting was confiscated by the ERR in 1941 with others from the Rosenberg collection in France (see inventory of Rosenberg-Bernstein collection, National Archives RG260/Box 470/file XI, and ERR inventory card UNB322, National Archives RG260/Property Division/Box 22, copies NGA curatorial files). Documents from the National Archives in Washington indicate that the painting was selected by Hermann Goering on 3 March 1941 from the Jeu de Paume (OSS Consolidated Interrogation Report #2, The Goering Collection, 15 September 1945, Attachment 5, 2. Nachtrag zur Liste der für die Sammlung des Reichsmarschalls Hermann Göring abgegebenen Kunstgegenstände, dated 9 April 1943, no. 6, National Archives RG239/Entry 73/Box 78, copy NGA curatorial files).  Goering is documented as having traded the painting to Gustav Rochlitz, who claimed to have sold it to Hans Wendland (OSS Consolidated Interrogation Report #1, Activity of the Einsatzstab Rosenberg in France, 15 August 1945, V: Details of Exchanges, exchange #1, item no. 7, National Archives RG 239/Entry 74/Boxes 84-84A and  OSS Detailed Interrogation Report #4, Gustav Rochlitz, 15 August 1945, Einsatzstab Confiscated Paintings Sold by Rochlitz, no. 30, National Archives RG239/Entry74/Boxes 85-85A, copies NGA curatorial files.). However, according to Wendland, the Matisse remained with Rochlitz (OSS Detailed Interrogation Report, Hans Wendland, 18 September 1946, pp. 14-16, National Archives RG 239/Entry 73/Box 82, copy NGA curatorial files).  Further documentation at the National Archives supports Wendland's claim. The picture is not among those known to have been sent by him to Switzerland with others from the same sale from Rochlitz (see Douglas Cooper, Report of Mission to Switzerland, 10 December 1945, pp. 8-9, National Archives RG 239/Entry 73/Box 82, copy NGA curatorial files).  Moreover, in a letter dated 18 January 1945, Paul Rosenberg's brother Edmond states that by that time the picture was in a private collection in Paris, having been sold by the dealers Kohl and Renoux of rue Faubourg St. Honoré, Paris (Rosenberg claim file, National Archives RG260/OMGUS/Records of the Museum, Fine Arts and Archives Section/Cultural Property Claims Applications/ Box 743, copies in NGA curatorial files).  Hector Feliciano, in _The Lost Museum_, New York, 1997, p. 121, reports that Matisse himself had seen the picture for sale in Paris in 1942. The picture was returned to the Rosenbergs (per telephone conversation with Rosenberg archives 16 March 2001) who later sold it to von Hirsch.",
+  "owners": [
+   {
+    "name": "Rosenberg & Co., Paul P.",
+    "begin": 1940,
+    "end": 1951,
+    "listed": false
+   },
+   {
+    "name": "Rochlitz, Gustav",
+    "begin": 1941,
+    "end": 1941,
+    "listed": true
+   },
+   {
+    "name": "Goering, Hermann, Reichsmarschall",
+    "begin": 1941,
+    "end": 1941,
+    "listed": false
+   },
+   {
+    "name": "ERR",
+    "begin": 1941,
+    "end": 1941,
+    "listed": false
+   },
+   {
+    "name": "Hirsch, Robert von",
+    "begin": 1951,
+    "end": 1977,
+    "listed": false
+   },
+   {
+    "name": "Sotheby's",
+    "begin": 1977,
+    "end": 1978,
+    "listed": false
+   },
+   {
+    "name": "Mellon, Paul",
+    "begin": 1978,
+    "end": 1985,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "rochlitz",
+    "entry": "Rochlitz, Gustav",
+    "note": "Rochlitz, Gustav. Art dealer, active in France prior to and during World War II in the interests of the Third Reich. Chief participant in exchanges of paintings confiscated by the ERR, and important recipient of loot. Personal belongings and dealer’s stock stated to be at Todtmoos/Baden (in French Zone of Occupation), in the house of Edward Schupp. Possibly removed by Lt Loos of the French Army to"
+   }
+  ]
+ },
+ {
+  "id": "46681",
+  "kind": "flagged",
+  "title": "A Girl with a Watering Can",
+  "artist": "Auguste Renoir",
+  "text": "Possibly commissioned c. 1876 for the Sellière Collection, Paris; by inheritance to Comte Batthiany, by 1898; Alexandre Rosenberg, Paris. Paul Bérard [1830-1905], Paris.[1] Alexandre Berthier [1883-1918], 4th prince de Wagram; sold probably by his heirs through (Canadeesche Hypothek Bank) through (Étienne Bignou, Paris) to (Alex Reid & Lefèvre, London); on joint account with (M. Knoedler & Co., London, New York and Paris) and (Marcel Kapferer); sold September 1931 through (Galerie Étienne Bignou, Paris) to Chester Dale [1882-1962], New York; [2] bequest 1963 to NGA.\n\n\n[1]  According to an annotated photograph in the albums of the Bignou Gallery now at the documentation center of the Musée d'Orsay (copy NGA curatorial files). Bérard was a banker and patron of Renoir. This painting is not included in his estate sale held at Galerie Georges Petit in 1905. His name appears on a document in NGA Gallery Archives, Chester and Maud Dale Papers, Artist & Dealer Files (Renoir file), Box 3, Folder 1 (copy in NGA curatorial files).\n\n[2] Reid & Lefèvre Paintings Sold, sheet no. 204, #14/29 B1405 gives acquisition source and partial share information (Lefèvre archives, Hyman Kreitman Research Centre, Tate Britain, London, TGA 2002/11, Box 283).  M. Knoedler & Co. Records, accession number 2012.M.54, Research Library, Getty Research Institute, Los Angeles: Painting Stock book no. 5, London 1928-1939; Stock book no. 8, New York, no. A620; Inventory card, box 115, item 005 (copies in NGA curatorial files).",
+  "owners": [
+   {
+    "name": "Bignou, Etienne",
+    "begin": null,
+    "end": null,
+    "listed": true
+   },
+   {
+    "name": "Kapferer, Marcel",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Knoedler & Company, M.",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Reid & Lefèvre, Ltd, Alex",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Rosenberg, Alexandre P.",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Canadeesche Hypothek Bank",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Wagram, Alexandre Berthier, 4th Prince de",
+    "begin": null,
+    "end": 1918,
+    "listed": false
+   },
+   {
+    "name": "Sellière",
+    "begin": 1876,
+    "end": 1898,
+    "listed": false
+   },
+   {
+    "name": "Batthiany, Count",
+    "begin": 1898,
+    "end": 1898,
+    "listed": false
+   },
+   {
+    "name": "Dale, Chester",
+    "begin": 1931,
+    "end": 1963,
+    "listed": false
+   },
+   {
+    "name": "Bérard, Paul",
+    "begin": null,
+    "end": null,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "bignou",
+    "entry": "Bignou, Etienne",
+    "note": "Bignou, Etienne. Paris, rue de la Boetie. Schenker documents indicate sales to German buyers."
+   }
+  ]
+ },
+ {
+  "id": "61248",
+  "kind": "near",
+  "title": "Calanque des Antibois",
+  "artist": "Henri Edmond Cross",
+  "text": "(Cross sale, Hôtel Drouot, Paris, 28 October 1921, no. 24). (Sale,  Hôtel Drouot, Paris, 16 May 1922).[1] (Léopold Zborowski [1889-1932], Paris). (Bernheim-Jeune, Paris), before 1932.[2] R. Baudoin.[3] (Kleinmann et Cie., Paris); purchased 1950 by John Hay Whitney [1904-1982], Manhasset, New York;[4] deeded 1982 to the John Hay Whitney Charitable Trust, New York; gift 1982 to NGA.\n\n[1] Of seventeen sales held at the Hôtel Drouot on this date, only that held in Salle 10 included modern paintings. The results of that sale published in the _Gazette de l'Hôtel Drouot_ on 18 May 1922 do not include any works by Cross.\n\n\n\n[2] Reproduced in Lucie Cousturier, _H.E. Cross_, Paris, 1932, pl. 1, with no collection given; however, the photograph was supplied by Bernheim-Jeune.\n\n\n\n[3] Zborowski, Bernheim-Jeune, and R. Baudoin, according to Isabelle Compin, _H.E. Cross_ (Paris, 1964): 122. Henri Baudoin [1876-1963] was a commisseur-priseur in Paris from 1908-1942; it is unclear if R. Baudoin is related to Henri Baudoin.\n\n\n\n[4] Whitney acquisition source and date according to information sent 4 April 1984 from the Whitney Foundation, in NGA curatorial files.",
+  "owners": [
+   {
+    "name": "Drouot, Hôtel",
+    "begin": 1921,
+    "end": 1922,
+    "listed": true
+   },
+   {
+    "name": "Zborowski, Léopold",
+    "begin": 1922,
+    "end": 1932,
+    "listed": false
+   },
+   {
+    "name": "Bernheim-Jeune",
+    "begin": 1932,
+    "end": 1932,
+    "listed": true
+   },
+   {
+    "name": "Baudoin, R.",
+    "begin": 1933,
+    "end": 1933,
+    "listed": true
+   },
+   {
+    "name": "Kleinmann et Cie.",
+    "begin": 1950,
+    "end": 1950,
+    "listed": false
+   },
+   {
+    "name": "Whitney, John Hay",
+    "begin": 1950,
+    "end": 1982,
+    "listed": false
+   },
+   {
+    "name": "Whitney Charitable Trust, John Hay, Trustees of",
+    "begin": 1982,
+    "end": 1982,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "baudoin",
+    "entry": "Baudoin, Henri",
+    "note": "Baudoin, Henri. Paris. Sold to Haberstock. Documentary evidence in Unit files."
+   },
+   {
+    "key": "bernheim jeune",
+    "entry": "Bernheim Jeune",
+    "note": "Bernheim Jeune. Paris, 3 rue Dosne. Well-known Jewish art firm whose collections were seized by the Germans. It is reported that two million French francs, two Renoirs and a Cezanne were sent by Jean Bernheim to Switzerland in 1944 through the Japanese diplomatic pouch."
+   },
+   {
+    "key": "drouot",
+    "entry": "Drouot, Hotel",
+    "note": "Drouot, Hotel. Paris, 6 rue Rossini. Most important art auction firm in Paris, which was allowed to operate during the occupation. Used by the Germans and collaborationist French dealers."
+   }
+  ]
+ },
+ {
+  "id": "46081",
+  "kind": "near",
+  "title": "A Bishop Saint (Burchard of Würzburg?)",
+  "artist": "Tilman Riemenschneider",
+  "text": "Wilhelm Sattler and his son, Jens Sattler [d. 1901], Schloss Mainberg (near Kitzingen), before 1826; (Sattler sale, Rudolph Lepke Kunst-Auction-Haus, Berlin, 29 October-2 November 1901, no. 63);[1] Benoit Oppenheim [1842-1931], Berlin, until at least 1927;[2] Munich art market;[3] Henry Goldman [1857-1937], New York, by 1934;[4] (Duveen Brothers, Inc., London, New York, and Paris), by 1942;[5] sold 1944 to the Samuel H. Kress Foundation, New York;[6] gift by exchange 1961 to NGA.\n\n\n[1] Justus Bier, \"The Bust of a Bishop by Tilmann Riemenschneider,\" _Art Quarterly_ 6 (1943): 166, n. 3.\n\n[2] Max J. Friedländer, \"Review of Eduard Tönnies, _Leben und Weke des Würzburger Bildschnitzers Tilmann Riemenschneider_, Strasbourg, 1901,\" _RfK_ 24 (1901): 468; Benoit Oppenheim, _Originalbildwerke in Holz, Stein, Elfenbein, usw. aus der Sammlung Benoit Oppenheim, Berlin_, Leipzig, 1907: no. 10, pl. 6; Kurt Prister, _Riemenschneider_, Dresden, 1927: 34.\n\n[3] Bier 1943, 159.\n\n[4] Justus Bier, \"Tilman Riemenschneider,\" in Thieme-Becker 28 (1934): 334; Bier 1943, 159. Undated Duveen brochure, in NGA curatorial files.\n\n[5] George Swarzenski to Edward Fowles of Duveen Brothers, letter of 9 May 1942, copy in NGA curatorial files.\n\n[6] Middeldorf 1976, 125.",
+  "owners": [
+   {
+    "name": "Sattler, Wilhelm",
+    "begin": 1826,
+    "end": 1850,
+    "listed": false
+   },
+   {
+    "name": "Sattler, Jens",
+    "begin": 1850,
+    "end": 1901,
+    "listed": false
+   },
+   {
+    "name": "Oppenheim, Benoit",
+    "begin": 1901,
+    "end": 1927,
+    "listed": true
+   },
+   {
+    "name": "Art market, Paris",
+    "begin": 1927,
+    "end": 1934,
+    "listed": false
+   },
+   {
+    "name": "Goldman, Henry",
+    "begin": 1934,
+    "end": 1943,
+    "listed": false
+   },
+   {
+    "name": "Duveen Brothers, Inc.",
+    "begin": 1943,
+    "end": 1943,
+    "listed": false
+   },
+   {
+    "name": "Art market, Paris",
+    "begin": 1943,
+    "end": 1943,
+    "listed": false
+   },
+   {
+    "name": "Kress Foundation, Samuel H.",
+    "begin": 1944,
+    "end": 1961,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "oppenheim",
+    "entry": "Oppenheim, Jean",
+    "note": "Oppenheim, Jean. Paris, rue du Fbg St Honore. Small dealer. Dealt only with Bornheim."
+   }
+  ]
+ },
+ {
+  "id": "3155",
+  "kind": "near",
+  "title": "Pietà",
+  "artist": "German or Netherlandish 15th Century",
+  "text": "Reportedly Lichtenthal Abbey, Baden-Baden.[1] (J. and S. Goldschmidt, Frankfurt-am-Main);[2] Ralph Harman [1873-1931] and Mary Batterman [d. 1951] Booth, Grosse Point, Michigan, by 1923;[3] gift 1942 to NGA.\n\n\n[1] Lichtenthal as the source is first mentioned by Mary Batterman Booth in a letter to John Walker, undated but with material from late 1942, in NGA curatorial files.  On that Cistercian convent in Baden-Baden, see Emil Lacroix et al., _Die Kunstdenkmäler der Stadt Baden-Baden_ (Karlsruhe, 1942), 406-522; Sr. M. Pia Schindele, \"Die Abtei Lichtenthal; ihr Verhaltnis zum Cistercienserorden, zu Päpsten und Bischöfen und zum badischen Landesherrn im Laufe der Jahrehunderte,\" _Freiburger Diözesan-Archiv_ 104 (1984), 19-166, and 105 (1985), 67-248.  Sister Schindele, archivist of Lichtenthal, who provided these references, reported that the church and convent were supplied with works of art beginning in the late fifteenth century by two noble abbesses, Margaretha von Baden [1477-1496] and Maria von Baden [1496-1519], and that financial difficulties forced the sale of some works of art around the beginning of this century (letter to Alison Luchs, 26 February 1986, in NGA curatorial files).\n\n[2] Mary Batterman Booth to John Walker, undated but with material from late 1942, in NGA curatorial files.\n\n\n\n[3] Theodor Demmler, \"German Gothic Sculpture in the Ralph N.[sic] Booth Collection, Detroit,\" _Art in America_ 11 (June 1923), 165-170, fig.  2.",
+  "owners": [
+   {
+    "name": "Lichtenthal Abbey",
+    "begin": 1477,
+    "end": 1923,
+    "listed": false
+   },
+   {
+    "name": "Goldschmidt, J. and S.",
+    "begin": 1923,
+    "end": 1923,
+    "listed": true
+   },
+   {
+    "name": "Booth, Ralph Harman and Mary Batterman",
+    "begin": 1923,
+    "end": 1931,
+    "listed": false
+   },
+   {
+    "name": "Booth, Ralph Harman, Mrs.",
+    "begin": 1931,
+    "end": 1942,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "goldschmidt",
+    "entry": "Goldschmidt, Arthur",
+    "note": "Goldschmidt, Arthur. Havana, Cuba. German Jewish refugee dealer, resident in Cannes from July 1940 to August 1941, when he left for Spain and Cuba. Contact of Haberstock, Fischer, Loebl and Wendland, to whom he is known to have sold."
+   }
+  ]
+ },
+ {
+  "id": "46163",
+  "kind": "near",
+  "title": "View of Munich",
+  "artist": "Bernardo Bellotto and Workshop",
+  "text": "Private collection, Saxony.[1] Possibly (Sabin, London); sold 1928 to (Karl Haberstock, Berlin), possibly until 1936.[2] Acquired by Dr. Gustav Mez [d. 1944], Rorschacherberg, Switzerland;[3] (Rosenberg and Stiebel, New York); purchased 1951 by the Samuel H. Kress Foundation, New York;[4] gift 1961 to NGA.\n\n[1] A photograph of the painting in the Witt Library, London, is inscribed with the information that the painting was once in the collection of Augustus III, elector of Saxony (see photocopy in NGA curatorial files.)\n\n[2] Karl Haberstock appears to have handled two Bellotto views of Munich: the Gallery version and one that was sold to the Sonderauftrag Linz, processed through the Munich Central Collecting Point (no. 7573) in 1945, transferred in 1949 to the German government, and sent to the Auswärtig Amt in 1962 (see photocopies from the Bundesarchiv, Koblenz, in NGA curatorial files). This other version, first published by Andrzej Rottermund in 1998 (see bibliography), was auctioned by Koller International Auctions in Zurich on 1 October 2021. One of the two Bellottos was acquired by Haberstock from Sabin in London in April 1928 (see photocopies from Haberstock-archiv in NGA curatorial files), and at least one was still in his possession as of 1936, per Hellmuth Allwill Fritzsche, Bernardo Bellotto, genannt Canaletto, Burg-bei-Magdeburg, 1936: 116.\n\n[3] According to Saemy Rosenberg (letter of 7 December 1955, to NGA curator Fern Rusk Shapley, in NGA curatorial files), the painting was acquired by a private collector from a Dresden collection during World War II. Stefan Kozakiewicz, in his 1972 catalogue raisonné, identified the collector as Gustav Mez, a German resident in Switzerland (see bibliography). It is possible that both this painting and its companion (NGA 1961.9.63) were acquired by Mez from Haberstock in 1929, when the third painting of the group (replicas of the originals in the electoral palace painted for Elector Maximilian III Joseph) was sold.\n\n[4] See The Kress Collection Digital Archive, https://kress.nga.gov/Detail/objects/2438.",
+  "owners": [
+   {
+    "name": "Private Collection, Saxony",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Haberstock, Karl",
+    "begin": null,
+    "end": 1929,
+    "listed": true
+   },
+   {
+    "name": "Mez, Gustav, Dr.",
+    "begin": 1929,
+    "end": 1951,
+    "listed": false
+   },
+   {
+    "name": "Stiebel, Ltd.",
+    "begin": 1951,
+    "end": 1951,
+    "listed": false
+   },
+   {
+    "name": "Kress Foundation, Samuel H.",
+    "begin": 1951,
+    "end": 1961,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "haberstock",
+    "entry": "Haberstock, Karl",
+    "note": "Haberstock, Karl. Berlin, Kurfurstenstrasse 59 Nuremberg. The leading Nazi art dealer. Involved from 1933-39 in the campaign against ‘degenerate ‘ art and sold such paintings at great profit outside of Germany. Became Hitler’s dealer in 1936 and was directly responsible for the appointment of Posse to the directorship of Linz. The most prolific German buyer in Paris during the war and regarded in "
+   }
+  ]
+ },
+ {
+  "id": "46285",
+  "kind": "flagged",
+  "title": "Cabinet",
+  "artist": "Attributed to Boas Ulrich",
+  "text": "Trivulzio collection, Milan, before 1922;[1] (Count Alessandro Contini Bonacossi, Rome and Florence); purchased 26 June 1935 by Samuel H. Kress, New York;[2] gift 27 February 1950 to the Samuel H. Kress Foundation, New York;[3] gift 1961 to NGA.\n\n\n[1] The bill of sale from Contini Bonacossi (see note 2) is annotated \"From the Trivulzio Collection, Milan.\" Marc Rosenberg, _Der Goldschmiede Merkzeichen_, 3d ed., 4 vols., Frankfurt, 1922-1928: 3:50, mentions an Ulrich coffer in the Trivulzio collection.  Rosenberg's second edition (Frankfurt, 1911), 43, no. 260, in which he had interpreted Ulrich's mark as that of Bernhard Vesenmaier, does not mention the Trivulzio coffer.\n\n[2] The bill of sale was for seven paintings and a number of decorative arts objects (copy in NGA curatorial files). The coffer is described as \"A German Renaissance Coffer in Ebony, Gold and Silver. By Boas Ulrich of Augsburg.\" A.M. Hind wrote that he first heard of the Trivulzio nielli, with which this coffer was acquired, as being in Kress' hands in 1937 (letter of 12 June 1951 to (then) NGA chief curator John Walker, copy in NGA curatorial files).\n\n[3] Deposition by Herbert L. Spencer, executive director, Samuel H. Kress Foundation, 21 August 1956; in NGA secretary-general counsel's office files.",
+  "owners": [
+   {
+    "name": "Trivulzio collection",
+    "begin": 1922,
+    "end": 1935,
+    "listed": false
+   },
+   {
+    "name": "Contini Bonacossi, Alessandro, Count",
+    "begin": 1935,
+    "end": 1935,
+    "listed": true
+   },
+   {
+    "name": "Kress, Samuel H.",
+    "begin": 1935,
+    "end": 1950,
+    "listed": false
+   },
+   {
+    "name": "Kress Foundation, Samuel H.",
+    "begin": 1950,
+    "end": 1961,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "contini bonacossi",
+    "entry": "Contini-Bonacossi, Count Alessandro",
+    "note": "Contini-Bonacossi, Count Alessandro. Florence, Lungarno Amerigo Vespucci 28/Villa Vittoria-Carmignano, Tuscany. Art dealer and former prominent Fascist Party member. Close financial adviser to Mussolini. Has always maintained position of wealthy collector, rather than dealer, and engaged in large volume of international art business prior to 1939. Sold largest volume of works of art to Hofer for G"
+   }
+  ]
+ },
+ {
+  "id": "32679",
+  "kind": "near",
+  "title": "Allegory of Painting",
+  "artist": "François Boucher",
+  "text": "Possibly Maximilian III Joseph, Elector of Bavaria [1745-1777]. Traditionally said to have been brought into France by the early 19th century by Général de Saint-Maurice. M. Maillet du Boullay, Paris; (his sale, Hôtel Drouot, Paris, 22 January 1870, no. 2); M. Féral. Gustave Rothan, Paris, by 1874;[1] (his sale, Galerie Georges Petit, Paris, 29-31 May 1890, no. 123); Fréret. Adèle, 4th duchesse de Dino [née Adèle Livingston Sampson, 1841-1912; married first to Frederick W. Stevens], Paris, by 1907; probably by inheritance to her daughter, Countess Mabel Stevens Orlowski [married 1891 to Count Mieczyslaw Orlowski (1865-1929)];[2] (Wildenstein & Co., Inc., Paris, New York, and London); sold 1942 to the Samuel H. Kress Foundation, New York;[3] gift 1946 to NGA.\n\n\n[1] The early provenance of this painting and NGA 1946.7.2 is based on tradition rather than documentary evidence, and derives from Paul Mantz, \"La Galerie de M. Rothan,\" _Gazette des Beaux-Arts_ (1873): 442, who believed the pair had been painted for the Elector of Bavaria, Maximilian III Joseph. They were then supposedly returned to France in the early nineteenth century by General de Saint-Maurice, who, according to André Michel, _François Boucher_, Paris, n.d.[1906]: 51, kept them for some sixty years before selling them to Maillet du Boullay. As Alastair Laing has pointed out, however, Saint-Maurice never served in Bavaria and died in 1796 (letter of 20 April 1997 to Richard Rand). Nor do any references to the paintings appear in the state archives of Bavaria; see Colin Eisler, _Paintings from the Samuel H. Kress Collection: European Schools Excluding Italian_, Oxford, 1977: 318, who offered the possibility that they were commissioned by Joseph von Dufresne, a courtier of the Elector who had a large collection of French pictures (see also correspondence in NGA curatorial files). Mantz writes that Rothan acquired the pair of paintings in 1870, probably at Maillet du Boullay's sale; Rothan certainly owned them by 1874, when he lent them to an exhibition in Paris.\n\n[2] The Wildenstein prospectus for the pair of paintings listed the last three owners as Mme. Livingston-Sampson, Duchesse de Dino, and Comte Orllowski [_sic_]. Research for the Gallery's systematic catalogue of 15th-18th century French paintings determined that the first two names were the same person, and that the Count was her son-in-law. See NGA curatorial files for the prospectus and documentation of the family history.\n\n[3] See also The Kress Collection Digital Archive, https://kress.nga.gov/Detail/objects/196.",
+  "owners": [
+   {
+    "name": "Maximilian III Joseph, Elector of Bavaria",
+    "begin": null,
+    "end": 1777,
+    "listed": false
+   },
+   {
+    "name": "Saint-Maurice, Général de",
+    "begin": 1800,
+    "end": 1825,
+    "listed": false
+   },
+   {
+    "name": "Maillet du Boullay",
+    "begin": 1825,
+    "end": 1870,
+    "listed": false
+   },
+   {
+    "name": "Sale, Paris",
+    "begin": 1870,
+    "end": 1870,
+    "listed": false
+   },
+   {
+    "name": "Rothan, Gustave",
+    "begin": 1874,
+    "end": 1890,
+    "listed": false
+   },
+   {
+    "name": "Sale, Paris",
+    "begin": 1890,
+    "end": 1890,
+    "listed": false
+   },
+   {
+    "name": "Dino, Adèle, 4th duchesse de",
+    "begin": 1907,
+    "end": 1912,
+    "listed": false
+   },
+   {
+    "name": "Orlowski, Mabel Stevens, Countess",
+    "begin": 1912,
+    "end": 1937,
+    "listed": false
+   },
+   {
+    "name": "Orlowski, Mieczyslaw, Count",
+    "begin": 1937,
+    "end": 1937,
+    "listed": false
+   },
+   {
+    "name": "Wildenstein & Co., Inc.",
+    "begin": 1942,
+    "end": 1942,
+    "listed": true
+   },
+   {
+    "name": "Kress Foundation, Samuel H.",
+    "begin": 1942,
+    "end": 1946,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "wildenstein",
+    "entry": "Wildenstein Paris, 57 rue de la Boetie, (New York, 19 East 64th Street)",
+    "note": "Wildenstein Paris, 57 rue de la Boetie, (New York, 19 East 64th Street). In touch with Haberstock in 1942. Possessed full knowledge Dequoy’s transactions subsequent to ‘aryanization ‘ of the Wildenstein firm. In contact with Fabiani, summer 1945, who occupied his suite at the Dorchester in London."
+   }
+  ]
+ },
+ {
+  "id": "139213",
+  "kind": "flagged",
+  "title": "Malresl Working in the Kitchen",
+  "artist": "Wilhelm Leibl",
+  "text": "Max Silberberg [d. 1944], Breslau; (sale, Paul Graupe, Berlin, 12 October 1935, no. 64).  (Sale, Karl und Faber, Munich, 30 May 1975, no. 448); Wolfgang Ratjen, Munich; repurchased 2003 by Ratjen Foundation from the heirs of Max Silberberg; purchased 2007 by NGA.",
+  "owners": [
+   {
+    "name": "Graupe, Paul",
+    "begin": null,
+    "end": null,
+    "listed": true
+   },
+   {
+    "name": "Silberberg, Max",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Stiftung Ratjen",
+    "begin": null,
+    "end": 2007,
+    "listed": false
+   },
+   {
+    "name": "Karl und Faber",
+    "begin": 1975,
+    "end": 1975,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "graupe",
+    "entry": "Graupe, Paul",
+    "note": "Graupe, Paul. New York, Hotel Navarro, 112 Central Park South. German-Jewish refugee dealer, resident in France from 1936 to 1939, and in Switzerland from May 1939 to December 1940, when he went to the US via Lisbon. Former partner of Arthur Goldschmidt and close contact of Wendland, against whom he has now instituted legal proceedings for the return of pictures owned jointly. Not positively impli"
+   }
+  ]
+ },
+ {
+  "id": "69390",
+  "kind": "near",
+  "title": "River Landscape with Cows",
+  "artist": "Aelbert Cuyp",
+  "text": "Caroline Anne, 4th marchioness of Ely [1856-1917, née Caroline Anne Caithness], Eversley Park, Winchmore Hill, London; (sale, Christie, Manson & Woods, London, 3 August 1917, no. 43); (C. Huggins, London);[1] sold 9 August 1917 to (Thos. Agnew & Sons, Ltd., London, and the dealer H.M. Clark); sold September 1919 to Gaston Neuman, Brussels.[2] (sale, Frederik Muller & Co., Amsterdam, 30 November–6 December 1920, 1st day, no. 1024, bought in); (Frederik Muller & Co., Amsterdam), until at least 1922;[3] possibly (Steinmeyer, Lucerne), in 1923;[4] (Paul Cassirer & Co., Berlin), by 1924.[5] Ignaz Petschek, Aussig (Ústí nad Labem), Czechoslovakia, by 1927; by inheritance to his son, Frank C. Petschek [d. 1963], Aussig (Ústí nad Labem), and New York;[6] by inheritance to his daughters, Elisabeth de Picciotto, New York, and Maria Petschek Smith, Falls Church, Virginia; gift 1986 to NGA.\n\n\n[1] Letter, 12 November 1952, Christie, Manson & Woods Ltd. to Frank Petschek, copy in NGA curatorial files.\n\n[2] Many details of the provenance, in particular the specifics of Agnew’s ownership and sale of the painting, were researched by Alan Chong, and provided to Arthur Wheelock in letters from 1988 and 1990 (some undated), in NGA curatorial files.\n\n[3] Muller lent the painting to exhibitions in 1921 and 1922.\n\n[4] Steinmeyer’s possible ownership is cited in the files at the Rijksbureau voor Kunsthistorische Documentatie, The Hague; see their letter of 21 April 1951 to Frank Petschek, copy in NGA curatorial files.\n\n[5] Cassirer lent the painting to a 1924 exhibition.\n\n[6] The picture was removed from Czechoslovakia in, or shortly before, 1938 by Frank Petschek.",
+  "owners": [
+   {
+    "name": "Ely, Caroline Anne, 4th marchioness of",
+    "begin": null,
+    "end": 1917,
+    "listed": false
+   },
+   {
+    "name": "Christie, Manson & Woods, Ltd.",
+    "begin": 1917,
+    "end": 1917,
+    "listed": false
+   },
+   {
+    "name": "Huggins, C.",
+    "begin": 1917,
+    "end": 1917,
+    "listed": false
+   },
+   {
+    "name": "Agnew & Sons, Ltd., Thomas",
+    "begin": 1917,
+    "end": 1919,
+    "listed": false
+   },
+   {
+    "name": "Neuman, Gaston",
+    "begin": 1919,
+    "end": 1919,
+    "listed": false
+   },
+   {
+    "name": "Muller & Co., Frederik",
+    "begin": 1920,
+    "end": 1920,
+    "listed": false
+   },
+   {
+    "name": "Steinmeyer",
+    "begin": 1923,
+    "end": 1923,
+    "listed": false
+   },
+   {
+    "name": "Galerie Paul Cassirer",
+    "begin": 1924,
+    "end": 1924,
+    "listed": true
+   },
+   {
+    "name": "Petschek, Ignaz",
+    "begin": 1927,
+    "end": 1927,
+    "listed": false
+   },
+   {
+    "name": "Petschek, Frank C.",
+    "begin": 1927,
+    "end": 1986,
+    "listed": false
+   },
+   {
+    "name": "Smith, Maria Petschek, Mrs.",
+    "begin": 1986,
+    "end": 1986,
+    "listed": false
+   },
+   {
+    "name": "Picciotto, Elisabeth de, Mrs.",
+    "begin": 1986,
+    "end": 1986,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "cassirer",
+    "entry": "Cassirer, Paul",
+    "note": "Cassirer, Paul. Amsterdam, Kaizersgracht 109. Dealer. Absent from Holland during the war. Represented by Dr Lutjens during the occupation."
+   }
+  ]
+ },
+ {
+  "id": "34056",
+  "kind": "near",
+  "title": "George Pope Morris",
+  "artist": "Henry Inman",
+  "text": "The sitter [1802-1864], Cold Spring, New York, and New York.[1] (Rose M. de Forest [Mrs. Augustus], New York); sold 8 November 1917 to Thomas B. Clarke [1848-1931], New York;[2] his estate; sold as part of the Clarke collection 29 January 1936, through (M. Knoedler & Co., New York), to The A.W. Mellon Educational and Charitable Trust, Pittsburgh; gift 1947 to NGA.\n\n[1] In the 1836 National Academy catalogue, Morris is listed as the owner of the painting. [2] The name of the seller and the date of the purchase by Clarke are recorded in a copy of _Portraits by Early American Artists of the Seventeenth, Eighteenth, and Nineteenth Centuries Collected by Thomas B. Clarke_ (Exh. cat. Philadelphia Museum of Art, 1928) annotated with information from files of M. Knoedler & Co., NY (copy in NGA curatorial records and in NGA library).",
+  "owners": [
+   {
+    "name": "de Forest, Rose M.",
+    "begin": 1836,
+    "end": 1917,
+    "listed": false
+   },
+   {
+    "name": "Morris, George Pope",
+    "begin": 1836,
+    "end": 1917,
+    "listed": false
+   },
+   {
+    "name": "Clarke, Thomas Benedict",
+    "begin": 1917,
+    "end": 1931,
+    "listed": false
+   },
+   {
+    "name": "Knoedler & Company, M.",
+    "begin": 1936,
+    "end": 1936,
+    "listed": true
+   },
+   {
+    "name": "Mellon Educational and Charitable Trust, The A.W.",
+    "begin": 1936,
+    "end": 1947,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "knoedler",
+    "entry": "Knoedler et Cie",
+    "note": "Knoedler et Cie. Paris, 17 place Vendome/22 rue des Capucines. Schenker documents indicate sales to German buyers."
+   }
+  ]
+ },
+ {
+  "id": "563",
+  "kind": "near",
+  "title": "Catherine Brass Yates (Mrs. Richard Yates)",
+  "artist": "Gilbert Stuart",
+  "text": "The sitter's daughter, Catherine Yates Pollock [c. 1760-1805] and her husband, George Pollock [1762-1820], New York and New Orleans; their son, Carlile Pollock [1791-1845], New Orleans; his daughter, Marie Louise Pollock Chiapella [1828-1902]; possibly to her son, Henry Chiapella [1849-c. 1908]; his niece, Louise Chiapella Formento, New Orleans; sold 1911 to Isaac Monroe Cline [1861-1955] New Orleans;[1] purchased 16 January 1918 by Thomas B. Clarke [1848-1931], New York;[2] his estate; sold as part of the Clarke collection on 29 January 1936, through (M. Knoedler & Co., New York), to The A.W. Mellon Education and Charitable Trust, Pittsburgh; gift 1940 to NGA.\n\n\n\n[1] Cline wrote Thomas B. Clarke in New York on 11 February 1918 that he had purchased the portraits of Mrs. Yates, her husband Richard Yates [NGA 1942.8.29], and Lawrence Reid Yates [NGA 1940.1.5] in 1911, and had later bought portraits of Mr. and Mrs.  Richard Yates' daughter Catherine Yates Pollock [NGA 1942.8.19] and her husband George Pollock [NGA 1942.8.18] (NGA curatorial files). Cline told David E. Finley that he had purchased all five Stuart portraits from Formento; letter of 1 March 1948, in NGA curatorial files.  For Cline's dates see Historic New Orleans Collection, _Encyclopedia of New Orleans Artists 1718-1918_, New Orleans, 1987, 81. For the Pollock family see Horace Edwin Hayden, _Pollock Genealogy_, Harrisburg, Pennsylvania, 1883, 48; letters from Bureau of Archives, St. Louis Cathedral, New Orleans, 3 April 1919 and 23 July 1918; \"Last Will and Testament of George Pollock,\" signed 2 September 1819, New Orleans, and will of Carlile Pollock, signed 16 April 1845, New Orleans (copies, NGA curatorial files).\n\n\n\n[2] The name of the seller and the date of purchase are recorded in a copy of _Portraits by Early American Artists of the Seventeenth, Eighteenth and Nineteenth Centuries Collected by Thomas B. Clarke_, Exh. cat., Philadelphia Museum of Art, 1928, annotated with information from files of M. Knoedler & Co., NY (copy in NGA curatorial records and in NGA library). Clarke sent Clarence J. Dearden of Art House, Inc., to New Orleans to negotiate the purchase of the five portraits; Dearden confirmed the purchase in a telegram to Clarke on 16 January 1918 (NGA curatorial files).",
+  "owners": [
+   {
+    "name": "Pollock, Catherine Yates",
+    "begin": null,
+    "end": 1805,
+    "listed": false
+   },
+   {
+    "name": "Pollock, George",
+    "begin": 1805,
+    "end": 1820,
+    "listed": false
+   },
+   {
+    "name": "Pollock, Carlile",
+    "begin": 1820,
+    "end": 1845,
+    "listed": false
+   },
+   {
+    "name": "Chiapella, Marie Louise Pollock",
+    "begin": 1845,
+    "end": 1902,
+    "listed": false
+   },
+   {
+    "name": "Chiapella, Henry",
+    "begin": 1902,
+    "end": 1908,
+    "listed": false
+   },
+   {
+    "name": "Formento, Louise Chiapella",
+    "begin": 1908,
+    "end": 1911,
+    "listed": false
+   },
+   {
+    "name": "Cline, Isaac Monroe",
+    "begin": 1911,
+    "end": 1918,
+    "listed": false
+   },
+   {
+    "name": "Clarke, Thomas Benedict",
+    "begin": 1918,
+    "end": 1931,
+    "listed": false
+   },
+   {
+    "name": "Knoedler & Company, M.",
+    "begin": 1936,
+    "end": 1936,
+    "listed": true
+   },
+   {
+    "name": "Mellon Educational and Charitable Trust, The A.W.",
+    "begin": 1936,
+    "end": 1940,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "knoedler",
+    "entry": "Knoedler et Cie",
+    "note": "Knoedler et Cie. Paris, 17 place Vendome/22 rue des Capucines. Schenker documents indicate sales to German buyers."
+   }
+  ]
+ },
+ {
+  "id": "470",
+  "kind": "flagged",
+  "title": "The Nativity",
+  "artist": "Domenico Gagini",
+  "text": "Possibly the Manfredi family, Florence.[1] Possibly a church, Naples, in the late 19th century.[2] Henry Harris [d. 1950], London.[3] (Count Alessandro Contini Bonacossi, Florence); purchased June 1937 by the Samuel H. Kress Foundation, New York;[4] gift 1939 to NGA.\n\n\n[1] This information comes from the bill of sale between Contini Bonacossi and the Kress Foundation; see note 4. \n\n[2] Francesco Caglioti, e-mail to NGA curator Alison Luchs, 1 May 2009, in NGA curatorial files.\n\n[3] Wilhelm R. Valentiner (\"The Early Development of Domenico Gagini,\" _The Burlington Magazine_ [May 1940]: 76) and Ulrich Middeldorf (_Complete Catalogue of the Samuel H. Kress Collection: European Sculptures XIV-XIX Century_, London, 1976: 60-61) place the sculpture in the Harris collection, but do not indicate when.\n\n[4] The bill of sale for the purchase of a number of paintings and this sculpture is dated 18 June 1937; copy in NGA curatorial files.",
+  "owners": [
+   {
+    "name": "Harris, Henry",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Contini Bonacossi, Alessandro, Count",
+    "begin": 1937,
+    "end": 1937,
+    "listed": true
+   },
+   {
+    "name": "Kress Foundation, Samuel H.",
+    "begin": 1937,
+    "end": 1939,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "contini bonacossi",
+    "entry": "Contini-Bonacossi, Count Alessandro",
+    "note": "Contini-Bonacossi, Count Alessandro. Florence, Lungarno Amerigo Vespucci 28/Villa Vittoria-Carmignano, Tuscany. Art dealer and former prominent Fascist Party member. Close financial adviser to Mussolini. Has always maintained position of wealthy collector, rather than dealer, and engaged in large volume of international art business prior to 1939. Sold largest volume of works of art to Hofer for G"
+   }
+  ]
+ },
+ {
+  "id": "497",
+  "kind": "near",
+  "title": "Portrait of a Young Woman",
+  "artist": "Girolamo di Benvenuto",
+  "text": "Cav. Antonio Piccolomini Bellanti, Siena, by 1811; by inheritance 1895 to his daughter, Signora Ciaccheri, Siena; presumably by whom sold 1895 to (Charles Fairfax Murray [1849-1919], London and Florence); sold November 1895 to (Thomas Agnew & Sons, Ltd., London, stock no. 7418); sold November 1895 to George M. Salting [1835-1909], London; sold September 1903 back to (Thomas Agnew & Sons, Ltd., London, stock no. 1005) in joint ownership with (Charles Fairfax Murray); sold February 1905 to William Newall.[1] (Trotti et Cie., Paris); sold 1911 to Arthur Sanderson, Edinburgh; (Sanderson sale, Knight, Frank, and Rutley, London, 14-16 June 1911, 3rd day, no. 621, as _Petrarch's Laura_); purchased by (Thomas Agnew & Sons, Ltd., London) for Robert Henry [1850-1929] and Evelyn Holford [1856-1943] Benson, London and Buckhurst Park, Sussex;[2] sold 1927 to (Duveen Brothers, Inc., London and New York); sold 1937 to the Samuel H. Kress Foundation, New York;[3] gift 1939 to NGA.\n\n[1] Agnew Stock Book no. 8, 1891-1898, pp. 174-175; no. 9, 1898 - 1904, pp. 306-307; no. 10, 1904-1933, pp. 234-235, National Gallery London reference no. NGA 27/1/1/8-10.\n\n[2] Robert Henry Benson's notes on the painting's history (transcript provided in 1976 by his grandson, Peter Wake, and in NGA curatorial files) read in part: \"It is believed that an emissary of [Dr.] Boda's tried to buy it but Agnew sold it to Trotti in Paris and Trotti sold it (I was told)...to Arthur Sanderson, then a prosperous distiller in Edinburgh. Sanderson lost money and sent it...for sale by auction. I gave Agnews a commission to buy it...\"\n\n[3] See also The Kress Collection Digital Archive, https://kress.nga.gov/Detail/objects/1725.",
+  "owners": [
+   {
+    "name": "Bellanti, Antonio Piccolomini, Cav.",
+    "begin": 1811,
+    "end": 1895,
+    "listed": false
+   },
+   {
+    "name": "Ciaccheri, Signora",
+    "begin": 1895,
+    "end": 1895,
+    "listed": false
+   },
+   {
+    "name": "Murray, Charles Fairfax",
+    "begin": 1895,
+    "end": 1895,
+    "listed": false
+   },
+   {
+    "name": "Salting, George M.",
+    "begin": 1895,
+    "end": 1903,
+    "listed": false
+   },
+   {
+    "name": "Agnew & Sons, Ltd., Thomas",
+    "begin": 1895,
+    "end": 1911,
+    "listed": false
+   },
+   {
+    "name": "Newall, William",
+    "begin": 1903,
+    "end": 1903,
+    "listed": false
+   },
+   {
+    "name": "Knight, Frank & Rutley",
+    "begin": 1911,
+    "end": 1911,
+    "listed": false
+   },
+   {
+    "name": "Trotti et Cie",
+    "begin": 1911,
+    "end": 1911,
+    "listed": true
+   },
+   {
+    "name": "Sanderson, Arthur",
+    "begin": 1911,
+    "end": 1911,
+    "listed": false
+   },
+   {
+    "name": "Benson, Robert Henry and Evelyn Holford",
+    "begin": 1927,
+    "end": 1927,
+    "listed": false
+   },
+   {
+    "name": "Duveen Brothers, Inc.",
+    "begin": 1927,
+    "end": 1937,
+    "listed": false
+   },
+   {
+    "name": "Kress Foundation, Samuel H.",
+    "begin": 1937,
+    "end": 1939,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "trotti",
+    "entry": "Trotti, Count Rene Avogli",
+    "note": "Trotti, Count Rene Avogli. Paris, 1/88 rue de Grenelle. Well known art dealer of Italian birth; in touch with many German art agents during the war, particularly Wuester, an old friend. Also did business with Haberstock. Indicted by French Government (Seine Tribunal, Judge Frapier)."
+   }
+  ]
+ },
+ {
+  "id": "34105",
+  "kind": "near",
+  "title": "Dr. John Edwards Holbrook",
+  "artist": "Daniel Huntington",
+  "text": "The artist, New York; his estate, in 1908.[1] (sale, Anderson Galleries, New York, 26 November 1920, no. 90); Thomas B. Clarke [1848-1931], New York;[2] his estate; sold as part of the Clarke collection 29 January 1936, through (M. Knoedler & Co., New York), to The A.W. Mellon Educational and Charitable Trust, Pittsburgh; gift 1947 to NGA.\n\n[1] _Memorial Exhibition of Works by the Late Daniel Huntington, N.A._, Exh. cat. Century Association, New York, 1908: 5. [2] The name of the auction house and the date of the purchase by Clarke are recorded in a copy of _Portraits by Early American Artists of the Seventeenth, Eighteenth, and Nineteenth Centuries Collected by Thomas B. Clarke_ (Exh. cat. Philadelphia Museum of Art, 1928) annotated with information from files of M. Knoedler & Co., NY (copy in NGA curatorial records and in NGA library).",
+  "owners": [
+   {
+    "name": "Huntington, Daniel",
+    "begin": 1857,
+    "end": 1908,
+    "listed": false
+   },
+   {
+    "name": "American Art Association",
+    "begin": 1920,
+    "end": 1920,
+    "listed": false
+   },
+   {
+    "name": "Clarke, Thomas Benedict",
+    "begin": 1920,
+    "end": 1931,
+    "listed": false
+   },
+   {
+    "name": "Knoedler & Company, M.",
+    "begin": 1936,
+    "end": 1936,
+    "listed": true
+   },
+   {
+    "name": "Mellon Educational and Charitable Trust, The A.W.",
+    "begin": 1936,
+    "end": 1947,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "knoedler",
+    "entry": "Knoedler et Cie",
+    "note": "Knoedler et Cie. Paris, 17 place Vendome/22 rue des Capucines. Schenker documents indicate sales to German buyers."
+   }
+  ]
+ },
+ {
+  "id": "34068",
+  "kind": "near",
+  "title": "Maria Gansevoort Melvill (Mrs. Allan Melvill)",
+  "artist": "Ezra Ames",
+  "text": "The sitter [1791-1872]; by descent to her granddaughter, Charlotte Elizabeth Hoadley [1858-1946], Chicago.[1] (C.W. Lyon, New York); sold 26 January 1917 to Thomas B. Clarke [1848-1931], New York;[2] (sale, American Art Association, New York, 7 January 1919, no. 24); E. T. Heckscher.[3] Again Thomas B. Clarke by December 1921;[4] his estate; sold as part of the Clarke collection on 29 January 1936, through (M. Knoedler & Co., New York), to The A.W. Mellon Educational and Charitable Trust, Pittsburgh; gift 1947 to NGA.\n\n[1] At the sitter's death in 1872, the portrait presumably passed to her daughter, Katherine G. Hoadley [d. 1905], Boston (possibly through Hoadley's sister, Frances Priscilla Melville [d. 1885], who had lived with her mother and continued to occupy the family home in Gansevoort, New York, until her own death).  (Herman Melville, in a letter of 1875 to his cousin Catherine Gansevoort Lansing, refers to \"mother's portrait\" hanging in the family home at Gansevoort [Paltsits 1977, 33]).  At the time of Katherine Hoadley's death, Charlotte Hoadley was her oldest surviving child and only surviving daughter.  According to a codicil to Katherine's will, dated 23 April 1894 (no. 129493, Suffolk County Probate Court, Massachusetts), Charlotte Hoadley inherited \"all my furniture, pictures, books, plate, crockery, linen and similar articles.\"  See also the undated, handwritten label (in NGA curatorial files) that attributes the portrait to Gilbert Stuart and calls it the \"Property of Charlotte Hoadley.\" The Stuart attribution has never been accepted.\n\n\n\n[2] The name of the dealer and the date of the purchase by Clarke are recorded in a copy of _Portraits by Early American Artists of the Seventeenth, Eighteenth, and Nineteenth Centuries Collected by Thomas B. Clarke_, Exh. cat. Philadelphia Museum of Art, 1928, annotated with information from files of M. Knoedler & Co., NY (copy in NGA curatorial records and in NGA library).\n\n\n\n[3] Heckscher's name is recorded in an annotated copy of the 1919 sale catalogue in the Frick Art Reference Library, New York.",
+  "owners": [
+   {
+    "name": "Melvill, Maria Gansevoort",
+    "begin": 1815,
+    "end": 1872,
+    "listed": false
+   },
+   {
+    "name": "Hoadley, Charlotte Elizabeth",
+    "begin": 1872,
+    "end": 1917,
+    "listed": false
+   },
+   {
+    "name": "Lyon, C.W.",
+    "begin": 1917,
+    "end": 1917,
+    "listed": false
+   },
+   {
+    "name": "Clarke, Thomas Benedict",
+    "begin": 1917,
+    "end": 1919,
+    "listed": false
+   },
+   {
+    "name": "American Art Association",
+    "begin": 1919,
+    "end": 1919,
+    "listed": false
+   },
+   {
+    "name": "Heckscher, E.T.",
+    "begin": 1919,
+    "end": 1921,
+    "listed": false
+   },
+   {
+    "name": "Clarke, Thomas Benedict",
+    "begin": 1921,
+    "end": 1931,
+    "listed": false
+   },
+   {
+    "name": "Knoedler & Company, M.",
+    "begin": 1936,
+    "end": 1936,
+    "listed": true
+   },
+   {
+    "name": "Mellon Educational and Charitable Trust, The A.W.",
+    "begin": 1936,
+    "end": 1947,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "knoedler",
+    "entry": "Knoedler et Cie",
+    "note": "Knoedler et Cie. Paris, 17 place Vendome/22 rue des Capucines. Schenker documents indicate sales to German buyers."
+   }
+  ]
+ },
+ {
+  "id": "111",
+  "kind": "near",
+  "title": "Miss Juliana Willoughby",
+  "artist": "George Romney",
+  "text": "Painted for the sitter's father, Sir Christopher Willoughby, Bt. [1748-1808], Baldon House, Oxfordshire; by descent to Sir John Willoughby, 5th Bt.,[1] Fulmer Hall, Slough, Buckinghamshire; sold 1906 to (M. Knoedler & Co., London and New York); purchased February 1907 by Andrew W. Mellon, Pittsburgh and Washington, D.C.; deeded 28 December 1934 to The A.W. Mellon Educational and Charitable Trust, Pittsburgh; gift 1937 to NGA.\n\n\n\n[1] The 2nd through 4th Baronets Willoughby added to the former owner table in the NGA collection database are per The Getty Provenance Index, which lists these baronets each with the symbol (?), indicating some doubt as to the painting's direct passage through these three succeeding brothers down to the 5th Bt.",
+  "owners": [
+   {
+    "name": "Willoughby, 1st Bt., Christopher, Sir",
+    "begin": 1783,
+    "end": 1808,
+    "listed": false
+   },
+   {
+    "name": "Willoughby, 2nd Bt., Christopher William, Sir",
+    "begin": 1808,
+    "end": 1813,
+    "listed": false
+   },
+   {
+    "name": "Willoughby, 3rd Bt., Henry Pollard, Sir",
+    "begin": 1813,
+    "end": 1865,
+    "listed": false
+   },
+   {
+    "name": "Willoughby, 4th Bt., John Pollard, Sir",
+    "begin": 1865,
+    "end": 1866,
+    "listed": false
+   },
+   {
+    "name": "Willoughby, 5th Bt., John Christopher, Sir",
+    "begin": 1866,
+    "end": 1906,
+    "listed": false
+   },
+   {
+    "name": "Knoedler & Company, M.",
+    "begin": 1906,
+    "end": 1907,
+    "listed": true
+   },
+   {
+    "name": "Mellon, Andrew W.",
+    "begin": 1907,
+    "end": 1934,
+    "listed": false
+   },
+   {
+    "name": "Mellon Educational and Charitable Trust, The A.W.",
+    "begin": 1934,
+    "end": 1937,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "knoedler",
+    "entry": "Knoedler et Cie",
+    "note": "Knoedler et Cie. Paris, 17 place Vendome/22 rue des Capucines. Schenker documents indicate sales to German buyers."
+   }
+  ]
+ },
+ {
+  "id": "61369",
+  "kind": "flagged",
+  "title": "Breton Girls Dancing, Pont-Aven",
+  "artist": "Paul Gauguin",
+  "text": "Acquired from the artist in November 1888 by (Boussod, Valadon et Cie., Paris and New York); sold 16 September 1889 to Montandon.[1] (Ambroise Vollard [1866-1939], Paris), by 1922 until at least 1936.[2] Possibly (Etienne Bignou, Paris).[3] William A. Cargill [d. 1962], Carruth, Scotland, by 1956;[4] (his estate sale, Sotheby's, London, 11 June 1963, no. 29); purchased by Acciarri for (Hector Brame, Paris) for Paul Mellon, Upperville, [5] VA; gift 1983 to NGA.\n\n[1] According to _La Ronde des petites Bretonnes_, exh. cat., Musée des beaux arts, Rennes, 1997, p. 6. \n\n[2] Listed in the Vollard inventory of 1 January 1922, as 'Danse bretonne 72 x 92 10000,'  Archives Vollard, Musée d'Orsay, Paris.  Lent by Vollard to exhibitions in Paris and New York in 1936. \n\n[3] A photograph of this painting is included in the albums from the Bignou Gallery, now at the documentation center of the Musée d'Orsay (copy, NGA curatorial files). \n\n[4] According to John Rewald, _Post-Impressionism from van Gogh to Gauguin_, 1956, p. 289, the painting was in a private collection in Scotland at that time; this is probably Cargill.  See also Frances Fowle, _Impressionism and Scotland_, Exh. cat., National Galleries of Scotland, 2008, p. 127.\n\n[5] Annotated sales catalogue in the library of the National Gallery of Scotland; Acciarri also listed in Paul Mellon papers in NGA curatorial files.",
+  "owners": [
+   {
+    "name": "Vollard, Ambroise",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Bignou, Etienne",
+    "begin": null,
+    "end": null,
+    "listed": true
+   },
+   {
+    "name": "Cargill, William A.",
+    "begin": null,
+    "end": 1963,
+    "listed": false
+   },
+   {
+    "name": "Boussod et Valadon",
+    "begin": 1888,
+    "end": 1889,
+    "listed": false
+   },
+   {
+    "name": "Montandon",
+    "begin": 1889,
+    "end": 1889,
+    "listed": false
+   },
+   {
+    "name": "Brame, Hector",
+    "begin": 1963,
+    "end": 1963,
+    "listed": false
+   },
+   {
+    "name": "Sotheby's, London",
+    "begin": 1963,
+    "end": 1963,
+    "listed": false
+   },
+   {
+    "name": "Mellon, Paul",
+    "begin": 1963,
+    "end": 1983,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "bignou",
+    "entry": "Bignou, Etienne",
+    "note": "Bignou, Etienne. Paris, rue de la Boetie. Schenker documents indicate sales to German buyers."
+   }
+  ]
+ },
+ {
+  "id": "46207",
+  "kind": "flagged",
+  "title": "Saint Jerome",
+  "artist": "Probably Lombard 15th/16th Century",
+  "text": "Trivulzio Collection, Milan, by 1826 until 1917.[1] (Alessandro Contini Bonacossi, 1878-1955, Rome and Florence); [2] purchased 26 June 1935 by Samuel H. Kress (1863-1955), New York; gift 27 September 1950 to the Samuel H. Kress Foundation, New York;[3] gift 1961 to NGA. \n\n[1] Laura Aldovini, _I Nielli Trivulzio. Storia, Tecnica, Collezionismo,_Milan, 2021: 200.\n\n[2] The bill of sale included sculptures, maiolicas, furniture, antique velvets, paintings, and enamels, for a total of one hundred objects. Copy in NGA curatorial files. See also The Kress Collection Digital Archive, (https://kress.nga.gov/Detail/acquisitions/ACQ143). \n\n[3] An affidavit of 21 August 1956 by Herbert L. Spencer, executive director, Samuel H. Kress Foundation, states the Trivulzio collection of nielli and enamels were given by Samuel H. Kress to the Foundation on 27 September 1950; original in National Gallery of Art Archives. Secretary and General Counsel Records – Major Donor Files; copy in NGA curatorial files.",
+  "owners": [
+   {
+    "name": "Trivulzio collection",
+    "begin": 1826,
+    "end": 1917,
+    "listed": false
+   },
+   {
+    "name": "Contini Bonacossi, Alessandro, Count",
+    "begin": 1935,
+    "end": 1935,
+    "listed": true
+   },
+   {
+    "name": "Kress, Samuel H.",
+    "begin": 1935,
+    "end": 1935,
+    "listed": false
+   },
+   {
+    "name": "Kress Foundation, Samuel H.",
+    "begin": null,
+    "end": 1961,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "contini bonacossi",
+    "entry": "Contini-Bonacossi, Count Alessandro",
+    "note": "Contini-Bonacossi, Count Alessandro. Florence, Lungarno Amerigo Vespucci 28/Villa Vittoria-Carmignano, Tuscany. Art dealer and former prominent Fascist Party member. Close financial adviser to Mussolini. Has always maintained position of wealthy collector, rather than dealer, and engaged in large volume of international art business prior to 1939. Sold largest volume of works of art to Hofer for G"
+   }
+  ]
+ },
+ {
+  "id": "895",
+  "kind": "flagged",
+  "title": "Advice to a Young Artist",
+  "artist": "Honoré Daumier",
+  "text": "Jean-Baptiste-Camille Corot [1796-1875], Paris; (his estate sale, Hôtel Drouot, Paris, part III, 7-9 June 1875, no. 665); purchased by Arthur Stevens.[1] Guillotin, Paris, by 1901. Adolphe A. Tavernier, Paris, by 1901.[2] [Ernest?] Cronier, by 1904.  Goerg [or Georg], Reims, by 1905. A. Bergeaud, Paris, in 1910.[3] (Alex Reid & Lefèvre, Ltd., Glasgow and London), by 1927; sold to D.W.T. Cargill [1872-1939], Glasgow. (M. Knoedler & Co., New York), by 1928.[4] (Galerie Étienne Bignou, New York); sold 1941 to Duncan Phillips [1886-1966], Washington, D.C.; gift 1941 to NGA.\n\n\n[1] Annotated copy of Corot sale catalogue gives \"Stevens\" as purchaser; Jean Adhémar, _Daumier_, Paris, 1954, no. 79, gives collection \"Arthur Stevens.\"\n\n[2] Lent by Tavernier to 1901 Daumier exhibition in Paris at the Ecole des Beaux-Arts, no. 76.\n\n[3] Lent by Bergeaud to _Chefs-d'oeuvre de l'école française: Vingt peintre du XIX siècle_ at Galeries Georges Petit, Paris, in 1910, no. 40.\n\n[4] See letter dated 24 August 1966, in NGA curatorial files, which documents the sale by Alex Reid & Lefèvre to D.W.T. Cargill, Glasgow. Lent by Cargill to Knoedler's 1928 exhibition in New York.",
+  "owners": [
+   {
+    "name": "Corot, Jean-Baptiste-Camille",
+    "begin": null,
+    "end": 1875,
+    "listed": false
+   },
+   {
+    "name": "Stevens, Arthur",
+    "begin": 1875,
+    "end": 1875,
+    "listed": false
+   },
+   {
+    "name": "Drouot, Hôtel",
+    "begin": 1875,
+    "end": 1875,
+    "listed": true
+   },
+   {
+    "name": "Guillotin",
+    "begin": 1901,
+    "end": 1901,
+    "listed": false
+   },
+   {
+    "name": "Tavernier, Adolphe A.",
+    "begin": 1901,
+    "end": 1902,
+    "listed": false
+   },
+   {
+    "name": "Cronier, Ernest",
+    "begin": 1904,
+    "end": 1904,
+    "listed": false
+   },
+   {
+    "name": "Goerg",
+    "begin": 1905,
+    "end": 1905,
+    "listed": false
+   },
+   {
+    "name": "Bergeaud, A.",
+    "begin": 1910,
+    "end": 1910,
+    "listed": false
+   },
+   {
+    "name": "Reid & Lefèvre, Ltd, Alex",
+    "begin": 1927,
+    "end": 1927,
+    "listed": false
+   },
+   {
+    "name": "Cargill, David W.T.",
+    "begin": 1927,
+    "end": 1928,
+    "listed": false
+   },
+   {
+    "name": "Knoedler & Company, M.",
+    "begin": 1928,
+    "end": 1928,
+    "listed": false
+   },
+   {
+    "name": "Bignou, Etienne",
+    "begin": 1929,
+    "end": 1941,
+    "listed": true
+   },
+   {
+    "name": "Phillips, Duncan",
+    "begin": 1941,
+    "end": 1941,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "bignou",
+    "entry": "Bignou, Etienne",
+    "note": "Bignou, Etienne. Paris, rue de la Boetie. Schenker documents indicate sales to German buyers."
+   },
+   {
+    "key": "drouot",
+    "entry": "Drouot, Hotel",
+    "note": "Drouot, Hotel. Paris, 6 rue Rossini. Most important art auction firm in Paris, which was allowed to operate during the occupation. Used by the Germans and collaborationist French dealers."
+   }
+  ]
+ },
+ {
+  "id": "309",
+  "kind": "flagged",
+  "title": "Saint Jerome in the Wilderness",
+  "artist": "Cima da Conegliano",
+  "text": "Probably W.N. Hill, Bath; [1] (sale, Christie, Manson & Woods, London, 30 November - 1 December 1827, no. 59); bought by Radcliff.[2] Alexander Orloff-Davidoff, Saint Petersburg, by 1896;[3] sold 1930 to Arthur Hamilton Lee, 1st Viscount Lee of Fareham [1868-1947], Old Quarries, Gloucestershire;[4] (Count Alessandro Contini Bonacossi, Florence); purchased June 1935 by the Samuel H. Kress Foundation, New York;[5] gift 1939 to NGA.\n\n[1] Francis Russell, \"Review of Peter Humfrey, _Cima da Conegliano_, Cambridge,  1983,\" _Journal of the Royal Society of Arts_ 132 (1984): 410, connects the Washington panel with that sold by Hill, described as \"Cima di Conegliano:  St.  Jerome's Penitence, with romantic scenery, small upright, highly finished.\"\n\n[2] Buyer according to annotated auctioneer catalogue, Christie's Archive, London. The catalogue describes the seller as a gentleman who had lived in Italy for twenty years. \n\n[3] All references are simply to \"Orloff-Davidoff collection,\" except for a note (in NGA curatorial files) stating \"probably Alexander, according to a relative.\" Fritz Harck, \"Notizen über italienische Bilder in petersburger Sammlungen,\" _Repertorium für Kunstwissenschaft_ 19 (1896): 434, indicates that when the painting was in this collection the inscription read \"Joannis bellinus opus.\"\n\n[4] Ellis K. Waterhouse stated that he saw the painting when it was being sold in London in 1930 from the Orloff-Davidoff collection; Fern Rusk Shapley, _Paintings from the Samuel H. Kress Collection: Italian Schools, XV-XVI Century_, London, 1968: 60 n. 3.\n\n[5] The bill of sale, dated 12 June 1935 was for a total of twenty-one paintings (copy in NGA curatorial files). See also The Kress Collection Digital Archive, https://kress.nga.gov/Detail/objects/1848.",
+  "owners": [
+   {
+    "name": "Hill, W.N.",
+    "begin": null,
+    "end": 1827,
+    "listed": false
+   },
+   {
+    "name": "Christie, Manson & Woods, Ltd.",
+    "begin": 1827,
+    "end": 1827,
+    "listed": false
+   },
+   {
+    "name": "Orloff-Davidoff, Alexander",
+    "begin": 1896,
+    "end": 1930,
+    "listed": false
+   },
+   {
+    "name": "Lee, Arthur Hamilton 1st Viscount Lee of Fareham",
+    "begin": 1930,
+    "end": 1935,
+    "listed": false
+   },
+   {
+    "name": "Contini Bonacossi, Alessandro, Count",
+    "begin": 1930,
+    "end": 1935,
+    "listed": true
+   },
+   {
+    "name": "Kress Foundation, Samuel H.",
+    "begin": 1935,
+    "end": 1939,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "contini bonacossi",
+    "entry": "Contini-Bonacossi, Count Alessandro",
+    "note": "Contini-Bonacossi, Count Alessandro. Florence, Lungarno Amerigo Vespucci 28/Villa Vittoria-Carmignano, Tuscany. Art dealer and former prominent Fascist Party member. Close financial adviser to Mussolini. Has always maintained position of wealthy collector, rather than dealer, and engaged in large volume of international art business prior to 1939. Sold largest volume of works of art to Hofer for G"
+   }
+  ]
+ },
+ {
+  "id": "46223",
+  "kind": "flagged",
+  "title": "Saint Augustine",
+  "artist": "Probably Lombard 15th/16th Century",
+  "text": "Trivulzio Collection, Milan, by 1844 until after 1927.[1] (Alessandro Contini Bonacossi, 1878-1955, Rome and Florence);[2] purchased 26 June 1935 by Samuel H. Kress (1863-1955), New York; gift 27 September 1950 to the Samuel H. Kress Foundation, New York;[3] gift 1961 to NGA. \n\n[1] Laura Aldovini, _I Nielli Trivulzio. Storia, Tecnica, Collezionismo,_  Milan,2021:201.\n\n[2] The bill of sale included sculptures, maiolicas, furniture, antique velvets, paintings, and enamels, for a total of one hundred objects. Copy in NGA curatorial files. See also The Kress Collection Digital Archive, (https://kress.nga.gov/Detail/acquisitions/ACQ143). \n\n[3] An affidavit of 21 August 1956 by Herbert L. Spencer, executive director, Samuel H. Kress Foundation, states the Trivulzio collection of nielli and enamels were given by Samuel H. Kress to the Foundation on 27 September 1950; original in National Gallery of Art Archives. Secretary and General Counsel Records – Major Donor Files; copy in NGA curatorial files.",
+  "owners": [
+   {
+    "name": "Trivulzio collection",
+    "begin": 1844,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Contini Bonacossi, Alessandro, Count",
+    "begin": 1935,
+    "end": 1935,
+    "listed": true
+   },
+   {
+    "name": "Kress, Samuel H.",
+    "begin": 1935,
+    "end": 1950,
+    "listed": false
+   },
+   {
+    "name": "Kress Foundation, Samuel H.",
+    "begin": 1950,
+    "end": 1961,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "contini bonacossi",
+    "entry": "Contini-Bonacossi, Count Alessandro",
+    "note": "Contini-Bonacossi, Count Alessandro. Florence, Lungarno Amerigo Vespucci 28/Villa Vittoria-Carmignano, Tuscany. Art dealer and former prominent Fascist Party member. Close financial adviser to Mussolini. Has always maintained position of wealthy collector, rather than dealer, and engaged in large volume of international art business prior to 1939. Sold largest volume of works of art to Hofer for G"
+   }
+  ]
+ },
+ {
+  "id": "12111",
+  "kind": "flagged",
+  "title": "Madonna and Child",
+  "artist": "Lorenzo Monaco",
+  "text": "Masson collection, Amiens, by 1904.[1] (Édouard Larcade, Paris), by 1927. (Count Alessandro Contini Bonacossi, Florence), by 1938;[2] sold September 1939 to the Samuel H. Kress Foundation, New York;[3] gift 1943 to NGA.\n\n\n[1] Osvald Sirén, _Don Lorenzo Monaco_, Strasbourg, 1905: 88-89.\n\n[2] Raimond van Marle (_The Development of the Italian Schools of Painting_, 19 vols., The Hague, 1923-1938: 9[1927]: 162) notes that at that time the painting was no longer in the Masson collection. A manuscript annotation on a photo of the painting in the archives of the Biblioteca Berenson at I Tatti, Florence, dated 30 November 1927, states it then belonged to E. Larcade, Paris. Expertises by Giuseppe Fiocco and Wilhelm Suida written in English (apparently for Contini Bonacossi in expectation of the sale to Samuel H. Kress; copies in NGA curatorial files) are dated May 1938. George Pudelko (“The stylistic development of Lorenzo Monaco,” _The Burlington Magazine_ 73 [1938]: 237-248 and 74 [1939]: 76-81) describes the painting as belonging to Alessandro Contini Bonacossi.\n\n[3] The painting was included on a bill of sale between the Kress Foundation and Contini Bonacossi dated 1 September 1939, where it is described as “formerly in the Musee Masson, Amiens and in the Larcade Collection, Saint Germain” (copy in NGA curatorial files). See also The Kress Collection Digital Archive, https://kress.nga.gov/Detail/objects/1334.",
+  "owners": [
+   {
+    "name": "Contini Bonacossi, Alessandro, Count",
+    "begin": 1939,
+    "end": 1939,
+    "listed": true
+   },
+   {
+    "name": "Kress Foundation, Samuel H.",
+    "begin": 1939,
+    "end": 1943,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "contini bonacossi",
+    "entry": "Contini-Bonacossi, Count Alessandro",
+    "note": "Contini-Bonacossi, Count Alessandro. Florence, Lungarno Amerigo Vespucci 28/Villa Vittoria-Carmignano, Tuscany. Art dealer and former prominent Fascist Party member. Close financial adviser to Mussolini. Has always maintained position of wealthy collector, rather than dealer, and engaged in large volume of international art business prior to 1939. Sold largest volume of works of art to Hofer for G"
+   }
+  ]
+ },
+ {
+  "id": "119049",
+  "kind": "near",
+  "title": "Calvary",
+  "artist": "Master of the Death of Saint Nicholas of Münster",
+  "text": "Léon Tabourier; (his estate sale, Hôtel Drouot, Paris, 20-22 June 1898, no. 193, as Ecole Allemande); (Durand-Ruel et Cie, Paris). (F. Kleinberger Galleries, Paris), in 1913. André J. Seligmann [1898-1945], Paris, by 1938;[1] his heirs; (sale, Christie, Manson & Woods, New York, 27 January 2000, no. 49); purchased jointly by (Bernheimer, Munich), (Otto Nauman, New York), and (Alfred Bader, Milwaukee); purchased 6 June 2001 by NGA.\n\n\n\n[1] The painting was confiscated by the Nazis in July 1940 from the collection of André Seligmann and taken to the Germany Embassy in Paris (See _Verzeichnis der im Juli 1940 durch die Geheime Feldpolizei in Paris gesicherten und in die Deutsche Botschaft überbrachten Gegenstände aus jüdischen Kunsthandlungen_, p. 8-9, National Archives RG260/Ardelia Hall Collection/Box 469/File VII and ERR card no. SEL 545, as Westphalian, second half of the 15th century, National Archives RG260/Property Division/Box 19-20, both copies in NGA curatorial files). It was transferred to the Jeu de Paume from where it was removed by Hermann Goering on 5 November 1940 (OSS Consolidated Report #2, The Goering Collection, 15 September 1945, Attachment 5, _List der für die Sammlung des Reichsmarschalls Hermann Goering abgegebenen Kunstgegenstände_ dated 20 October 1942, no. 236, National Archives RG239/Entry 73/Box 78, copy NGA curatorial files). The records of the Munich Central Collecting Point indicate that the painting was recovered in Berchtesgaden and restituted to France on 30 October 1946 (see Munich property card #6772/1722 as Flemish c. 1480, National Archives RG260/Box 503, and French Receipt for Cultural Objects No. 14A, item no. 121, National Archives RG260/Box 287, copies NGA curatorial files). In 1951 the Office des Biens Privés deposited the painting at the Musée du Louvre in Paris (M.N.R. number 622).  The painting remained there until 1999, when it was returned to André Seligmann's two daughters.",
+  "owners": [
+   {
+    "name": "Tabourier, Léon",
+    "begin": 1898,
+    "end": 1898,
+    "listed": false
+   },
+   {
+    "name": "Drouot, Hôtel",
+    "begin": 1898,
+    "end": 1898,
+    "listed": true
+   },
+   {
+    "name": "Durand-Ruel et Cie",
+    "begin": 1898,
+    "end": 1913,
+    "listed": true
+   },
+   {
+    "name": "Kleinberger Gallery",
+    "begin": 1913,
+    "end": 1913,
+    "listed": false
+   },
+   {
+    "name": "Seligmann, André J.",
+    "begin": 1936,
+    "end": 1940,
+    "listed": false
+   },
+   {
+    "name": "ERR",
+    "begin": 1940,
+    "end": 1940,
+    "listed": false
+   },
+   {
+    "name": "Goering, Hermann, Reichsmarschall",
+    "begin": 1940,
+    "end": 1945,
+    "listed": false
+   },
+   {
+    "name": "Munich Central Collecting Point",
+    "begin": 1945,
+    "end": 1945,
+    "listed": false
+   },
+   {
+    "name": "Musée du Louvre",
+    "begin": 1951,
+    "end": 1999,
+    "listed": false
+   },
+   {
+    "name": "Christie, Manson & Woods, Ltd.",
+    "begin": 2000,
+    "end": 2000,
+    "listed": false
+   },
+   {
+    "name": "Bernheimer Fine Arts Ltd.",
+    "begin": 2000,
+    "end": 2001,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "drouot",
+    "entry": "Drouot, Hotel",
+    "note": "Drouot, Hotel. Paris, 6 rue Rossini. Most important art auction firm in Paris, which was allowed to operate during the occupation. Used by the Germans and collaborationist French dealers."
+   },
+   {
+    "key": "durand ruel",
+    "entry": "Durand-Ruel",
+    "note": "Durand-Ruel. Paris, 37 ave Friedland. Schenker documents indicate sales to German buyers."
+   }
+  ]
+ },
+ {
+  "id": "46682",
+  "kind": "near",
+  "title": "Odalisque",
+  "artist": "Auguste Renoir",
+  "text": "Anonymous collection, Paris.[1]  (Galerie Heinemann, Munich) from 1913; sold 1916 to Hans Wendland [b. 1880]. [2] (Dr. Gottlieb Friedrich Reber [1880-1959], Barmen, Germany); sold to (Paul Rosenberg & Co., London, New York, and Paris); [3] sold 1928 to (Hugo Perls, New York);[4] from 1931 with (Paul Rosenberg & Co., London, New York and Paris); sold by April 1933 to Chester Dale [1882-1963], New York;[5]  bequest 1963 to NGA.\n\n[1] Letter from Paul Rosenberg to Chester Dale, dated 31 March 1942, in which Rosenberg described having seen the picture in an apartment in Paris before 1914 (copy NGA curatorial files).\n\n[2] Galerie Heinemann records, no. 12082 (copies NGA curatorial files).\n\n[3] Letter from Paul Rosenberg to Chester Dale, dated 31 March 1942, in which Rosenberg explains that Reber was an intermediary for a German private collection. This is likely Wendland, who had bought the painting in 1916.The painting is included in the list of Reber's collection compiled by Peter Kropmanns and Uwe Fleckner, \"Von Kontinentaler Bedeutung: Gottlieb Freidrich Reber und seine Sammlungen,\" in _Die Moderne und ihre Sammler_ (Berlin, 2001), p 392, but was not lent by Reber to any known exhibitions of his collection. \n\n[4] See letter from Hugo Perls dated 25 November 1968, in NGA curatorial files.\n\n[5] See documentation in NGA Gallery Archives Chester and Maud Dale Papers, Artist & Daler Files, Box 3, Folder 5 (copies in NGA curatorial files).",
+  "owners": [
+   {
+    "name": "Galerie Heinemann",
+    "begin": 1928,
+    "end": 1928,
+    "listed": false
+   },
+   {
+    "name": "Reber, Gottlieb Friedrich, Dr.",
+    "begin": 1928,
+    "end": 1928,
+    "listed": true
+   },
+   {
+    "name": "Perls, Hugo",
+    "begin": 1928,
+    "end": 1931,
+    "listed": false
+   },
+   {
+    "name": "Rosenberg & Co., Paul P.",
+    "begin": 1928,
+    "end": 1933,
+    "listed": false
+   },
+   {
+    "name": "Dale, Chester",
+    "begin": 1933,
+    "end": 1963,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "reber",
+    "entry": "Reber, Gottlieb Friedrich",
+    "note": "Reber, Gottlieb Friedrich. Former German national, collector and art dealer, long resident in Switzerland. Hofer married his secretary’s sister. Deprived of German citizenship because of activity as a Freemason in 1943. Proceeded to Italy in 1941 as principal agent for Hofer on behalf of Goering. His wife still resides in Switzerland, although he has been refused a Swiss re-entry permit. Under hou"
+   }
+  ]
+ },
+ {
+  "id": "41639",
+  "kind": "near",
+  "title": "Madonna and Child in a Garden",
+  "artist": "Cosmè Tura",
+  "text": "Possibly (Duveen Brothers, Inc., London and New York).[1] Harold Irving Pratt [1877-1939] and Harriet Barnes Pratt [1879-1969], New York, by 1917 until at least 1939.[1] (Wildenstein & Co., Inc., New York); sold December 1943 to the Samuel H. Kress Foundation, New York;[2] gift 1952 to NGA.\n\n[1] The provenance of the painting in the 1939 World's Fair catalogue begins with \"Joseph Duveen, Millbank,\" although no other source lists Duveen. The second name in the 1939 provenance in \"Francis Kleinberger.\" The picture first came to public attention when Pratt exhibited it in 1917 at Francis Kleinberger's in New York, but there is no convincing evidence that Pratt actually acquired the work from Kleinberger's.\n\n[2] The bill of sale was for two paintings, both of which had been in the Pratt collection (copy in NGA curatorial files). See also The Kress Collection Digital Archive, https://kress.nga.gov/Detail/objects/1356.",
+  "owners": [
+   {
+    "name": "Kleinberger Gallery",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Duveen Brothers, Inc.",
+    "begin": null,
+    "end": null,
+    "listed": false
+   },
+   {
+    "name": "Pratt, Harold Irving",
+    "begin": 1917,
+    "end": 1939,
+    "listed": false
+   },
+   {
+    "name": "Wildenstein & Co., Inc.",
+    "begin": 1943,
+    "end": 1943,
+    "listed": true
+   },
+   {
+    "name": "Kress Foundation, Samuel H.",
+    "begin": 1943,
+    "end": 1952,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "wildenstein",
+    "entry": "Wildenstein Paris, 57 rue de la Boetie, (New York, 19 East 64th Street)",
+    "note": "Wildenstein Paris, 57 rue de la Boetie, (New York, 19 East 64th Street). In touch with Haberstock in 1942. Possessed full knowledge Dequoy’s transactions subsequent to ‘aryanization ‘ of the Wildenstein firm. In contact with Fabiani, summer 1945, who occupied his suite at the Dorchester in London."
+   }
+  ]
+ },
+ {
+  "id": "46273",
+  "kind": "flagged",
+  "title": "Bust of a Young Man in a Niche",
+  "artist": "Probably Bolognese 15th/16th Century",
+  "text": "Trivulzio Collection, Milan, probably after 1856. [1] (Alessandro Contini Bonacossi, 1878-1955, Rome and Florence) ;[2] purchased 26 June 1935 by Samuel H. Kress (1863-1955), New York; gift 27 September 1950 to the Samuel H. Kress Foundation, New York;[3] gift 1961 to NGA. \n\n[1] Laura Aldovini, _I Nielli Trivulzio. Storia, Tecnica, Collezionismo,_Milan, 2021: 245.\n\n[2] The bill of sale included sculptures, maiolicas, furniture, antique velvets, paintings, and enamels, for a total of one hundred objects. Copy in NGA curatorial files. See also The Kress Collection Digital Archive, (https://kress.nga.gov/Detail/acquisitions/ACQ143). \n\n[3] An affidavit of 21 August 1956 by Herbert L. Spencer, executive director, Samuel H. Kress Foundation, states the Trivulzio collection of nielli and enamels were given by Samuel H. Kress to the Foundation on 27 September 1950; original in National Gallery of Art Archives. Secretary and General Counsel Records – Major Donor Files; copy in NGA curatorial files.",
+  "owners": [
+   {
+    "name": "Trivulzio collection",
+    "begin": 1856,
+    "end": 1856,
+    "listed": false
+   },
+   {
+    "name": "Contini Bonacossi, Alessandro, Count",
+    "begin": 1935,
+    "end": 1935,
+    "listed": true
+   },
+   {
+    "name": "Kress, Samuel H.",
+    "begin": 1935,
+    "end": 1950,
+    "listed": false
+   },
+   {
+    "name": "Kress Foundation, Samuel H.",
+    "begin": 1950,
+    "end": 1961,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "contini bonacossi",
+    "entry": "Contini-Bonacossi, Count Alessandro",
+    "note": "Contini-Bonacossi, Count Alessandro. Florence, Lungarno Amerigo Vespucci 28/Villa Vittoria-Carmignano, Tuscany. Art dealer and former prominent Fascist Party member. Close financial adviser to Mussolini. Has always maintained position of wealthy collector, rather than dealer, and engaged in large volume of international art business prior to 1939. Sold largest volume of works of art to Hofer for G"
+   }
+  ]
+ },
+ {
+  "id": "72164",
+  "kind": "near",
+  "title": "Rear Admiral George W. Melville",
+  "artist": "Thomas Eakins",
+  "text": "Susan Macdowell Eakins [Mrs. Thomas Eakins, 1851-1938], Philadelphia; Millicent Rogers [1902-1953], New York; her son, Count Peter A. Salm, New York;[1] sold 29 April 1983 through (Lothar Dohna, New York) to Mr. and Mrs. H. John Heinz III, Pittsburgh, Pennsylvania; gift (partial and promised) 1991 to NGA.\n\n\n[1] Mrs. Rogers died in 1953. In her will there is no mention of the painting among the effects bequeathed by her to her son, Peter Salm.",
+  "owners": [
+   {
+    "name": "Eakins, Susan Hannah Macdowell",
+    "begin": 1905,
+    "end": 1938,
+    "listed": false
+   },
+   {
+    "name": "Rogers, Huttleston, Mrs.",
+    "begin": 1938,
+    "end": 1953,
+    "listed": false
+   },
+   {
+    "name": "Salm, Peter A., Count",
+    "begin": 1953,
+    "end": 1983,
+    "listed": false
+   },
+   {
+    "name": "Dohna, Lothar",
+    "begin": 1983,
+    "end": 1983,
+    "listed": false
+   },
+   {
+    "name": "Heinz III, H. John, The Honorable and Mrs.",
+    "begin": 1983,
+    "end": 1991,
+    "listed": true
+   }
+  ],
+  "entries": [
+   {
+    "key": "heinz",
+    "entry": "Heinz, E",
+    "note": "Heinz, E. Director of I G Farben. Leader of Dutch Nazi Party. Business associate of Miedl."
+   }
+  ]
+ },
+ {
+  "id": "1117",
+  "kind": "near",
+  "title": "Edward Stow",
+  "artist": "Gilbert Stuart",
+  "text": "Gift of the sitter to his daughter, Louisa Matilda Stow, in 1838;[1] her sister, Caroline Adelaide Stow Hyatt [Mrs. George Hyatt, 1807-1893], Ithaca, New York; her nephew, John Phillips [d. 1905], Brooklyn, New York; bequeathed to his three sisters, Edith, Norah and Ann Broadhurst Phillips, Boston; gift of Ann Broadhurst Phillips and her cousin, Ann Brattle Bascom, Cambridge, Massachusetts, to the Museum of Fine Arts, Boston, in 1913;[2] sold (American Art Association, New York, N.Y., 17 January 1922, no. 27) to Thomas B. Clarke [1848-1931], New York;[3] his estate; sold as part of the Clarke collection on 29 January 1936, through (M. Knoedler & Co., New York), to The A. W. Mellon Educational and Charitable Trust, Pittsburgh; gift 1942 to NGA.\n\n[1] Lawrence Park, _Gilbert Stuart:  An Illustrated [Descriptive] List of his Works_, New York 1926: 715, citing a memorandum from Stow dated 22 February 1838, which is unlocated; Stow also gave his daughter Louisa a miniature of himself by \"Peale.\" At the same time he gave Stuart's portrait of his wife to his daughter Caroline, along with the portrait of her uncle John Peck by John Johnson [NGA 1947.17.65] and a miniature of himself by Benjamin Trott.\n\n\n\n[2] Mantle Fielding, \"Addenda and Corrections to Paintings by Gilbert Stuart. Not Noted in Mason's Life of Stuart,\" _Pennsylvania Magazine of History and Biography_ 44 (January 1920), 90.  John, Ann, Edith, and Norah Phillips were the children of George Phillips and his wife Ann Maria, sister of Caroline and Louisa Stow; see Albert M. Phillips, _Phillips Genealogies_, Auburn, Massachusetts, 1885, 184.  According to Lawrence Park, _Gilbert Stuart:  An Illustrated [Descriptive] List of his Works_, New York, 1926, 715, Ann Phillips and her cousin Ann Brattle Bascom of Cambridge, Massachusetts,  each acquired half-interest in the portraits at the death of Ann's sisters Edith and Norah Phillips.\n\n\n\n[3] _Notable Paintings of Artistic Distinction Belonging to the Charles F. Fowles Estate, Another Estate and Private Interests_, American Art Association, New York, 17 January 1922, unpaginated, lot 27, repro.; Stuart's portrait of Mrs. Stow was sold as no. 26.  The MFA and Ann Phillips' descendants were forced to sell the painting because Ann Phillips only had title to a half share.  The heirs of her sister Nora Phillips owned the other half shares (memo from Harriett Pemstein, MFA, 18 April 1991; NGA curatorial file).  The name of the seller and the date of purchase are recorded in a copy of _Portraits by Early American Painters of the Seventeenth, Eighteenth and Nineteenth Centuries Collected by Thomas B. Clarke_, Exh. cat., Philadelphia Museum of Art, 1928, annotated with information from files of M. Knoedler & Co., NY (copy in NGA curatorial records and in NGA library).",
+  "owners": [
+   {
+    "name": "Stow, Edward",
+    "begin": 1803,
+    "end": 1838,
+    "listed": false
+   },
+   {
+    "name": "Stow, Louisa Matilda",
+    "begin": 1838,
+    "end": 1850,
+    "listed": false
+   },
+   {
+    "name": "Hyatt, Caroline Adalaide Stow",
+    "begin": 1850,
+    "end": 1893,
+    "listed": false
+   },
+   {
+    "name": "Phillips, John",
+    "begin": 1893,
+    "end": 1905,
+    "listed": true
+   },
+   {
+    "name": "Phillips, Norah",
+    "begin": 1905,
+    "end": 1913,
+    "listed": true
+   },
+   {
+    "name": "Phillips, Edith",
+    "begin": 1905,
+    "end": 1913,
+    "listed": true
+   },
+   {
+    "name": "Phillips, Ann Broadhurst",
+    "begin": 1905,
+    "end": 1913,
+    "listed": true
+   },
+   {
+    "name": "Bascom, Ann Brattle",
+    "begin": 1913,
+    "end": 1913,
+    "listed": false
+   },
+   {
+    "name": "Museum of Fine Arts, Boston",
+    "begin": 1913,
+    "end": 1922,
+    "listed": false
+   },
+   {
+    "name": "American Art Association",
+    "begin": 1922,
+    "end": 1922,
+    "listed": false
+   },
+   {
+    "name": "Clarke, Thomas Benedict",
+    "begin": 1922,
+    "end": 1931,
+    "listed": false
+   },
+   {
+    "name": "Knoedler & Company, M.",
+    "begin": 1936,
+    "end": 1936,
+    "listed": true
+   },
+   {
+    "name": "Mellon Educational and Charitable Trust, The A.W.",
+    "begin": 1936,
+    "end": 1942,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "knoedler",
+    "entry": "Knoedler et Cie",
+    "note": "Knoedler et Cie. Paris, 17 place Vendome/22 rue des Capucines. Schenker documents indicate sales to German buyers."
+   },
+   {
+    "key": "phillips",
+    "entry": "Phillips Company",
+    "note": "Phillips Company. Eindhoven. Internationally known manufacturers of radio and electrical appliances. Sold to Hofer."
+   }
+  ]
+ },
+ {
+  "id": "52161",
+  "kind": "near",
+  "title": "Washerwomen on the Beach of Etretat",
+  "artist": "Eugène Boudin",
+  "text": "Georges Ibos, Paris; (Ibos sale, Hôtel Drouot, Paris, 19 June 1900, no. 11); purchased by (Durand-Ruel, Paris); sold 14 November 1935 to (E.J. van Wisselingh and Co., Amsterdam).[1] M.P. Voûte, Jr., Amsterdam; sold 1937 to (E.J. van Wisselingh and Co., Amsterdam); sold 1937 to (M.  Knoedler and Co., New York);[2] sold 12 December 1942 to (Harry MacNeill Bland Galleries, New York);[3] sold 1942 to Ailsa Mellon Bruce [1901-1969], New York; bequest 1970 to NGA.\n\n[1]Letter from Durand-Ruel & Cie dated 20 December 1977 in NGA curatorial files. [2]Letter from E.J. van Wisselingh & Co. dated 3 January 1978 in NGA curatorial files. [3]Letter from M. Knoedler & Co. dated 18 November 1977 in NGA curatorial files.",
+  "owners": [
+   {
+    "name": "Ibos, George",
+    "begin": null,
+    "end": 1900,
+    "listed": false
+   },
+   {
+    "name": "Drouot, Hôtel",
+    "begin": 1900,
+    "end": 1900,
+    "listed": true
+   },
+   {
+    "name": "Durand-Ruel et Cie",
+    "begin": 1900,
+    "end": 1935,
+    "listed": true
+   },
+   {
+    "name": "Voûte, Jr., M.P.",
+    "begin": 1937,
+    "end": 1937,
+    "listed": false
+   },
+   {
+    "name": "Wisselingh & Co., E.J. van",
+    "begin": 1937,
+    "end": 1937,
+    "listed": false
+   },
+   {
+    "name": "Knoedler & Company, M.",
+    "begin": 1937,
+    "end": 1943,
+    "listed": true
+   },
+   {
+    "name": "Bland Galleries",
+    "begin": 1942,
+    "end": 1942,
+    "listed": false
+   },
+   {
+    "name": "Bruce, Ailsa Mellon, Mrs.",
+    "begin": 1942,
+    "end": 1970,
+    "listed": false
+   }
+  ],
+  "entries": [
+   {
+    "key": "drouot",
+    "entry": "Drouot, Hotel",
+    "note": "Drouot, Hotel. Paris, 6 rue Rossini. Most important art auction firm in Paris, which was allowed to operate during the occupation. Used by the Germans and collaborationist French dealers."
+   },
+   {
+    "key": "durand ruel",
+    "entry": "Durand-Ruel",
+    "note": "Durand-Ruel. Paris, 37 ave Friedland. Schenker documents indicate sales to German buyers."
+   },
+   {
+    "key": "knoedler",
+    "entry": "Knoedler et Cie",
+    "note": "Knoedler et Cie. Paris, 17 place Vendome/22 rue des Capucines. Schenker documents indicate sales to German buyers."
+   }
+  ]
+ }
+]

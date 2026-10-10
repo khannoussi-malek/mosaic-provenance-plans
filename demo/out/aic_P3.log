@@ -1,0 +1,21 @@
+16963: 6 events, escalated=None, 46.1s
+12526: 7 events, escalated=span not in text, 107.4s
+46248: 7 events, escalated=None, 37.4s
+42949: 8 events, escalated=None, 41.7s
+27350: 7 events, escalated=no dated 1933-45 event, 90.1s
+20601: 6 events, escalated=no dated 1933-45 event, 70.9s
+16600: 6 events, escalated=None, 42.6s
+243810: 14 events, escalated=None, 79.3s
+16405: 8 events, escalated=None, 51.4s
+100264: 9 events, escalated=None, 67.6s
+6398: 5 events, escalated=no dated 1933-45 event, 58.4s
+6238: 3 events, escalated=None, 17.9s
+15860: 5 events, escalated=span not in text, 68.5s
+23333: 12 events, escalated=None, 55.3s
+24361: 6 events, escalated=no dated 1933-45 event, 68.3s
+74793: 3 events, escalated=None, 28.0s
+85663: 3 events, escalated=no dated 1933-45 event, 35.3s
+5513: 3 events, escalated=no dated 1933-45 event, 45.3s
+81788: 6 events, escalated=span not in text, 84.3s
+22186: 4 events, escalated=no dated 1933-45 event, 46.4s
+escalated 10/20

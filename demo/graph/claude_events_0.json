@@ -1,0 +1,2267 @@
+[
+ {
+  "id": "229508",
+  "events": [
+   {
+    "owner": "Louis Alexander Ricard-Abenheimer",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "Frankfurt am Main",
+    "source_span": "(Louis Alexander Ricard-Abenheimer, Frankfurt am Main)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Albert Ullmann",
+    "role": "collector",
+    "date": "by 1906",
+    "year": 1906,
+    "place": "Frankfurt am Main",
+    "source_span": "acquired by 1906 by Albert [1862-1912] and Hedwig [1872-1945] Ullmann, Frankfurt am Main",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Hedwig Ullmann",
+    "role": "collector",
+    "date": "by 1906",
+    "year": 1906,
+    "place": "Frankfurt am Main",
+    "source_span": "acquired by 1906 by Albert [1862-1912] and Hedwig [1872-1945] Ullmann, Frankfurt am Main",
+    "joint": true,
+    "hedge": null
+   },
+   {
+    "owner": "Henry A. Ullin",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": "Melbourne",
+    "source_span": "by descent to their son Henry A. and his wife Elinor Ullin, Melbourne",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Elinor Ullin",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": "Melbourne",
+    "source_span": "by descent to their son Henry A. and his wife Elinor Ullin, Melbourne",
+    "joint": true,
+    "hedge": null
+   },
+   {
+    "owner": "Sotheby’s",
+    "role": "auction",
+    "date": "9 May 1974",
+    "year": 1974,
+    "place": "London",
+    "source_span": "sale, 9 May 1974, Sotheby’s London",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "L. Scott",
+    "role": "collector",
+    "date": null,
+    "year": 1974,
+    "place": null,
+    "source_span": "L. Scott",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Sotheby’s",
+    "role": "auction",
+    "date": "19-20 May 1997",
+    "year": 1997,
+    "place": "Geneva",
+    "source_span": "sale, 19-20 May 1997, Sotheby’s, Geneva",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Belgian private collection",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "Belgian private collection",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Galerie Kugel",
+    "role": "dealer",
+    "date": "2023",
+    "year": 2023,
+    "place": "Paris",
+    "source_span": "acquired 2023 by Galerie Kugel, Paris",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "National Gallery of Art",
+    "role": "museum",
+    "date": "2024",
+    "year": 2024,
+    "place": null,
+    "source_span": "purchased 2024 by NGA",
+    "joint": false,
+    "hedge": null
+   }
+  ]
+ },
+ {
+  "id": "52199",
+  "events": [
+   {
+    "owner": "the artist",
+    "role": "other",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "By inheritance from the artist",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Mme. Camille [Julie] Pissarro",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "By inheritance from the artist [1830-1903] to his wife, Mme. Camille [Julie] Pissarro",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Galerie Georges Petit",
+    "role": "auction",
+    "date": "3 December 1928",
+    "year": 1928,
+    "place": "Paris",
+    "source_span": "(Pissarro sale, Galerie Georges Petit, Paris, 3 December 1928, no. 44)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Van Riel",
+    "role": "collector",
+    "date": null,
+    "year": 1928,
+    "place": null,
+    "source_span": "purchased by Van Riel",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Bruno Stahl",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Berlin",
+    "source_span": "Bruno Stahl [1892-1958], Berlin, later Brussels and New York",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "ERR",
+    "role": "confiscating agency",
+    "date": "during World War II",
+    "year": null,
+    "place": null,
+    "source_span": "This painting was confiscated by the ERR in France during World War II",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Hermann Goering",
+    "role": "confiscating agency",
+    "date": "17 March 1941",
+    "year": 1941,
+    "place": null,
+    "source_span": "taken by Hermann Goering on 17 March 1941",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Gustave Rochlitz",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "Goering traded the picture to Gustave Rochlitz",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "France",
+    "role": "other",
+    "date": "27 March 1946",
+    "year": 1946,
+    "place": null,
+    "source_span": "The painting was restituted to France on 27 March 1946",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Wildenstein",
+    "role": "dealer",
+    "date": "24 October 1947",
+    "year": 1947,
+    "place": null,
+    "source_span": "It was restituted to Wildenstein, from whose vault it had been removed, on 24 October 1947",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Bruno Stahl",
+    "role": "collector",
+    "date": "that same year",
+    "year": 1947,
+    "place": null,
+    "source_span": "returned to Stahl that same year",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Wildenstein & Co.",
+    "role": "dealer",
+    "date": "5 January 1949",
+    "year": 1949,
+    "place": "London",
+    "source_span": "sold 5 January 1949 to (Wildenstein & Co., London, New York and Paris)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Ailsa Mellon Bruce",
+    "role": "collector",
+    "date": "30 March 1949",
+    "year": 1949,
+    "place": "New York",
+    "source_span": "sold 30 March 1949 to Ailsa Mellon Bruce [1901-1969], New York",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "National Gallery of Art",
+    "role": "museum",
+    "date": "1970",
+    "year": 1970,
+    "place": null,
+    "source_span": "bequest 1970 to NGA",
+    "joint": false,
+    "hedge": null
+   }
+  ]
+ },
+ {
+  "id": "143662",
+  "events": [
+   {
+    "owner": "Wilhelm Koenig",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Vienna",
+    "source_span": "Wilhelm Koenig [1881-1941], Vienna",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Joseph F. McCrindle",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "New York",
+    "source_span": "Joseph F. McCrindle [1923-2008], New York",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Joseph F. McCrindle Foundation",
+    "role": "collector",
+    "date": "2008",
+    "year": 2008,
+    "place": null,
+    "source_span": "Joseph F. McCrindle Foundation, 2008",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "National Gallery of Art",
+    "role": "museum",
+    "date": "2009",
+    "year": 2009,
+    "place": null,
+    "source_span": "gift to NGA, 2009",
+    "joint": false,
+    "hedge": null
+   }
+  ]
+ },
+ {
+  "id": "73852",
+  "events": [
+   {
+    "owner": "Prince Heinrich Lubomirski",
+    "role": "collector",
+    "date": "by 1823",
+    "year": 1823,
+    "place": "Przeworsk",
+    "source_span": "Prince Heinrich Lubomirski, Przeworsk, Poland [1770-1850], by 1823",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "his heirs",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "transferred by his heirs",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Lubomirski Museum in the Ossolinski Library",
+    "role": "museum",
+    "date": "1869",
+    "year": 1869,
+    "place": "Lemberg",
+    "source_span": "transferred by his heirs to the Lubomirski Museum in the Ossolinski Library, Lemberg (now Lviv, Ukraine) 1869",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "L'vov branch of the Library of the Ukranian Academy of Sciences",
+    "role": "collector",
+    "date": "2 January 1940",
+    "year": 1940,
+    "place": "L'vov",
+    "source_span": "on 2 January 1940, by decree of the People's Commissars of the Ukranian Soviet Socialist Republic, the Ossolinski Library ceased as a separate institution and was combined with other libraries into the L'vov branch of the Library of the Ukranian Academy of Sciences",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "K. Muhlmann",
+    "role": "confiscating agency",
+    "date": "July",
+    "year": 1941,
+    "place": null,
+    "source_span": "German troops took L'vov in June 1941, and in July K. Muhlmann, the German special representative for works of art, took the Lubomirski Dürer drawings",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Adolf Hitler",
+    "role": "other",
+    "date": "July",
+    "year": 1941,
+    "place": "Berlin",
+    "source_span": "took the Lubomirski Dürer drawings to Adolf Hitler in Berlin",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "German military",
+    "role": "other",
+    "date": "until 1945",
+    "year": null,
+    "place": null,
+    "source_span": "in the possession of the German military until 1945",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Munich Central Collecting Point",
+    "role": "collecting point",
+    "date": "April 1945",
+    "year": 1945,
+    "place": "Munich",
+    "source_span": "taken to the Munich Central Collecting Point, April 1945",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Prince Georg Lubomirski",
+    "role": "collector",
+    "date": "1950",
+    "year": 1950,
+    "place": null,
+    "source_span": "restituted to Prince Georg Lubomirski, Switzerland, 1950",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Colnaghi's",
+    "role": "dealer",
+    "date": "1954",
+    "year": 1954,
+    "place": "London",
+    "source_span": "(Colnaghi's, London, 1954)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Dr. Vitale Bloch",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "Dr. and Mrs. Vitale Bloch",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Mrs. Vitale Bloch",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "Dr. and Mrs. Vitale Bloch",
+    "joint": true,
+    "hedge": null
+   },
+   {
+    "owner": "Sotheby's",
+    "role": "auction",
+    "date": "28 June 1962",
+    "year": 1962,
+    "place": "London",
+    "source_span": "sale, London, Sotheby's, 28 June 1962",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "private collection, Nuremberg",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Nuremberg",
+    "source_span": "private collection, Nuremberg",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Rolf Kistner",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "Nuremberg",
+    "source_span": "(Rolf Kistner, Nuremberg)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Ian Woodner",
+    "role": "collector",
+    "date": "14 May 1985",
+    "year": 1985,
+    "place": "New York",
+    "source_span": "purchased by Ian Woodner, New York, 14 May 1985",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Andrea Woodner",
+    "role": "heir",
+    "date": "1990",
+    "year": 1990,
+    "place": "New York",
+    "source_span": "by inheritance to his daughters, Andrea and Dian Woodner, New York, 1990",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Dian Woodner",
+    "role": "heir",
+    "date": "1990",
+    "year": 1990,
+    "place": "New York",
+    "source_span": "by inheritance to his daughters, Andrea and Dian Woodner, New York, 1990",
+    "joint": true,
+    "hedge": null
+   },
+   {
+    "owner": "National Gallery of Art",
+    "role": "museum",
+    "date": "1991",
+    "year": 1991,
+    "place": null,
+    "source_span": "gift to NGA, 1991",
+    "joint": false,
+    "hedge": null
+   }
+  ]
+ },
+ {
+  "id": "53128",
+  "events": [
+   {
+    "owner": "Galerie Kahnweiler",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "Paris",
+    "source_span": "(Galerie Kahnweiler, Paris)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Carl Hagemann",
+    "role": "collector",
+    "date": "by 1915",
+    "year": 1915,
+    "place": "Frankfurt am Main",
+    "source_span": "Carl Hagemann [1867-1940], Frankfurt am Main, by 1915",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Museum Folkwang",
+    "role": "museum",
+    "date": "by 1934",
+    "year": 1934,
+    "place": "Essen",
+    "source_span": "Museum Folkwang, Essen, by 1934",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "German government",
+    "role": "confiscating agency",
+    "date": "25 August 1937",
+    "year": 1937,
+    "place": null,
+    "source_span": "Confiscated on 25 August 1937 by the German government",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Buchholz Gallery",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "Berlin",
+    "source_span": "(Buchholz Gallery, Berlin)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Valentine Gallery",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "New York",
+    "source_span": "(Valentine Gallery, New York)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Marie N. Harriman",
+    "role": "collector",
+    "date": "1943",
+    "year": 1943,
+    "place": "New York",
+    "source_span": "by exchange 1943 to Marie N. Harriman [1903-1970] and W. Averell Harriman [1891-1986], New York",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "W. Averell Harriman",
+    "role": "collector",
+    "date": "1943",
+    "year": 1943,
+    "place": "New York",
+    "source_span": "by exchange 1943 to Marie N. Harriman [1903-1970] and W. Averell Harriman [1891-1986], New York",
+    "joint": true,
+    "hedge": null
+   },
+   {
+    "owner": "W. Averell Harriman Foundation",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "W. Averell Harriman Foundation",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "National Gallery of Art",
+    "role": "museum",
+    "date": "1972",
+    "year": 1972,
+    "place": null,
+    "source_span": "gift 1972 to NGA",
+    "joint": false,
+    "hedge": null
+   }
+  ]
+ },
+ {
+  "id": "139276",
+  "events": [
+   {
+    "owner": "Baron von Bernus",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Heidelberg",
+    "source_span": "Possibly Baron von Bernus, Heidelberg",
+    "joint": false,
+    "hedge": "Possibly"
+   },
+   {
+    "owner": "Galerie Dr. H. Burg",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "Cologne",
+    "source_span": "(Galerie Dr. H. Burg, Cologne)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Dr. Georg S.Hirschland",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Essen",
+    "source_span": "Dr. Georg S.Hirschland [1885-1942], Essen and New York",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Museum Folkwang",
+    "role": "museum",
+    "date": "1939",
+    "year": 1939,
+    "place": "Essen",
+    "source_span": "In 1939 the Museum Folkwang and the city of Essen raised the funds to purchase the collection",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "city of Essen",
+    "role": "collector",
+    "date": "1939",
+    "year": 1939,
+    "place": "Essen",
+    "source_span": "In 1939 the Museum Folkwang and the city of Essen raised the funds to purchase the collection",
+    "joint": true,
+    "hedge": null
+   },
+   {
+    "owner": "Hirschland estate",
+    "role": "heir",
+    "date": "By 1951",
+    "year": 1951,
+    "place": null,
+    "source_span": "By 1951 it appears that all but one of the Hirschland objects in the British zone had been released to the estate",
+    "joint": false,
+    "hedge": "it appears"
+   },
+   {
+    "owner": "Fred Triest",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": "San Francisco",
+    "source_span": "his son-in-law, Fred Triest [1914-1999], San Francisco",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Wolfgang Ratjen",
+    "role": "collector",
+    "date": "1996",
+    "year": 1996,
+    "place": "Munich",
+    "source_span": "sold 1996 to Wolfgang Ratjen, Munich",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "National Gallery of Art",
+    "role": "museum",
+    "date": "2007",
+    "year": 2007,
+    "place": null,
+    "source_span": "purchased 2007 by NGA",
+    "joint": false,
+    "hedge": null
+   }
+  ]
+ },
+ {
+  "id": "3199",
+  "events": [
+   {
+    "owner": "De Burlett",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Berlin",
+    "source_span": "De Burlett, Berlin",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Étienne Bignou",
+    "role": "dealer",
+    "date": "by 1927",
+    "year": 1927,
+    "place": "Paris",
+    "source_span": "(Étienne Bignou, Paris), by 1927",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Chester Dale",
+    "role": "collector",
+    "date": "25 March 1931",
+    "year": 1931,
+    "place": "New York",
+    "source_span": "purchased 25 March 1931 by Chester Dale [1883-1962], New York",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "National Gallery of Art",
+    "role": "museum",
+    "date": "1942",
+    "year": 1942,
+    "place": null,
+    "source_span": "gift 1942 to NGA",
+    "joint": false,
+    "hedge": null
+   }
+  ]
+ },
+ {
+  "id": "422",
+  "events": [
+   {
+    "owner": "Comtesse De Lezze",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Nice",
+    "source_span": "Comtesse De Lezze, Nice",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "Florence",
+    "source_span": "(Count Alessandro Contini Bonacossi, Florence)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Samuel H. Kress Foundation",
+    "role": "collector",
+    "date": "October 1937",
+    "year": 1937,
+    "place": "New York",
+    "source_span": "sold October 1937 to the Samuel H. Kress Foundation, New York",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "National Gallery of Art",
+    "role": "museum",
+    "date": "1939",
+    "year": 1939,
+    "place": null,
+    "source_span": "gift 1939 to NGA",
+    "joint": false,
+    "hedge": null
+   }
+  ]
+ },
+ {
+  "id": "73398",
+  "events": [
+   {
+    "owner": "Eugen Gutmann",
+    "role": "collector",
+    "date": "by 1912",
+    "year": 1912,
+    "place": "Berlin",
+    "source_span": "Eugen Gutmann [1840-1925], Berlin, by 1912",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Gutmann heirs",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "Gutmann heirs, Holland",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Karl Haberstock",
+    "role": "dealer",
+    "date": "1942",
+    "year": 1942,
+    "place": null,
+    "source_span": "This object was sold in 1942 with the Gutmann collection of 225 silver, jewelry and Renaissance objects to the dealers Karl Haberstock and Julius Boehler",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Julius Boehler",
+    "role": "dealer",
+    "date": "1942",
+    "year": 1942,
+    "place": null,
+    "source_span": "This object was sold in 1942 with the Gutmann collection of 225 silver, jewelry and Renaissance objects to the dealers Karl Haberstock and Julius Boehler",
+    "joint": true,
+    "hedge": null
+   },
+   {
+    "owner": "Munich Central Collecting Point",
+    "role": "collecting point",
+    "date": null,
+    "year": null,
+    "place": "Munich",
+    "source_span": "sent to the Munich Central Collecting Point",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Dutch government",
+    "role": "other",
+    "date": "8 July 1946",
+    "year": 1946,
+    "place": null,
+    "source_span": "This sculpture was restituted to the Dutch government with others from the Gutmann collection on 8 July 1946",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Sotheby's",
+    "role": "auction",
+    "date": "22 June 1989",
+    "year": 1989,
+    "place": "New York",
+    "source_span": "(sale, Sotheby's, New York, 22 June 1989, no. 150)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Ellin Mitchell",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "New York",
+    "source_span": "(Ellin Mitchell, New York)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "National Gallery of Art",
+    "role": "museum",
+    "date": "7 June 1991",
+    "year": 1991,
+    "place": null,
+    "source_span": "purchased 7 June 1991 by NGA",
+    "joint": false,
+    "hedge": null
+   }
+  ]
+ },
+ {
+  "id": "297",
+  "events": [
+   {
+    "owner": "Bernardo de' Rossi",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "Bernardo de' Rossi",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Palazzo Farnese",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Parma",
+    "source_span": "Probably Palazzo Farnese, Parma",
+    "joint": false,
+    "hedge": "Probably"
+   },
+   {
+    "owner": "Antonio Bertioli",
+    "role": "collector",
+    "date": "by 1791",
+    "year": 1791,
+    "place": "Parma",
+    "source_span": "Antonio Bertioli, Parma, by 1791",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Giacomo Gritti",
+    "role": "collector",
+    "date": "by c. 1880",
+    "year": 1880,
+    "place": "Bergamo",
+    "source_span": "Giacomo Gritti, Bergamo, by c. 1880",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Sotheby's",
+    "role": "auction",
+    "date": "9 May 1934",
+    "year": 1934,
+    "place": "London",
+    "source_span": "(sale, Sotheby's, London, 9 May 1934, no. 129)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Martin Asscher",
+    "role": "collector",
+    "date": null,
+    "year": 1934,
+    "place": "London",
+    "source_span": "purchased by Martin Asscher, London",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "Florence",
+    "source_span": "(Count Alessandro Contini Bonacossi, Florence and Rome)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Samuel H. Kress Foundation",
+    "role": "collector",
+    "date": "1935",
+    "year": 1935,
+    "place": "New York",
+    "source_span": "sold 1935 to the Samuel H. Kress Foundation, New York",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "National Gallery of Art",
+    "role": "museum",
+    "date": "1939",
+    "year": 1939,
+    "place": null,
+    "source_span": "gift 1939 to NGA",
+    "joint": false,
+    "hedge": null
+   }
+  ]
+ },
+ {
+  "id": "51136",
+  "events": [
+   {
+    "owner": "Gustave Caillebotte",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Paris",
+    "source_span": "Possibly Gustave Caillebotte [1848-1894], Paris",
+    "joint": false,
+    "hedge": "Possibly"
+   },
+   {
+    "owner": "Alexandre Berthier, Prince de Wagram",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Paris",
+    "source_span": "Alexandre Berthier [1883-1918], Prince de Wagram, Paris",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Élisabeth Marguerite, Princesse de La Tour d'Auvergne-Lauraguais",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "probably by inheritance to his sister, Élisabeth Marguerite, Princesse de La Tour d'Auvergne-Lauraguais",
+    "joint": false,
+    "hedge": "probably"
+   },
+   {
+    "owner": "Wagram heirs",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "sold by Wagram heirs",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Canadeesche Hypothek Bank",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "sold by Wagram heirs though (Canadeesche Hypothek Bank)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Étienne Bignou",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "Paris",
+    "source_span": "through (Étienne Bignou, Paris)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Alex Reid & Lefèvre",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "London",
+    "source_span": "to (Alex Reid & Lefèvre, London)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "M. Knoedler & Co.",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "London",
+    "source_span": "on joint account with (M. Knoedler & Co., London, New York and Paris)",
+    "joint": true,
+    "hedge": null
+   },
+   {
+    "owner": "Marcel Kapferer",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "and (Marcel Kapferer)",
+    "joint": true,
+    "hedge": null
+   },
+   {
+    "owner": "M. Knoedler & Co.",
+    "role": "dealer",
+    "date": "5 October 1929",
+    "year": 1929,
+    "place": "New York",
+    "source_span": "sold 5 October 1929 to (M. Knoedler & Co., New York)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Baron Maurice de Rothschild",
+    "role": "collector",
+    "date": "1929",
+    "year": 1929,
+    "place": "Paris",
+    "source_span": "sold 1929 to Baron Maurice de Rothschild [1881-1957], Paris",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Wildenstein and Co.",
+    "role": "dealer",
+    "date": "by 1933",
+    "year": 1933,
+    "place": "London",
+    "source_span": "probably sold or consigned by 1933 to (Wildenstein and Co., London, New York and Paris)",
+    "joint": false,
+    "hedge": "probably"
+   },
+   {
+    "owner": "Angelica Wertheim Frink",
+    "role": "collector",
+    "date": "by 1941",
+    "year": 1941,
+    "place": "New York",
+    "source_span": "Angelica Wertheim Frink [1884-1969], New York, by 1941",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "National Gallery of Art",
+    "role": "museum",
+    "date": "1970",
+    "year": 1970,
+    "place": null,
+    "source_span": "gift 1970 to NGA",
+    "joint": false,
+    "hedge": null
+   }
+  ]
+ },
+ {
+  "id": "73851",
+  "events": [
+   {
+    "owner": "Javier Goya y Bayeu",
+    "role": "collector",
+    "date": "1828",
+    "year": 1828,
+    "place": null,
+    "source_span": "Javier Goya y Bayeu (1828)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Mariano Goya y Goicoechea",
+    "role": "collector",
+    "date": "1854",
+    "year": 1854,
+    "place": null,
+    "source_span": "Mariano Goya y Goicoechea (1854)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Federico de Madrazo",
+    "role": "collector",
+    "date": "c. 1855-1860",
+    "year": 1855,
+    "place": null,
+    "source_span": "Federico de Madrazo and/or Román Garreta y Huerta (c. 1855-1860)",
+    "joint": false,
+    "hedge": "and/or"
+   },
+   {
+    "owner": "Román Garreta y Huerta",
+    "role": "collector",
+    "date": "c. 1855-1860",
+    "year": 1855,
+    "place": null,
+    "source_span": "Federico de Madrazo and/or Román Garreta y Huerta (c. 1855-1860)",
+    "joint": true,
+    "hedge": "and/or"
+   },
+   {
+    "owner": "Paul Lebas",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "Paul Lebas",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Hôtel Drouot",
+    "role": "auction",
+    "date": "3 April 1877",
+    "year": 1877,
+    "place": "Paris",
+    "source_span": "(sale, Paris, Hôtel Drouot, 3 April 1877, no. 72)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Baron Etienne Martin de Beurnonville",
+    "role": "collector",
+    "date": null,
+    "year": 1877,
+    "place": null,
+    "source_span": "purchased by Baron Etienne Martin de Beurnonville",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Hôtel Drouot",
+    "role": "auction",
+    "date": "16-19 February 1885",
+    "year": 1885,
+    "place": "Paris",
+    "source_span": "sale, Paris, Hôtel Drouot, 16-19 February 1885",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Philippe",
+    "role": "collector",
+    "date": null,
+    "year": 1885,
+    "place": null,
+    "source_span": "to Philippe",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "private collection, Paris",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Paris",
+    "source_span": "private collection, Paris",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Alfred Strölin",
+    "role": "collector",
+    "date": "by September 1933",
+    "year": 1933,
+    "place": "Lausanne",
+    "source_span": "Alfred Strölin, Lausanne, by September 1933",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Ian Woodner",
+    "role": "collector",
+    "date": "21 July 1983",
+    "year": 1983,
+    "place": "New York",
+    "source_span": "purchased by Ian Woodner, New York, 21 July 1983",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Andrea Woodner",
+    "role": "heir",
+    "date": "1990",
+    "year": 1990,
+    "place": "New York",
+    "source_span": "by inheritance to his daughters, Andrea and Dian Woodner, New York, 1990",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Dian Woodner",
+    "role": "heir",
+    "date": "1990",
+    "year": 1990,
+    "place": "New York",
+    "source_span": "by inheritance to his daughters, Andrea and Dian Woodner, New York, 1990",
+    "joint": true,
+    "hedge": null
+   },
+   {
+    "owner": "National Gallery of Art",
+    "role": "museum",
+    "date": "1991",
+    "year": 1991,
+    "place": null,
+    "source_span": "gift to NGA, 1991",
+    "joint": false,
+    "hedge": null
+   }
+  ]
+ },
+ {
+  "id": "46246",
+  "events": [
+   {
+    "owner": "Trivulzio Collection",
+    "role": "collector",
+    "date": "by 1874",
+    "year": 1874,
+    "place": "Milan",
+    "source_span": "Trivulzio Collection, Milan, by 1874",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Alessandro Contini Bonacossi",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "Rome",
+    "source_span": "(Alessandro Contini Bonacossi, 1878-1955, Rome and Florence)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Samuel H. Kress",
+    "role": "collector",
+    "date": "26 June 1935",
+    "year": 1935,
+    "place": "New York",
+    "source_span": "purchased 26 June 1935 by Samuel H. Kress (1863-1955), New York",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Samuel H. Kress Foundation",
+    "role": "collector",
+    "date": "27 September 1950",
+    "year": 1950,
+    "place": "New York",
+    "source_span": "gift 27 September 1950 to the Samuel H. Kress Foundation, New York",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "National Gallery of Art",
+    "role": "museum",
+    "date": "1961",
+    "year": 1961,
+    "place": null,
+    "source_span": "gift 1961 to NGA",
+    "joint": false,
+    "hedge": null
+   }
+  ]
+ },
+ {
+  "id": "277",
+  "events": [
+   {
+    "owner": "Eugene Kraemer",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "Eugene Kraemer",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Galerie Georges Petit",
+    "role": "auction",
+    "date": "5-6 May 1913",
+    "year": 1913,
+    "place": "Paris",
+    "source_span": "(his estate sale, Galerie Georges Petit, Paris, 5-6 May 1913, no. 1)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Prince Giovannelli",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Venice",
+    "source_span": "Prince Giovannelli, Venice",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "Florence",
+    "source_span": "Count Alessandro Contini Bonacossi [1878-1955], Florence and Rome",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Samuel H. Kress Foundation",
+    "role": "collector",
+    "date": "1933",
+    "year": 1933,
+    "place": "New York",
+    "source_span": "sold 1933 to the Samuel H. Kress Foundation, New York",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "National Gallery of Art",
+    "role": "museum",
+    "date": "1939",
+    "year": 1939,
+    "place": null,
+    "source_span": "gift 1939 to NGA",
+    "joint": false,
+    "hedge": null
+   }
+  ]
+ },
+ {
+  "id": "46286",
+  "events": [
+   {
+    "owner": "Trivulzio collection",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Milan",
+    "source_span": "Reportedly Trivulzio collection, Milan",
+    "joint": false,
+    "hedge": "Reportedly"
+   },
+   {
+    "owner": "Alessandro Contini Bonacossi",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "Rome",
+    "source_span": "(Alessandro Contini Bonacossi, 1878-1955, Rome and Florence)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Samuel H. Kress",
+    "role": "collector",
+    "date": "26 June 1935",
+    "year": 1935,
+    "place": "New York",
+    "source_span": "purchased 26 June 1935 by Samuel H. Kress (1863-1955), New York",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Samuel H. Kress Foundation",
+    "role": "collector",
+    "date": "27 September 1950",
+    "year": 1950,
+    "place": "New York",
+    "source_span": "gift 27 September 1950 to the Samuel H. Kress Foundation, New York",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "National Gallery of Art",
+    "role": "museum",
+    "date": "1961",
+    "year": 1961,
+    "place": null,
+    "source_span": "gift 1961 to NGA",
+    "joint": false,
+    "hedge": null
+   }
+  ]
+ },
+ {
+  "id": "46090",
+  "events": [
+   {
+    "owner": "Doctor Vaucaire",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Paris",
+    "source_span": "Possibly Doctor Vaucaire, Paris",
+    "joint": false,
+    "hedge": "Possibly"
+   },
+   {
+    "owner": "Mme Berne-Bellecour",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Paris",
+    "source_span": "Possibly Mme Berne-Bellecour, Paris",
+    "joint": false,
+    "hedge": "Possibly"
+   },
+   {
+    "owner": "Dr. Georges de Bellio",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Paris",
+    "source_span": "Probably Dr. Georges de Bellio [1828-1894], Paris",
+    "joint": false,
+    "hedge": "Probably"
+   },
+   {
+    "owner": "Ernest Donop de Monchy",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": "Paris",
+    "source_span": "probably by inheritance to M et Mme [she, née Victorine de Bellio, 1863-1958] Ernest Donop de Monchy, Paris",
+    "joint": false,
+    "hedge": "probably"
+   },
+   {
+    "owner": "Mme Ernest Donop de Monchy (née Victorine de Bellio)",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": "Paris",
+    "source_span": "probably by inheritance to M et Mme [she, née Victorine de Bellio, 1863-1958] Ernest Donop de Monchy, Paris",
+    "joint": true,
+    "hedge": "probably"
+   },
+   {
+    "owner": "Alexandre Berthier, 4th Prince de Wagram",
+    "role": "collector",
+    "date": "1906",
+    "year": 1906,
+    "place": "Paris",
+    "source_span": "sold probably 1906 to Alexandre Berthier [1883-1918], 4th Prince de Wagram, Paris",
+    "joint": false,
+    "hedge": "probably"
+   },
+   {
+    "owner": "Élisabeth Marguerite, Princesse de La Tour d'Auvergne-Lauraguais",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": "Paris",
+    "source_span": "probably by inheritance to his sister, Élisabeth Marguerite, Princesse de La Tour d'Auvergne-Lauraguais, Paris",
+    "joint": false,
+    "hedge": "probably"
+   },
+   {
+    "owner": "Wagram heirs",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "sold by Wagram heirs",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Canadeesche Hypothek Bank",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "sold by Wagram heirs though (Canadeesche Hypothek Bank)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Étienne Bignou",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "Paris",
+    "source_span": "through (Étienne Bignou, Paris)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Alex Reid & Lefèvre",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "London",
+    "source_span": "to (Alex Reid & Lefèvre, London)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "M. Knoedler & Co.",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "London",
+    "source_span": "on joint account with (M. Knoedler & Co., London, New York and Paris)",
+    "joint": true,
+    "hedge": null
+   },
+   {
+    "owner": "Marcel Kapferer",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "and (Marcel Kapferer)",
+    "joint": true,
+    "hedge": null
+   },
+   {
+    "owner": "Baron Maurice de Rothschild",
+    "role": "collector",
+    "date": "September 1929",
+    "year": 1929,
+    "place": "Paris",
+    "source_span": "sold September 1929 to Baron Maurice de Rothschild [1881-1957], Paris",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Paul Rosenberg et Cie.",
+    "role": "dealer",
+    "date": "by 1934",
+    "year": 1934,
+    "place": "Paris",
+    "source_span": "(Paul Rosenberg et Cie., Paris), by 1934",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Dr. David M. Levy",
+    "role": "collector",
+    "date": "by 1941",
+    "year": 1941,
+    "place": "New York",
+    "source_span": "Acquired by 1941 by Dr. David M. [1892-1977] and Adele Rosenwald [1892-1960] Levy, New York",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Adele Rosenwald Levy",
+    "role": "collector",
+    "date": "by 1941",
+    "year": 1941,
+    "place": "New York",
+    "source_span": "Acquired by 1941 by Dr. David M. [1892-1977] and Adele Rosenwald [1892-1960] Levy, New York",
+    "joint": true,
+    "hedge": null
+   },
+   {
+    "owner": "National Gallery of Art",
+    "role": "museum",
+    "date": "1961",
+    "year": 1961,
+    "place": null,
+    "source_span": "gift 1961 to NGA",
+    "joint": false,
+    "hedge": null
+   }
+  ]
+ },
+ {
+  "id": "182",
+  "events": [
+   {
+    "owner": "contessa Giustiniani",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Genoa",
+    "source_span": "are stated to have come from the collection of a contessa Giustiniani, Genoa",
+    "joint": false,
+    "hedge": "stated to have"
+   },
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "Rome",
+    "source_span": "(Count Alessandro Contini Bonacossi, Rome)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Samuel H. Kress Foundation",
+    "role": "collector",
+    "date": "July 1930",
+    "year": 1930,
+    "place": "New York",
+    "source_span": "sold July 1930 to the Samuel H. Kress Foundation, New York",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "National Gallery of Art",
+    "role": "museum",
+    "date": "1939",
+    "year": 1939,
+    "place": null,
+    "source_span": "gift 1939 to NGA",
+    "joint": false,
+    "hedge": null
+   }
+  ]
+ },
+ {
+  "id": "172",
+  "events": [
+   {
+    "owner": "Charles Fairfax Murray",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "London",
+    "source_span": "(Charles Fairfax Murray [1849-1919], London and Florence)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "Rome",
+    "source_span": "(Count Alessandro Contini Bonacossi [1878-1955], Rome)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Samuel H. Kress Foundation",
+    "role": "collector",
+    "date": "1929",
+    "year": 1929,
+    "place": "New York",
+    "source_span": "sold 1929 to the Samuel H. Kress Foundation, New York",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "National Gallery of Art",
+    "role": "museum",
+    "date": "1939",
+    "year": 1939,
+    "place": null,
+    "source_span": "gift 1939 to NGA",
+    "joint": false,
+    "hedge": null
+   }
+  ]
+ },
+ {
+  "id": "285",
+  "events": [
+   {
+    "owner": "Contessa di Breganze",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Venice",
+    "source_span": "Contessa di Breganze, Venice",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "Florence",
+    "source_span": "(Count Alessandro Contini Bonacossi [1878-1955], Florence and Rome)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Samuel H. Kress Foundation",
+    "role": "collector",
+    "date": "1934",
+    "year": 1934,
+    "place": "New York",
+    "source_span": "sold 1934 to the Samuel H. Kress Foundation, New York",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "National Gallery of Art",
+    "role": "museum",
+    "date": "1939",
+    "year": 1939,
+    "place": null,
+    "source_span": "gift 1939 to NGA",
+    "joint": false,
+    "hedge": null
+   }
+  ]
+ },
+ {
+  "id": "1609",
+  "events": [
+   {
+    "owner": "Jacopo Luis Francesco Pablo Rafael FitzJames-Stuart, 8th duke of Berwick and 15th duke (duque in Spanish) of Alba",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Madrid",
+    "source_span": "Probably Jacopo Luis Francesco Pablo Rafael FitzJames-Stuart, 8th duke of Berwick and 15th duke (duque in Spanish) of Alba [1821-1881], Liria Palace, Madrid",
+    "joint": false,
+    "hedge": "Probably"
+   },
+   {
+    "owner": "Hôtel Drouot",
+    "role": "auction",
+    "date": "7-20 April 1877",
+    "year": 1877,
+    "place": "Paris",
+    "source_span": "(Alba sale, Hôtel Drouot, Paris, 7-20 April 1877",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "French and Company",
+    "role": "dealer",
+    "date": null,
+    "year": 1877,
+    "place": null,
+    "source_span": "the tapestry was purchased by French and Company",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Baron d'Erlanger",
+    "role": "collector",
+    "date": "by 1880",
+    "year": 1880,
+    "place": "Paris",
+    "source_span": "Baron d'Erlanger, Paris, by 1880",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Marsden Jasiel Perry",
+    "role": "collector",
+    "date": "by 1913",
+    "year": 1913,
+    "place": "Providence",
+    "source_span": "Marsden Jasiel Perry [1850-1935], Providence, Rhode Island, by 1913",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "French and Company",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "New York",
+    "source_span": "sold to (French and Company, New York)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Joseph E. Widener",
+    "role": "collector",
+    "date": "1 November 1921",
+    "year": 1921,
+    "place": "Elkins Park",
+    "source_span": "after purchase 1 November 1921 by funds of Joseph E. Widener",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Estate of Peter A.B. Widener",
+    "role": "heir",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "inheritance from Estate of Peter A.B. Widener",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "National Gallery of Art",
+    "role": "museum",
+    "date": "1942",
+    "year": 1942,
+    "place": null,
+    "source_span": "gift 1942 to NGA",
+    "joint": false,
+    "hedge": null
+   }
+  ]
+ },
+ {
+  "id": "11589",
+  "events": [
+   {
+    "owner": "H. Walferdin",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "H. Walferdin",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Hôtel Drouot",
+    "role": "auction",
+    "date": "12-16 April 1880",
+    "year": 1880,
+    "place": "Paris",
+    "source_span": "(his sale, Hôtel Drouot, Paris, 12-16 April 1880, no. 228)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Jacques Doucet",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Paris",
+    "source_span": "Jacques Doucet [1853-1929], Paris",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Louis Olry-Roederer",
+    "role": "collector",
+    "date": "1912",
+    "year": 1912,
+    "place": null,
+    "source_span": "bought 1912 by Louis Olry-Roederer",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Lessing J. Rosenwald",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "Lessing J. Rosenwald",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "National Gallery of Art",
+    "role": "museum",
+    "date": "1943",
+    "year": 1943,
+    "place": null,
+    "source_span": "gift 1943 to NGA",
+    "joint": false,
+    "hedge": null
+   }
+  ]
+ },
+ {
+  "id": "46224",
+  "events": [
+   {
+    "owner": "Trivulzio Collection",
+    "role": "collector",
+    "date": "by 1844",
+    "year": 1844,
+    "place": "Milan",
+    "source_span": "Trivulzio Collection, Milan, by 1844",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Alessandro Contini Bonacossi",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "Rome",
+    "source_span": "(Alessandro Contini Bonacossi, 1878-1955, Rome and Florence)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Samuel H. Kress",
+    "role": "collector",
+    "date": "26 June 1935",
+    "year": 1935,
+    "place": "New York",
+    "source_span": "purchased 26 June 1935 by Samuel H. Kress (1863-1955), New York",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Samuel H. Kress Foundation",
+    "role": "collector",
+    "date": "27 September 1950",
+    "year": 1950,
+    "place": "New York",
+    "source_span": "gift 27 September 1950 to the Samuel H. Kress Foundation, New York",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "National Gallery of Art",
+    "role": "museum",
+    "date": "1961",
+    "year": 1961,
+    "place": null,
+    "source_span": "gift 1961 to NGA",
+    "joint": false,
+    "hedge": null
+   }
+  ]
+ },
+ {
+  "id": "46488",
+  "events": [
+   {
+    "owner": "Verdier",
+    "role": "collector",
+    "date": "by 1878",
+    "year": 1878,
+    "place": "Paris",
+    "source_span": "Verdier, Paris, by 1878",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Egisto Fabbri",
+    "role": "collector",
+    "date": "by 1901",
+    "year": 1901,
+    "place": "Florence",
+    "source_span": "Egisto Fabbri [1866-1933], Florence, by 1901",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Henri Rouart",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Paris",
+    "source_span": "Henri Rouart [1833-1912], Paris",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Galerie Manzi-Joyant",
+    "role": "auction",
+    "date": "9 December 1912",
+    "year": 1912,
+    "place": "Paris",
+    "source_span": "(his sale, Galerie Manzi-Joyant, Paris, 9 December 1912, no. 164",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Modernen Galerie Heinrich Thannhauser",
+    "role": "dealer",
+    "date": null,
+    "year": 1912,
+    "place": "Munich",
+    "source_span": "purchased by (Modernen Galerie Heinrich Thannhauser, Munich)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Werner Feuz",
+    "role": "collector",
+    "date": "by 1926",
+    "year": 1926,
+    "place": "Bern",
+    "source_span": "Werner Feuz, Bern, by 1926",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Alex Reid and Lefevre, Ltd.",
+    "role": "dealer",
+    "date": "1927",
+    "year": 1927,
+    "place": "Glasgow",
+    "source_span": "sold 1927 to (Alex Reid and Lefevre, Ltd., Glasgow)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "M. Knoedler & Co.",
+    "role": "dealer",
+    "date": "1927",
+    "year": 1927,
+    "place": "London",
+    "source_span": "on joint account 1927 with (M. Knoedler & Co., London, New York and Paris)",
+    "joint": true,
+    "hedge": null
+   },
+   {
+    "owner": "Raphael Gérard",
+    "role": "dealer",
+    "date": "1930",
+    "year": 1930,
+    "place": "Paris",
+    "source_span": "sold 1930 by (Alex Reid and Lefèvre, Ltd., Glasgow) to (Raphael Gérard, Paris)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "M. Knoedler & Co.",
+    "role": "dealer",
+    "date": "May 1930",
+    "year": 1930,
+    "place": "London",
+    "source_span": "sold May 1930 to (M. Knoedler & Co., London, New York, and Paris)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Étienne Bignou",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "Paris",
+    "source_span": "on joint account with (Étienne Bignou, Paris and New York)",
+    "joint": true,
+    "hedge": null
+   },
+   {
+    "owner": "Chester Dale",
+    "role": "collector",
+    "date": "March 1933",
+    "year": 1933,
+    "place": "New York",
+    "source_span": "sold March 1933 to Chester Dale [1883-1962], New York",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "National Gallery of Art",
+    "role": "museum",
+    "date": "1963",
+    "year": 1963,
+    "place": null,
+    "source_span": "bequest 1963 to NGA",
+    "joint": false,
+    "hedge": null
+   }
+  ]
+ },
+ {
+  "id": "165",
+  "events": [
+   {
+    "owner": "The Dowager Countess of Norfolk",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": null,
+    "source_span": "The Dowager Countess of Norfolk",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Christie, Manson & Woods",
+    "role": "auction",
+    "date": "20 November 1925",
+    "year": 1925,
+    "place": "London",
+    "source_span": "(Christie, Manson & Woods, London, 20 November 1925, no. 69)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "William Sabin",
+    "role": "dealer",
+    "date": null,
+    "year": 1925,
+    "place": "London",
+    "source_span": "bought by (William Sabin, London)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Count Alessandro Contini Bonacossi",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "Rome",
+    "source_span": "sold presumably by him to (Count Alessandro Contini Bonacossi, Rome)",
+    "joint": false,
+    "hedge": "presumably"
+   },
+   {
+    "owner": "Samuel H. Kress",
+    "role": "collector",
+    "date": "October 1927",
+    "year": 1927,
+    "place": "New York",
+    "source_span": "purchased October 1927 by Samuel H. Kress [1863-1955], New York",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "National Gallery of Art",
+    "role": "museum",
+    "date": "1939",
+    "year": 1939,
+    "place": null,
+    "source_span": "gift 1939 to NGA",
+    "joint": false,
+    "hedge": null
+   }
+  ]
+ },
+ {
+  "id": "46258",
+  "events": [
+   {
+    "owner": "Leopoldo Cicognara",
+    "role": "collector",
+    "date": null,
+    "year": null,
+    "place": "Venice",
+    "source_span": "Collection of Leopoldo Cicognara [1767-1834], Venice",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Enrico Conti",
+    "role": "collector",
+    "date": "before 1917(?)",
+    "year": null,
+    "place": "Milan",
+    "source_span": "Enrico Conti, Milan, before 1917(?)",
+    "joint": false,
+    "hedge": "(?)"
+   },
+   {
+    "owner": "Trivulzio collection",
+    "role": "collector",
+    "date": "after 1917",
+    "year": null,
+    "place": "Milan",
+    "source_span": "Trivulzio collection, Milan, after 1917",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Alessandro Contini Bonacossi",
+    "role": "dealer",
+    "date": null,
+    "year": null,
+    "place": "Rome",
+    "source_span": "(Alessandro Contini Bonacossi, 1878-1955, Rome and Florence)",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Samuel H. Kress",
+    "role": "collector",
+    "date": "26 June 1935",
+    "year": 1935,
+    "place": "New York",
+    "source_span": "purchased 26 June 1935 by Samuel H. Kress (1863-1955), New York",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "Samuel H. Kress Foundation",
+    "role": "collector",
+    "date": "27 September 1950",
+    "year": 1950,
+    "place": "New York",
+    "source_span": "gift 27 September 1950 to the Samuel H. Kress Foundation, New York",
+    "joint": false,
+    "hedge": null
+   },
+   {
+    "owner": "National Gallery of Art",
+    "role": "museum",
+    "date": "1961",
+    "year": 1961,
+    "place": null,
+    "source_span": "gift 1961 to NGA",
+    "joint": false,
+    "hedge": null
+   }
+  ]
+ }
+]

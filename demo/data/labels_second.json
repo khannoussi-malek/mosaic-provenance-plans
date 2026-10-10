@@ -1,0 +1,434 @@
+[
+ {
+  "id": "229508",
+  "same": "unclear",
+  "war": "no",
+  "role": "perpetrator",
+  "label": "no_flag",
+  "why": "Galerie J. Kugel vs Jacques Kugel unclear; acquired 2023, long after war"
+ },
+ {
+  "id": "52199",
+  "same": "yes",
+  "war": "yes",
+  "role": "perpetrator",
+  "label": "flag",
+  "why": "Goering traded ERR-confiscated Pissarro to Rochlitz 1941; held until 1945"
+ },
+ {
+  "id": "143662",
+  "same": "yes",
+  "war": "unclear",
+  "role": "perpetrator",
+  "label": "unsure",
+  "why": "Koenig/Koenigs 1881-1941 matches Franz Koenigs; no holding dates"
+ },
+ {
+  "id": "73852",
+  "same": "yes",
+  "war": "yes",
+  "role": "perpetrator",
+  "label": "flag",
+  "why": "Kajetan Muhlmann took Lubomirski drawings to Hitler, July 1941"
+ },
+ {
+  "id": "53128",
+  "same": "yes",
+  "war": "yes",
+  "role": "perpetrator",
+  "label": "flag",
+  "why": "Buchholz sold confiscated degenerate art after 1937; Valentine by 1943"
+ },
+ {
+  "id": "139276",
+  "same": "no",
+  "war": "unclear",
+  "role": "other",
+  "label": "no_flag",
+  "why": "List names Simeon Hirschland; owner is Georg S. Hirschland, different person"
+ },
+ {
+  "id": "3199",
+  "same": "yes",
+  "war": "no",
+  "role": "firm",
+  "label": "no_flag",
+  "why": "Bignou held 1927 to 1931 sale to Chester Dale"
+ },
+ {
+  "id": "422",
+  "same": "yes",
+  "war": "yes",
+  "role": "perpetrator",
+  "label": "flag",
+  "why": "Contini Bonacossi sold October 1937 to Kress"
+ },
+ {
+  "id": "73398",
+  "same": "yes",
+  "war": "yes",
+  "role": "perpetrator",
+  "label": "flag",
+  "why": "Haberstock and Boehler bought Gutmann collection 1942"
+ },
+ {
+  "id": "297",
+  "same": "yes",
+  "war": "yes",
+  "role": "perpetrator",
+  "label": "flag",
+  "why": "Contini Bonacossi held 1934-1935, sold to Kress"
+ },
+ {
+  "id": "51136",
+  "same": "yes",
+  "war": "no",
+  "role": "firm",
+  "label": "no_flag",
+  "why": "Text puts Bignou in 1929 Wagram sale; structured 1935 date conflicts"
+ },
+ {
+  "id": "46246",
+  "same": "yes",
+  "war": "yes",
+  "role": "perpetrator",
+  "label": "flag",
+  "why": "Contini Bonacossi sold June 1935 to Kress"
+ },
+ {
+  "id": "277",
+  "same": "yes",
+  "war": "yes",
+  "role": "perpetrator",
+  "label": "flag",
+  "why": "Contini Bonacossi sold 1933 to Kress; 1933 is inclusive"
+ },
+ {
+  "id": "46286",
+  "same": "yes",
+  "war": "yes",
+  "role": "perpetrator",
+  "label": "flag",
+  "why": "Contini Bonacossi sold June 1935 to Kress"
+ },
+ {
+  "id": "46090",
+  "same": "yes",
+  "war": "no",
+  "role": "firm",
+  "label": "no_flag",
+  "why": "Bignou handled Wagram sale before September 1929; structured 1935 conflicts"
+ },
+ {
+  "id": "182",
+  "same": "yes",
+  "war": "no",
+  "role": "perpetrator",
+  "label": "no_flag",
+  "why": "Contini Bonacossi sold July 1930, before 1933"
+ },
+ {
+  "id": "172",
+  "same": "yes",
+  "war": "no",
+  "role": "perpetrator",
+  "label": "no_flag",
+  "why": "Contini Bonacossi sold 1929, before 1933"
+ },
+ {
+  "id": "285",
+  "same": "yes",
+  "war": "yes",
+  "role": "perpetrator",
+  "label": "flag",
+  "why": "Contini Bonacossi sold 1934 to Kress"
+ },
+ {
+  "id": "11589",
+  "same": "yes",
+  "war": "no",
+  "role": "firm",
+  "label": "no_flag",
+  "why": "Hotel Drouot sale 1880"
+ },
+ {
+  "id": "46224",
+  "same": "yes",
+  "war": "yes",
+  "role": "perpetrator",
+  "label": "flag",
+  "why": "Contini Bonacossi sold June 1935 to Kress"
+ },
+ {
+  "id": "46488",
+  "same": "yes",
+  "war": "yes",
+  "role": "firm",
+  "label": "flag",
+  "why": "Bignou joint account 1930 until March 1933 sale; edge of window"
+ },
+ {
+  "id": "165",
+  "same": "yes",
+  "war": "no",
+  "role": "perpetrator",
+  "label": "no_flag",
+  "why": "Contini Bonacossi held 1925-1927"
+ },
+ {
+  "id": "46258",
+  "same": "yes",
+  "war": "yes",
+  "role": "perpetrator",
+  "label": "flag",
+  "why": "Contini Bonacossi sold June 1935 to Kress"
+ },
+ {
+  "id": "1262",
+  "same": "yes",
+  "war": "no",
+  "role": "firm",
+  "label": "no_flag",
+  "why": "Hotel Drouot sale 1897"
+ },
+ {
+  "id": "66424",
+  "same": "yes",
+  "war": "yes",
+  "role": "perpetrator",
+  "label": "flag",
+  "why": "Goering traded ERR-confiscated Matisse to Rochlitz 1941"
+ },
+ {
+  "id": "46681",
+  "same": "yes",
+  "war": "no",
+  "role": "firm",
+  "label": "no_flag",
+  "why": "Bignou sold September 1931 to Chester Dale"
+ },
+ {
+  "id": "61248",
+  "same": "unclear",
+  "war": "yes",
+  "role": "perpetrator",
+  "label": "unsure",
+  "why": "R. Baudoin vs Henri Baudoin uncertain per text; held from 1933"
+ },
+ {
+  "id": "46081",
+  "same": "no",
+  "war": "no",
+  "role": "perpetrator",
+  "label": "no_flag",
+  "why": "Jean Oppenheim, Paris dealer, differs from Benoit Oppenheim, Berlin collector"
+ },
+ {
+  "id": "3155",
+  "same": "unclear",
+  "war": "no",
+  "role": "other",
+  "label": "no_flag",
+  "why": "Arthur Goldschmidt vs J. and S. Goldschmidt firm unclear; 1923"
+ },
+ {
+  "id": "46163",
+  "same": "yes",
+  "war": "unclear",
+  "role": "perpetrator",
+  "label": "unsure",
+  "why": "Haberstock from 1928, possibly until 1936; Mez date uncertain"
+ },
+ {
+  "id": "46285",
+  "same": "yes",
+  "war": "yes",
+  "role": "perpetrator",
+  "label": "flag",
+  "why": "Contini Bonacossi sold June 1935 to Kress"
+ },
+ {
+  "id": "32679",
+  "same": "yes",
+  "war": "yes",
+  "role": "firm",
+  "label": "flag",
+  "why": "Wildenstein sold 1942 to Kress"
+ },
+ {
+  "id": "139213",
+  "same": "yes",
+  "war": "yes",
+  "role": "other",
+  "label": "flag",
+  "why": "Graupe auctioned Silberberg collection in Berlin, October 1935"
+ },
+ {
+  "id": "69390",
+  "same": "yes",
+  "war": "no",
+  "role": "firm",
+  "label": "no_flag",
+  "why": "Paul Cassirer held 1924, before window"
+ },
+ {
+  "id": "34056",
+  "same": "yes",
+  "war": "yes",
+  "role": "firm",
+  "label": "flag",
+  "why": "Knoedler brokered Clarke collection sale, January 1936"
+ },
+ {
+  "id": "563",
+  "same": "yes",
+  "war": "yes",
+  "role": "firm",
+  "label": "flag",
+  "why": "Knoedler brokered Clarke collection sale, January 1936"
+ },
+ {
+  "id": "470",
+  "same": "yes",
+  "war": "yes",
+  "role": "perpetrator",
+  "label": "flag",
+  "why": "Contini Bonacossi sold June 1937 to Kress"
+ },
+ {
+  "id": "497",
+  "same": "yes",
+  "war": "no",
+  "role": "perpetrator",
+  "label": "no_flag",
+  "why": "Trotti et Cie sold 1911"
+ },
+ {
+  "id": "34105",
+  "same": "yes",
+  "war": "yes",
+  "role": "firm",
+  "label": "flag",
+  "why": "Knoedler brokered Clarke collection sale, January 1936"
+ },
+ {
+  "id": "34068",
+  "same": "yes",
+  "war": "yes",
+  "role": "firm",
+  "label": "flag",
+  "why": "Knoedler brokered Clarke collection sale, January 1936"
+ },
+ {
+  "id": "111",
+  "same": "yes",
+  "war": "no",
+  "role": "firm",
+  "label": "no_flag",
+  "why": "Knoedler held 1906-1907"
+ },
+ {
+  "id": "61369",
+  "same": "yes",
+  "war": "unclear",
+  "role": "firm",
+  "label": "unsure",
+  "why": "Bignou possibly held between Vollard (1936) and Cargill (1956); undated"
+ },
+ {
+  "id": "46207",
+  "same": "yes",
+  "war": "yes",
+  "role": "perpetrator",
+  "label": "flag",
+  "why": "Contini Bonacossi sold June 1935 to Kress"
+ },
+ {
+  "id": "895",
+  "same": "yes",
+  "war": "yes",
+  "role": "firm",
+  "label": "flag",
+  "why": "Galerie Bignou held 1929 until 1941 sale to Phillips"
+ },
+ {
+  "id": "309",
+  "same": "yes",
+  "war": "yes",
+  "role": "perpetrator",
+  "label": "flag",
+  "why": "Contini Bonacossi held 1930-1935, sold June 1935"
+ },
+ {
+  "id": "46223",
+  "same": "yes",
+  "war": "yes",
+  "role": "perpetrator",
+  "label": "flag",
+  "why": "Contini Bonacossi sold June 1935 to Kress"
+ },
+ {
+  "id": "12111",
+  "same": "yes",
+  "war": "yes",
+  "role": "perpetrator",
+  "label": "flag",
+  "why": "Contini Bonacossi held by 1938, sold September 1939"
+ },
+ {
+  "id": "119049",
+  "same": "yes",
+  "war": "no",
+  "role": "firm",
+  "label": "no_flag",
+  "why": "Drouot 1898 and Durand-Ruel 1898-1913, before window"
+ },
+ {
+  "id": "46682",
+  "same": "yes",
+  "war": "no",
+  "role": "other",
+  "label": "no_flag",
+  "why": "Reber intermediary around 1928, before window"
+ },
+ {
+  "id": "41639",
+  "same": "yes",
+  "war": "yes",
+  "role": "firm",
+  "label": "flag",
+  "why": "Wildenstein New York sold December 1943 to Kress"
+ },
+ {
+  "id": "46273",
+  "same": "yes",
+  "war": "yes",
+  "role": "perpetrator",
+  "label": "flag",
+  "why": "Contini Bonacossi sold June 1935 to Kress"
+ },
+ {
+  "id": "72164",
+  "same": "no",
+  "war": "no",
+  "role": "perpetrator",
+  "label": "no_flag",
+  "why": "E. Heinz of IG Farben is not H. John Heinz III; 1983"
+ },
+ {
+  "id": "1117",
+  "same": "yes",
+  "war": "yes",
+  "role": "firm",
+  "label": "flag",
+  "why": "Knoedler brokered Clarke sale 1936; Phillips Company is unrelated"
+ },
+ {
+  "id": "52161",
+  "same": "yes",
+  "war": "yes",
+  "role": "firm",
+  "label": "flag",
+  "why": "Durand-Ruel until November 1935; Knoedler 1937-1942"
+ }
+]

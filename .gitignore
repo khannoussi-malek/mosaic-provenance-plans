@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+demo/.fresh/
+phase0/data/nga/
+phase0/data/aic/
+phase0/pz_spike/.venv/

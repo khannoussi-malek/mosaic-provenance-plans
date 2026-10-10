@@ -1,0 +1,611 @@
+[
+ {
+  "id": "139276",
+  "stratum": "p0_miss",
+  "reason": "span not in text",
+  "check_after": "span not in text",
+  "model_kept": "qwen2.5:14b",
+  "tp": [
+   3,
+   2
+  ],
+  "fp": [
+   9,
+   7
+  ],
+  "fn": [
+   1,
+   2
+  ],
+  "unsupported": [
+   2,
+   1
+  ],
+  "verdict": [
+   "not flagged",
+   "not flagged"
+  ],
+  "silver": "flagged",
+  "p1_events": 14
+ },
+ {
+  "id": "46090",
+  "stratum": "redflag_fullname",
+  "reason": "error or empty",
+  "check_after": null,
+  "model_kept": "qwen2.5:14b",
+  "tp": [
+   0,
+   9
+  ],
+  "fp": [
+   0,
+   4
+  ],
+  "fn": [
+   12,
+   3
+  ],
+  "unsupported": [
+   0,
+   0
+  ],
+  "verdict": [
+   "not flagged",
+   "not flagged"
+  ],
+  "silver": "flagged",
+  "p1_events": 0
+ },
+ {
+  "id": "1609",
+  "stratum": "redflag_fullname",
+  "reason": "span not in text",
+  "check_after": null,
+  "model_kept": "qwen2.5:14b",
+  "tp": [
+   1,
+   1
+  ],
+  "fp": [
+   6,
+   7
+  ],
+  "fn": [
+   0,
+   0
+  ],
+  "unsupported": [
+   1,
+   0
+  ],
+  "verdict": [
+   "not flagged",
+   "not flagged"
+  ],
+  "silver": "not flagged",
+  "p1_events": 8
+ },
+ {
+  "id": "46681",
+  "stratum": "redflag_fullname",
+  "reason": "error or empty",
+  "check_after": "span not in text",
+  "model_kept": "qwen2.5:14b",
+  "tp": [
+   0,
+   10
+  ],
+  "fp": [
+   0,
+   2
+  ],
+  "fn": [
+   11,
+   1
+  ],
+  "unsupported": [
+   0,
+   1
+  ],
+  "verdict": [
+   "not flagged",
+   "not flagged"
+  ],
+  "silver": "flagged",
+  "p1_events": 0
+ },
+ {
+  "id": "61248",
+  "stratum": "redflag_fullname",
+  "reason": "no dated 1933-45 event",
+  "check_after": "span not in text",
+  "model_kept": "qwen2.5:14b",
+  "tp": [
+   7,
+   7
+  ],
+  "fp": [
+   2,
+   1
+  ],
+  "fn": [
+   0,
+   0
+  ],
+  "unsupported": [
+   0,
+   1
+  ],
+  "verdict": [
+   "not flagged",
+   "not flagged"
+  ],
+  "silver": "not flagged",
+  "p1_events": 9
+ },
+ {
+  "id": "46163",
+  "stratum": "redflag_fullname",
+  "reason": "no dated 1933-45 event",
+  "check_after": "no dated 1933-45 event",
+  "model_kept": "qwen2.5:14b",
+  "tp": [
+   5,
+   5
+  ],
+  "fp": [
+   2,
+   2
+  ],
+  "fn": [
+   0,
+   0
+  ],
+  "unsupported": [
+   0,
+   0
+  ],
+  "verdict": [
+   "flagged",
+   "flagged"
+  ],
+  "silver": "not flagged",
+  "p1_events": 7
+ },
+ {
+  "id": "95",
+  "stratum": "redflag_fullname",
+  "reason": "span not in text",
+  "check_after": null,
+  "model_kept": "qwen2.5:14b",
+  "tp": [
+   8,
+   9
+  ],
+  "fp": [
+   2,
+   2
+  ],
+  "fn": [
+   2,
+   1
+  ],
+  "unsupported": [
+   1,
+   0
+  ],
+  "verdict": [
+   "not flagged",
+   "not flagged"
+  ],
+  "silver": "not flagged",
+  "p1_events": 11
+ },
+ {
+  "id": "69390",
+  "stratum": "footnote",
+  "reason": "no dated 1933-45 event",
+  "check_after": "no dated 1933-45 event",
+  "model_kept": "qwen2.5:14b",
+  "tp": [
+   11,
+   11
+  ],
+  "fp": [
+   4,
+   3
+  ],
+  "fn": [
+   1,
+   1
+  ],
+  "unsupported": [
+   0,
+   0
+  ],
+  "verdict": [
+   "not flagged",
+   "not flagged"
+  ],
+  "silver": "not flagged",
+  "p1_events": 15
+ },
+ {
+  "id": "1184",
+  "stratum": "footnote",
+  "reason": "span not in text",
+  "check_after": "span not in text",
+  "model_kept": "qwen2.5:14b",
+  "tp": [
+   10,
+   10
+  ],
+  "fp": [
+   1,
+   1
+  ],
+  "fn": [
+   1,
+   1
+  ],
+  "unsupported": [
+   1,
+   1
+  ],
+  "verdict": [
+   "not flagged",
+   "not flagged"
+  ],
+  "silver": "not flagged",
+  "p1_events": 12
+ },
+ {
+  "id": "126155",
+  "stratum": "footnote",
+  "reason": "no dated 1933-45 event",
+  "check_after": "no dated 1933-45 event",
+  "model_kept": "qwen2.5:14b",
+  "tp": [
+   3,
+   3
+  ],
+  "fp": [
+   6,
+   6
+  ],
+  "fn": [
+   0,
+   0
+  ],
+  "unsupported": [
+   0,
+   0
+  ],
+  "verdict": [
+   "not flagged",
+   "not flagged"
+  ],
+  "silver": "not flagged",
+  "p1_events": 9
+ },
+ {
+  "id": "34047",
+  "stratum": "footnote",
+  "reason": "no dated 1933-45 event",
+  "check_after": null,
+  "model_kept": "qwen2.5:14b",
+  "tp": [
+   4,
+   4
+  ],
+  "fp": [
+   2,
+   2
+  ],
+  "fn": [
+   1,
+   1
+  ],
+  "unsupported": [
+   0,
+   0
+  ],
+  "verdict": [
+   "not flagged",
+   "not flagged"
+  ],
+  "silver": "not flagged",
+  "p1_events": 6
+ },
+ {
+  "id": "61369",
+  "stratum": "vague_date",
+  "reason": "span not in text",
+  "check_after": "no dated 1933-45 event",
+  "model_kept": "qwen2.5:14b",
+  "tp": [
+   6,
+   7
+  ],
+  "fp": [
+   2,
+   0
+  ],
+  "fn": [
+   2,
+   1
+  ],
+  "unsupported": [
+   2,
+   0
+  ],
+  "verdict": [
+   "not flagged",
+   "not flagged"
+  ],
+  "silver": "flagged",
+  "p1_events": 10
+ },
+ {
+  "id": "52183",
+  "stratum": "random",
+  "reason": "no dated 1933-45 event",
+  "check_after": "no dated 1933-45 event",
+  "model_kept": "qwen2.5:14b",
+  "tp": [
+   3,
+   3
+  ],
+  "fp": [
+   3,
+   2
+  ],
+  "fn": [
+   0,
+   0
+  ],
+  "unsupported": [
+   0,
+   0
+  ],
+  "verdict": [
+   "flagged",
+   "flagged"
+  ],
+  "silver": "not flagged",
+  "p1_events": 6
+ },
+ {
+  "id": "72164",
+  "stratum": "random",
+  "reason": "no dated 1933-45 event",
+  "check_after": "no dated 1933-45 event",
+  "model_kept": "qwen2.5:14b",
+  "tp": [
+   3,
+   3
+  ],
+  "fp": [
+   4,
+   3
+  ],
+  "fn": [
+   2,
+   2
+  ],
+  "unsupported": [
+   0,
+   0
+  ],
+  "verdict": [
+   "not flagged",
+   "not flagged"
+  ],
+  "silver": "not flagged",
+  "p1_events": 7
+ },
+ {
+  "id": "139202",
+  "stratum": "random",
+  "reason": "span not in text",
+  "check_after": "span not in text",
+  "model_kept": "qwen2.5:14b",
+  "tp": [
+   3,
+   4
+  ],
+  "fp": [
+   5,
+   3
+  ],
+  "fn": [
+   3,
+   2
+  ],
+  "unsupported": [
+   1,
+   1
+  ],
+  "verdict": [
+   "not flagged",
+   "not flagged"
+  ],
+  "silver": "not flagged",
+  "p1_events": 9
+ },
+ {
+  "id": "1216",
+  "stratum": "random",
+  "reason": "span not in text",
+  "check_after": null,
+  "model_kept": "qwen2.5:14b",
+  "tp": [
+   7,
+   8
+  ],
+  "fp": [
+   1,
+   1
+  ],
+  "fn": [
+   1,
+   0
+  ],
+  "unsupported": [
+   1,
+   0
+  ],
+  "verdict": [
+   "not flagged",
+   "not flagged"
+  ],
+  "silver": "not flagged",
+  "p1_events": 9
+ },
+ {
+  "id": "11642",
+  "stratum": "random",
+  "reason": "no dated 1933-45 event",
+  "check_after": null,
+  "model_kept": "qwen2.5:14b",
+  "tp": [
+   1,
+   1
+  ],
+  "fp": [
+   1,
+   2
+  ],
+  "fn": [
+   1,
+   1
+  ],
+  "unsupported": [
+   0,
+   0
+  ],
+  "verdict": [
+   "not flagged",
+   "not flagged"
+  ],
+  "silver": "not flagged",
+  "p1_events": 2
+ },
+ {
+  "id": "46083",
+  "stratum": "random",
+  "reason": "no dated 1933-45 event",
+  "check_after": "no dated 1933-45 event",
+  "model_kept": "qwen2.5:14b",
+  "tp": [
+   4,
+   4
+  ],
+  "fp": [
+   1,
+   1
+  ],
+  "fn": [
+   0,
+   0
+  ],
+  "unsupported": [
+   0,
+   0
+  ],
+  "verdict": [
+   "not flagged",
+   "not flagged"
+  ],
+  "silver": "not flagged",
+  "p1_events": 5
+ },
+ {
+  "id": "130843",
+  "stratum": "random",
+  "reason": "no dated 1933-45 event",
+  "check_after": null,
+  "model_kept": "qwen2.5:14b",
+  "tp": [
+   1,
+   1
+  ],
+  "fp": [
+   6,
+   5
+  ],
+  "fn": [
+   0,
+   0
+  ],
+  "unsupported": [
+   0,
+   0
+  ],
+  "verdict": [
+   "not flagged",
+   "not flagged"
+  ],
+  "silver": "not flagged",
+  "p1_events": 7
+ },
+ {
+  "id": "46517",
+  "stratum": "random",
+  "reason": "no dated 1933-45 event",
+  "check_after": "no dated 1933-45 event",
+  "model_kept": "qwen2.5:14b",
+  "tp": [
+   4,
+   4
+  ],
+  "fp": [
+   1,
+   1
+  ],
+  "fn": [
+   0,
+   0
+  ],
+  "unsupported": [
+   0,
+   0
+  ],
+  "verdict": [
+   "not flagged",
+   "not flagged"
+  ],
+  "silver": "not flagged",
+  "p1_events": 5
+ },
+ {
+  "id": "52161",
+  "stratum": "random",
+  "reason": "span not in text",
+  "check_after": "span not in text",
+  "model_kept": "qwen2.5:14b",
+  "tp": [
+   5,
+   6
+  ],
+  "fp": [
+   2,
+   3
+  ],
+  "fn": [
+   3,
+   2
+  ],
+  "unsupported": [
+   2,
+   1
+  ],
+  "verdict": [
+   "not flagged",
+   "not flagged"
+  ],
+  "silver": "not flagged",
+  "p1_events": 9
+ }
+]

@@ -1,0 +1,824 @@
+[
+ {
+  "id": "229508",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "52199",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "143662",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "73852",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "53128",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "139276",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "3199",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "422",
+  "base_verdict": "flagged",
+  "verdict": "flagged",
+  "same": "yes",
+  "role": "perpetrator",
+  "seconds": 3.418069958,
+  "why": "Fascist Party member and art dealer linked to Nazi-era looting"
+ },
+ {
+  "id": "73398",
+  "base_verdict": "flagged",
+  "verdict": "flagged",
+  "same": "yes",
+  "role": "perpetrator",
+  "seconds": 3.533261417,
+  "why": "Both linked to Nazi art looting and Gutmann collection purchase"
+ },
+ {
+  "id": "297",
+  "base_verdict": "flagged",
+  "verdict": "flagged",
+  "same": "yes",
+  "role": "perpetrator",
+  "seconds": 2.1653395,
+  "why": "Fascist Party member and art dealer linked to looting"
+ },
+ {
+  "id": "51136",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "73851",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "46246",
+  "base_verdict": "flagged",
+  "verdict": "flagged",
+  "same": "yes",
+  "role": "perpetrator",
+  "seconds": 2.187544375,
+  "why": "Fascist-linked dealer with Nazi-era art dealings"
+ },
+ {
+  "id": "277",
+  "base_verdict": "flagged",
+  "verdict": "flagged",
+  "same": "yes",
+  "role": "perpetrator",
+  "seconds": 2.168046541,
+  "why": "Fascist-linked dealer with Nazi-era art dealings"
+ },
+ {
+  "id": "46286",
+  "base_verdict": "flagged",
+  "verdict": "flagged",
+  "same": "yes",
+  "role": "perpetrator",
+  "seconds": 2.187544375,
+  "why": "Fascist-linked dealer with Nazi-era art dealings"
+ },
+ {
+  "id": "46090",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "182",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "172",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "285",
+  "base_verdict": "flagged",
+  "verdict": "flagged",
+  "same": "yes",
+  "role": "perpetrator",
+  "seconds": 2.044735667,
+  "why": "Fascist-linked dealer with Nazi-era art dealings"
+ },
+ {
+  "id": "1609",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "11589",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "46224",
+  "base_verdict": "flagged",
+  "verdict": "flagged",
+  "same": "yes",
+  "role": "perpetrator",
+  "seconds": 2.187544375,
+  "why": "Fascist-linked dealer with Nazi-era art dealings"
+ },
+ {
+  "id": "46488",
+  "base_verdict": "flagged",
+  "verdict": "flagged",
+  "same": "yes",
+  "role": "perpetrator",
+  "seconds": 1.779013667,
+  "why": "linked to Nazi-era art looting via Schenker documents"
+ },
+ {
+  "id": "165",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "46258",
+  "base_verdict": "flagged",
+  "verdict": "flagged",
+  "same": "yes",
+  "role": "perpetrator",
+  "seconds": 2.187544375,
+  "why": "Fascist-linked dealer with Nazi-era art dealings"
+ },
+ {
+  "id": "1262",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "66424",
+  "base_verdict": "flagged",
+  "verdict": "not flagged",
+  "same": "no",
+  "role": "perpetrator",
+  "seconds": 3.0872915,
+  "why": "Rochlitz and Wendland linked to Nazi-era art looting"
+ },
+ {
+  "id": "46681",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "61248",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "46081",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "3155",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "46163",
+  "base_verdict": "flagged",
+  "verdict": "flagged",
+  "same": "yes",
+  "role": "perpetrator",
+  "seconds": 1.993358084,
+  "why": "Haberstock is a Nazi art dealer linked to looting"
+ },
+ {
+  "id": "46285",
+  "base_verdict": "flagged",
+  "verdict": "flagged",
+  "same": "yes",
+  "role": "perpetrator",
+  "seconds": 2.247242084,
+  "why": "Fascist-linked dealer with Nazi-era art looting ties"
+ },
+ {
+  "id": "32679",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "139213",
+  "base_verdict": "flagged",
+  "verdict": "flagged",
+  "same": "yes",
+  "role": "other",
+  "seconds": 1.927413375,
+  "why": "refugee dealer with legal disputes over art"
+ },
+ {
+  "id": "95",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "119837",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "176613",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "1192",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "69390",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "41708",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "34056",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "3965",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "1184",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "1512",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "126155",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "34047",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "563",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "470",
+  "base_verdict": "flagged",
+  "verdict": "flagged",
+  "same": "yes",
+  "role": "perpetrator",
+  "seconds": 2.12578525,
+  "why": "Fascist Party member and art dealer linked to looting"
+ },
+ {
+  "id": "34659",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "497",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "34105",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "34068",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "47182",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "3773",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "176624",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "111",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "61369",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "43028",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "46207",
+  "base_verdict": "flagged",
+  "verdict": "flagged",
+  "same": "yes",
+  "role": "perpetrator",
+  "seconds": 1.994013125,
+  "why": "Fascist-linked dealer with Nazi-era art dealings"
+ },
+ {
+  "id": "895",
+  "base_verdict": "flagged",
+  "verdict": "flagged",
+  "same": "yes",
+  "role": "perpetrator",
+  "seconds": 2.366177375,
+  "why": "Bignou linked to German buyers, Drouot operated under occupation"
+ },
+ {
+  "id": "195291",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "38570",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "309",
+  "base_verdict": "flagged",
+  "verdict": "flagged",
+  "same": "yes",
+  "role": "perpetrator",
+  "seconds": 1.919692958,
+  "why": "Fascist Party member and art dealer linked to looting"
+ },
+ {
+  "id": "46223",
+  "base_verdict": "flagged",
+  "verdict": "flagged",
+  "same": "yes",
+  "role": "perpetrator",
+  "seconds": 2.199039667,
+  "why": "Fascist-linked art dealer with Nazi connections"
+ },
+ {
+  "id": "12111",
+  "base_verdict": "flagged",
+  "verdict": "flagged",
+  "same": "yes",
+  "role": "perpetrator",
+  "seconds": 2.464755542,
+  "why": "Linked to Fascist Party and art looting activities"
+ },
+ {
+  "id": "119049",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "47120",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "46682",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "157925",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "136751",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "9948",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "41639",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "3318",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "52183",
+  "base_verdict": "flagged",
+  "verdict": "flagged",
+  "same": "yes",
+  "role": "perpetrator",
+  "seconds": 1.651128042,
+  "why": "listed as Nazi-linked auction house during occupation"
+ },
+ {
+  "id": "1008",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "440",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "46273",
+  "base_verdict": "flagged",
+  "verdict": "flagged",
+  "same": "yes",
+  "role": "perpetrator",
+  "seconds": 1.994013125,
+  "why": "Fascist-linked dealer with Nazi-era art dealings"
+ },
+ {
+  "id": "3748",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "72164",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "6611",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "1117",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "139202",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "3783",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "141337",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "1216",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "10566",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "6037",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "11642",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "46083",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "130843",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "9965",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "1735",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "10012",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "9904",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "3592",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "46517",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "4640",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "52161",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ },
+ {
+  "id": "195943",
+  "base_verdict": "not flagged",
+  "verdict": "not flagged",
+  "same": null,
+  "role": null,
+  "seconds": 0.0
+ }
+]

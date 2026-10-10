@@ -1,0 +1,12 @@
+@page { size: A4; margin: 18mm 17mm; }
+body { font-family: "Source Serif 4", Georgia, "Times New Roman", serif; font-size: 10.5pt; line-height: 1.38; color: #111; max-width: none; margin: 0; padding: 0; }
+h1 { font-family: Helvetica, Arial, sans-serif; font-size: 17pt; margin: 0 0 4pt; line-height: 1.15; }
+h2 { font-family: Helvetica, Arial, sans-serif; font-size: 12pt; margin: 11pt 0 4pt; }
+p, li { margin: 0 0 5pt; }
+blockquote { margin: 5pt 0; padding-left: 9pt; border-left: 2.5pt solid #2a5d78; font-style: italic; }
+table { border-collapse: collapse; width: 100%; font-size: 9pt; margin: 4pt 0 6pt; }
+th, td { border-bottom: 0.5pt solid #bbb; padding: 2.5pt 5pt; text-align: left; vertical-align: top; }
+th { font-family: Helvetica, Arial, sans-serif; font-weight: 600; }
+img { width: 90%; margin: 4pt auto; display: block; }
+code { font-size: 8.8pt; }
+h2#references + p { font-size: 9pt; line-height: 1.3; }

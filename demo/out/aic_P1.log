@@ -1,0 +1,21 @@
+qwen3:8b 16963: 6 events, 6/6 spans ok, 46.1s, out_tok=675, err=None
+qwen3:8b 12526: 8 events, 7/8 spans ok, 43.7s, out_tok=719, err=None
+qwen3:8b 46248: 7 events, 7/7 spans ok, 37.4s, out_tok=685, err=None
+qwen3:8b 42949: 8 events, 8/8 spans ok, 41.7s, out_tok=680, err=None
+qwen3:8b 27350: 7 events, 7/7 spans ok, 32.3s, out_tok=680, err=None
+qwen3:8b 20601: 6 events, 6/6 spans ok, 25.3s, out_tok=498, err=None
+qwen3:8b 16600: 6 events, 6/6 spans ok, 42.6s, out_tok=644, err=None
+qwen3:8b 243810: 14 events, 14/14 spans ok, 79.3s, out_tok=1254, err=None
+qwen3:8b 16405: 8 events, 8/8 spans ok, 51.4s, out_tok=740, err=None
+qwen3:8b 100264: 9 events, 9/9 spans ok, 67.6s, out_tok=1025, err=None
+qwen3:8b 6398: 4 events, 4/4 spans ok, 21.1s, out_tok=319, err=None
+qwen3:8b 6238: 3 events, 3/3 spans ok, 17.9s, out_tok=265, err=None
+qwen3:8b 15860: 5 events, 4/5 spans ok, 32.7s, out_tok=581, err=None
+qwen3:8b 23333: 12 events, 12/12 spans ok, 55.3s, out_tok=942, err=None
+qwen3:8b 24361: 5 events, 5/5 spans ok, 27.8s, out_tok=474, err=None
+qwen3:8b 74793: 3 events, 3/3 spans ok, 28.0s, out_tok=412, err=None
+qwen3:8b 85663: 2 events, 2/2 spans ok, 14.6s, out_tok=234, err=None
+qwen3:8b 5513: 3 events, 3/3 spans ok, 22.7s, out_tok=402, err=None
+qwen3:8b 81788: 7 events, 6/7 spans ok, 42.5s, out_tok=719, err=None
+qwen3:8b 22186: 4 events, 4/4 spans ok, 21.5s, out_tok=339, err=None
+TOTAL qwen3:8b: 752.6s wall for 20 docs
