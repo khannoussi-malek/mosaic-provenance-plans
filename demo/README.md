@@ -79,12 +79,14 @@ python3 ask_graph.py "From whom did Samuel H. Kress buy paintings?"
   lookups (prices, painters, general knowledge) get "OUT OF SCOPE" instead of a guess. "Was X a Nazi?" is answered
   only with the 1946 list's own note on X, in full, and X's listed holdings, never with a verdict. If no entry
   matches, the answer shows same-surname entries as unconfirmed candidates and says that this is not proof of absence.
-- **Tests:** `test_graph.py` (38 tests, 7 of them live with Ollama).
+- **Tests:** `test_graph.py` (39 tests, 7 of them live with Ollama). `question_bank.py` asks 31 plain-language
+  questions (paraphrases, typos and accents, periods, listed and unlisted people, questions outside the data, a
+  prompt injection) and checks each answer against an expectation written before the run: 31/31.
 
 ## Tests
 
 ```bash
-python3 -m unittest -v      # from demo/: 103 tests, about 20 s, no model needed
+python3 -m unittest -v      # from demo/: 104 tests, about 20 s, no model needed
 ```
 
 - `test_logic.py`: the rules every number rests on (name matching, holding periods, scoring, JSON checks, escalation).

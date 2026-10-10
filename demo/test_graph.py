@@ -73,6 +73,13 @@ class Answers(unittest.TestCase):
         self.assertFalse(ag.overlaps(held(1946, None), [1933, 1945]))
         self.assertFalse(ag.overlaps(held(None, None), [1933, 1945]))
 
+    def test_undated_wartime_holders_are_not_hidden_by_a_period(self):
+        out = "\n".join(ag.answer(GRAPH, spec("history", artwork="Still Life with Sleeping Woman", period=[1933, 1945])))
+        self.assertIn("Gustav Rochlitz", out)  # undated, between Goering (1941) and the next dated step (1951)
+        self.assertIn("Hermann Goering (confiscating agency, 1941–?)", out)  # not "until 1951": he traded it to Rochlitz
+        self.assertTrue(ag.overlaps({"year": None, "since": 1941, "until": 1951}, [1933, 1945]))
+        self.assertFalse(ag.overlaps({"year": None, "since": 1950, "until": 1960}, [1933, 1945]))
+
     def test_quote_that_does_not_name_its_owner_is_marked(self):
         h = {"owner": "Dino", "as_written": "Dino", "role": "collector", "year": 1907, "until": None, "quote": "Paris, by 1907"}
         self.assertIn("the quote does not name this owner", ag.line(GRAPH, h))

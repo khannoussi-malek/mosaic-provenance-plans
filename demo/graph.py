@@ -45,6 +45,7 @@ def build(docs, results, aliases, keys, rx):
             o["red_flag"] = sorted(set(o["red_flag"]) | s.match(s.forward(e["owner"]), rx, keys, tier="fullname"))
             holdings.append({"artwork": d["id"], "owner": canon, "as_written": e["owner"], "order": i,
                              "role": e["role"], "date": e.get("date"), "year": years[i],
+                             "since": next((y for y in reversed(years[:i]) if y is not None), None),  # last date before
                              "until": next((y for y in years[i + 1:] if y is not None), None),
                              "quote": e["source_span"], "joint": bool(e.get("joint")), "hedge": e.get("hedge")})
     artworks = {d["id"]: {"title": d["title"], "artist": d.get("artist")} for d in docs}

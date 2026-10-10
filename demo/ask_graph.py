@@ -132,8 +132,9 @@ def red_flag_steps(graph, artwork, years):
 def overlaps(h, period):
     if not period:
         return True
-    # same reading as score.holding_status: a dated holding with no later dated step is open-ended
-    lo = h["year"] if h["year"] is not None else h["until"]
+    # a dated holding with no later dated step is open-ended; an undated one lies between the dated steps around it
+    # (Rochlitz, undated, between Goering 1941 and 1951), so a period question shows it instead of hiding it
+    lo = h["year"] if h["year"] is not None else h.get("since") if h.get("since") is not None else h["until"]
     hi = h["until"] if h["until"] is not None else (9999 if h["year"] is not None else None)
     return lo is not None and lo <= period[1] and hi >= period[0]
 
@@ -143,7 +144,9 @@ def acquired_in(h, period):
 
 
 def line(graph, h):
-    span = f"{h['year'] or '?'}–{h['until'] or '?'}"
+    nxt = next((x for x in steps(graph, h["artwork"]) if x["order"] == h["order"] + 1), None) if "artwork" in h else None
+    end = h["until"] if nxt is None or nxt["year"] is not None else None  # next holder undated: the end is unknown
+    span = f"{h['year'] or '?'}–{end or '?'}"
     flag = "  [RED FLAG LIST]" if s.match(s.forward(h["owner"]), RX, KEYS, tier="fullname") else ""  # same test as red_flag_steps
     weak = "" if s.tokens(h["as_written"]) & s.tokens(h["quote"]) else "  (the quote does not name this owner)"
     hedge = f"[{h['hedge']}] " if h.get("hedge") else ""
